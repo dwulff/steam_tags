@@ -1,0 +1,2828 @@
+<html lang="en" class="dark-mode"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Tags · Dungeons &amp; Dragons · SteamDB</title>
+<link rel="stylesheet" integrity="sha512-tta00Bk2HL1Hx60SdWe0C4WKi1cVP3EZeDJczFX0HjST5wFfnxmbGUNSPPG9PGwJ2kWQmoeTUkOnoakeQc1qNw==" href="/static/css/headcrab.css?v=b6d6b4d019361cbd">
+<link rel="alternate" type="application/rss+xml" title="SteamDB Blog" href="https://steamdb.info/api/BlogRSS/">
+<link rel="canonical" href="https://steamdb.info/tag/14153/">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@SteamDB">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SteamDB">
+<meta property="og:title" content="User Tags · Dungeons &amp; Dragons">
+<meta name="description" content="A list of products on Steam: Dungeons &amp; Dragons">
+<meta property="og:description" content="A list of products on Steam: Dungeons &amp; Dragons">
+<meta property="og:image" content="https://steamdb.info/static/logos/512px.png">
+<link rel="image_src" href="https://steamdb.info/static/logos/512px.png">
+<meta name="theme-color" content="#000000">
+<meta name="application-name" content="SteamDB">
+<meta name="apple-mobile-web-app-title" content="SteamDB">
+<link rel="manifest" href="/steamdb.webmanifest">
+<link rel="icon" type="image/png" href="/static/logos/32px.png">
+<link rel="icon" type="image/svg+xml" href="/static/logos/vector_prefers_schema.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/logos/512px_maskable.png">
+<link rel="mask-icon" href="/static/logos/vector_16px.svg" color="#000000">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="SteamDB">
+<link rel="preconnect" href="https://cdn.cloudflare.steamstatic.com/">
+</head>
+<body class="page-tags" itemscope="" itemtype="http://schema.org/WebSite" data-steam-cdn="https://cdn.cloudflare.steamstatic.com/">
+<a class="skip-main" href="#main" id="js-skip-main">Skip to content</a>
+<div class="footer-wrap">
+<div class="body-content">
+<div class="global-announcement" role="banner">
+<style>
+.global-announcement {
+    color: #66c0f4;
+    background-color: #111;
+    text-align:center;
+}
+
+.global-announcement a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.global-announcement a:hover {
+    text-decoration: underline;
+}
+
+.page-tokendumper .global-announcement {
+    display: none;
+}
+
+@media (max-width: 980px) {
+    .global-announcement {
+        display: none;
+    }
+}
+</style>
+<div class="container">
+<svg class="octicon" style="width:25px;height:20px;margin-left:5px;margin-right:14px" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M436 17.5c-30.8-26.7-76.7-21.9-104.9 7.7L320 36.9l-11.1-11.6C280.7-4.4 234.8-9.2 204 17.5c-35.3 30.6-37.2 85.6-5.6 118.8l108.9 114.2c7 7.4 18.4 7.4 25.5 0l108.9-114.2c31.5-33.2 29.7-88.2-5.7-118.8zM204.8 230.4c-10.6-14.1-30.7-17-44.8-6.4-14.1 10.6-17 30.7-6.4 44.8l38.1 50.8c4.8 6.4 4.1 15.3-1.5 20.9l-12.8 12.8c-6.7 6.7-17.6 6.2-23.6-1.1L64 244.4V96c0-17.7-14.3-32-32-32S0 78.3 0 96v218.4c0 10.9 3.7 21.5 10.5 30l104.1 134.3c5 6.5 8.4 13.9 10.4 21.7 1.8 6.9 8.1 11.6 15.3 11.6H272c8.8 0 16-7.2 16-16V384c0-27.7-9-54.6-25.6-76.8l-57.6-76.8zM608 64c-17.7 0-32 14.3-32 32v148.4l-89.8 107.8c-6 7.2-17 7.7-23.6 1.1l-12.8-12.8c-5.6-5.6-6.3-14.5-1.5-20.9l38.1-50.8c10.6-14.1 7.7-34.2-6.4-44.8-14.1-10.6-34.2-7.7-44.8 6.4l-57.6 76.8C361 329.4 352 356.3 352 384v112c0 8.8 7.2 16 16 16h131.7c7.1 0 13.5-4.7 15.3-11.6 2-7.8 5.4-15.2 10.4-21.7l104.1-134.3c6.8-8.5 10.5-19.1 10.5-30V96c0-17.7-14.3-32-32-32z"></path></svg><a href="/tokendumper/"><i>Contribute to SteamDB:</i> Use our token dumper program to help us track hidden games</a>
+</div>
+</div>
+<div class="header" role="banner">
+<div class="container">
+<ul class="header-navbar">
+<li class="header-brand mobile-visible"><a href="/" itemprop="url" aria-label="Homepage"><svg version="1.1" width="30" height="30" viewBox="0 0 128 128" class="octicon octicon-steamdb" aria-hidden="true"><path fill-rule="evenodd" d="M63.9 0C30.5 0 3.1 11.9.1 27.1l35.6 6.7c2.9-.9 6.2-1.3 9.6-1.3l16.7-10c-.2-2.5 1.3-5.1 4.7-7.2 4.8-3.1 12.3-4.8 19.9-4.8 5.2-.1 10.5.7 15 2.2 11.2 3.8 13.7 11.1 5.7 16.3-5.1 3.3-13.3 5-21.4 4.8l-22 7.9c-.2 1.6-1.3 3.1-3.4 4.5-5.9 3.8-17.4 4.7-25.6 1.9-3.6-1.2-6-3-7-4.8L2.5 38.4c2.3 3.6 6 6.9 10.8 9.8C5 53 0 59 0 65.5c0 6.4 4.8 12.3 12.9 17.1C4.8 87.3 0 93.2 0 99.6 0 115.3 28.6 128 64 128c35.3 0 64-12.7 64-28.4 0-6.4-4.8-12.3-12.9-17 8.1-4.8 12.9-10.7 12.9-17.1 0-6.5-5-12.6-13.4-17.4 8.3-5.1 13.3-11.4 13.3-18.2 0-16.5-28.7-29.9-64-29.9zm22.8 14.2c-5.2.1-10.2 1.2-13.4 3.3-5.5 3.6-3.8 8.5 3.8 11.1 7.6 2.6 18.1 1.8 23.6-1.8s3.8-8.5-3.8-11c-3.1-1-6.7-1.5-10.2-1.5zm.3 1.7c7.4 0 13.3 2.8 13.3 6.2 0 3.4-5.9 6.2-13.3 6.2s-13.3-2.8-13.3-6.2c0-3.4 5.9-6.2 13.3-6.2zM45.3 34.4c-1.6.1-3.1.2-4.6.4l9.1 1.7a10.8 5 0 1 1-8.1 9.3l-8.9-1.7c1 .9 2.4 1.7 4.3 2.4 6.4 2.2 15.4 1.5 20-1.5s3.2-7.2-3.2-9.3c-2.6-.9-5.7-1.3-8.6-1.3zM109 51v9.3c0 11-20.2 19.9-45 19.9-24.9 0-45-8.9-45-19.9v-9.2c11.5 5.3 27.4 8.6 44.9 8.6 17.6 0 33.6-3.3 45.2-8.7zm0 34.6v8.8c0 11-20.2 19.9-45 19.9-24.9 0-45-8.9-45-19.9v-8.8c11.6 5.1 27.4 8.2 45 8.2s33.5-3.1 45-8.2z"></path></svg></a></li>
+<li class="header-search mobile-visible">
+<form id="js-header-form" method="GET" action="/search/" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" role="search">
+<input type="hidden" name="a" value="app">
+<meta itemprop="target" content="https://steamdb.info/search/?a=app&amp;q={q}">
+<input type="search" class="field" id="js-header-search" name="q" placeholder="Search…" itemprop="query-input" aria-label="Search">
+<button type="submit" class="submit" aria-label="Perform search"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-search" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg></button>
+</form>
+</li>
+<li><a href="/sales/">Sales</a></li>
+<li><a href="/calculator/">Calculator</a></li>
+<li><a href="/patchnotes/">Patch notes</a></li>
+<li><a href="/graph/">Charts</a></li>
+<li><a href="/upcoming/">Upcoming</a></li>
+<li class="header-hamburger" id="js-header-hamburger" tabindex="0"><span>More</span><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-chevron-down" aria-hidden="true"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg></li>
+<li class="header-hamburger mobile-visible"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-three-bars" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg></li>
+<li class="header-user">
+<a class="header-login" href="/login/?page=tag%2F14153">
+<svg version="1.1" width="20" height="20" viewBox="0 0 16 16" class="octicon octicon-steam" aria-hidden="true"><path d="M8 0a8 8 0 00-8 7.47c.07.1.13.21.18.32l4.15 1.67a2.2 2.2 0 011.31-.36l1.97-2.8v-.04c0-1.65 1.37-3 3.05-3a3.03 3.03 0 013.05 3 3.03 3.03 0 01-3.12 3l-2.81 1.97c0 .3-.05.6-.17.9a2.25 2.25 0 01-4.23-.37L.4 10.56A8.01 8.01 0 108 0zm2.66 4.27c-1.12 0-2.03.9-2.03 2s.91 1.99 2.03 1.99c1.12 0 2.03-.9 2.03-2s-.9-2-2.03-2zm0 .5c.85 0 1.53.66 1.53 1.49s-.68 1.5-1.53 1.5c-.84 0-1.52-.67-1.52-1.5s.68-1.5 1.52-1.5zM5.57 9.6c-.22 0-.43.04-.62.11l1.02.42c.65.26.95.99.68 1.62-.27.63-1 .93-1.65.67l-1-.4a1.73 1.73 0 003.13-.08c.18-.42.18-.88.01-1.3A1.69 1.69 0 005.57 9.6z"></path></svg> <span>Sign in</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="header-search-suggestions">
+<div class="container" id="js-search-suggestions">
+<p>Start typing to see game suggestions. This only suggests apps that are available on the Steam store.</p>
+<p>Shortcuts:</p>
+<ul>
+<li>Enter an appid to be redirected to the app page.</li>
+<li>Enter a steamid (765...) to be redirected to calculator.</li>
+<li>Paste a profile link (/id/ or /profiles/) to be redirected to calculator.</li>
+<li>Paste any url that contains app/, sub/, bundle/, or /depot to be redirected to the relevant page.</li>
+</ul>
+<p>Click anywhere outside the search field to close this popup.</p>
+<p>Search suggestions are powered by Algolia instant search.</p>
+</div>
+</div>
+<div class="header-menu">
+<div class="container">
+<ul>
+<li><a href="/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-home" aria-hidden="true"><path fill-rule="evenodd" d="M8.156 1.835a.25.25 0 00-.312 0l-5.25 4.2a.25.25 0 00-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 01.75-.75h3.5a.75.75 0 01.75.75v5.25h2.75a.25.25 0 00.25-.25V6.23a.25.25 0 00-.094-.195l-5.25-4.2zM6.906.664a1.75 1.75 0 012.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0113.25 15h-3.5a.75.75 0 01-.75-.75V9H7v5.25a.75.75 0 01-.75.75h-3.5A1.75 1.75 0 011 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2h-.001z"></path></svg> Homepage</a></li>
+<li><a href="/blog/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-megaphone" aria-hidden="true"><g fill-rule="evenodd"><path d="M3.25 9a.75.75 0 01.75.75c0 2.142.456 3.828.733 4.653a.121.121 0 00.05.064.207.207 0 00.117.033h1.31c.085 0 .18-.042.258-.152a.448.448 0 00.075-.366A16.74 16.74 0 016 9.75a.75.75 0 011.5 0c0 1.588.25 2.926.494 3.85.293 1.113-.504 2.4-1.783 2.4H4.9c-.686 0-1.35-.41-1.589-1.12A16.42 16.42 0 012.5 9.75.75.75 0 013.25 9z"></path><path d="M0 6a4 4 0 014-4h2.75a.75.75 0 01.75.75v6.5a.75.75 0 01-.75.75H4a4 4 0 01-4-4zm4-2.5a2.5 2.5 0 000 5h2v-5H4z"></path><path d="M15.59.082A.75.75 0 0116 .75v10.5a.75.75 0 01-1.189.608l-.002-.001h.001l-.014-.01a5.829 5.829 0 00-.422-.25 10.58 10.58 0 00-1.469-.64C11.576 10.484 9.536 10 6.75 10a.75.75 0 110-1.5c2.964 0 5.174.516 6.658 1.043.423.151.787.302 1.092.443V2.014c-.305.14-.669.292-1.092.443C11.924 2.984 9.713 3.5 6.75 3.5a.75.75 0 110-1.5c2.786 0 4.826-.484 6.155-.957.665-.236 1.154-.47 1.47-.64a5.82 5.82 0 00.421-.25l.014-.01a.75.75 0 01.78-.061zm-.78.06zm.44 11.108l-.44.607.44-.607z"></path></g></svg> Blog</a></li>
+<li class="mobile-visible"><a href="/discord/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-comment-discussion" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"></path></svg> Discord</a></li>
+<li><a href="/faq/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-question" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004a7.728 7.728 0 00-.313.195 2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.863-1.725A2.76 2.76 0 008 4c-.631 0-1.155.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 101.342.67z"></path></svg> FAQ &amp; Help</a></li>
+<li class="mobile-visible"><a href="/sales/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-credit-card" aria-hidden="true"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"></path><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"></path></svg> Sales</a></li>
+<li class="mobile-visible"><a href="/calculator/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-smiley" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path></svg> Calculator</a></li>
+<li class="mobile-visible"><a href="/patchnotes/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-megaphone" aria-hidden="true"><g fill-rule="evenodd"><path d="M3.25 9a.75.75 0 01.75.75c0 2.142.456 3.828.733 4.653a.121.121 0 00.05.064.207.207 0 00.117.033h1.31c.085 0 .18-.042.258-.152a.448.448 0 00.075-.366A16.74 16.74 0 016 9.75a.75.75 0 011.5 0c0 1.588.25 2.926.494 3.85.293 1.113-.504 2.4-1.783 2.4H4.9c-.686 0-1.35-.41-1.589-1.12A16.42 16.42 0 012.5 9.75.75.75 0 013.25 9z"></path><path d="M0 6a4 4 0 014-4h2.75a.75.75 0 01.75.75v6.5a.75.75 0 01-.75.75H4a4 4 0 01-4-4zm4-2.5a2.5 2.5 0 000 5h2v-5H4z"></path><path d="M15.59.082A.75.75 0 0116 .75v10.5a.75.75 0 01-1.189.608l-.002-.001h.001l-.014-.01a5.829 5.829 0 00-.422-.25 10.58 10.58 0 00-1.469-.64C11.576 10.484 9.536 10 6.75 10a.75.75 0 110-1.5c2.964 0 5.174.516 6.658 1.043.423.151.787.302 1.092.443V2.014c-.305.14-.669.292-1.092.443C11.924 2.984 9.713 3.5 6.75 3.5a.75.75 0 110-1.5c2.786 0 4.826-.484 6.155-.957.665-.236 1.154-.47 1.47-.64a5.82 5.82 0 00.421-.25l.014-.01a.75.75 0 01.78-.061zm-.78.06zm.44 11.108l-.44.607.44-.607z"></path></g></svg> Patch notes</a></li>
+<li class="mobile-visible"><a href="/graph/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-pulse" aria-hidden="true"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"></path></svg> Charts</a></li>
+<li><a href="/donate/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-key" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 5.5a4 4 0 112.731 3.795.75.75 0 00-.768.18L7.44 10.5H6.25a.75.75 0 00-.75.75v1.19l-.06.06H4.25a.75.75 0 00-.75.75v1.19l-.06.06H1.75a.25.25 0 01-.25-.25v-1.69l5.024-5.023a.75.75 0 00.181-.768A3.995 3.995 0 016.5 5.5zm4-5.5a5.5 5.5 0 00-5.348 6.788L.22 11.72a.75.75 0 00-.22.53v2C0 15.216.784 16 1.75 16h2a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V14h.75a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V12h.75a.75.75 0 00.53-.22l.932-.932A5.5 5.5 0 1010.5 0zm.5 6a1 1 0 100-2 1 1 0 000 2z"></path></svg> Donate</a></li>
+<li><a href="/extension/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-desktop-download" aria-hidden="true"><path d="M4.927 5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z"></path><path d="M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z"></path></svg> Browser extension</a></li>
+</ul>
+<ul>
+<li><a href="/apps/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-list-ordered" aria-hidden="true"><path fill-rule="evenodd" d="M2.003 2.5a.5.5 0 00-.723-.447l-1.003.5a.5.5 0 00.446.895l.28-.14V6H.5a.5.5 0 000 1h2.006a.5.5 0 100-1h-.503V2.5zM5 3.25a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5A.75.75 0 015 3.25zm0 5a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5A.75.75 0 015 8.25zm0 5a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5a.75.75 0 01-.75-.75zM.924 10.32l.003-.004a.851.851 0 01.144-.153A.66.66 0 011.5 10c.195 0 .306.068.374.146a.57.57 0 01.128.376c0 .453-.269.682-.8 1.078l-.035.025C.692 11.98 0 12.495 0 13.5a.5.5 0 00.5.5h2.003a.5.5 0 000-1H1.146c.132-.197.351-.372.654-.597l.047-.035c.47-.35 1.156-.858 1.156-1.845 0-.365-.118-.744-.377-1.038-.268-.303-.658-.484-1.126-.484-.48 0-.84.202-1.068.392a1.858 1.858 0 00-.348.384l-.007.011-.002.004-.001.002-.001.001a.5.5 0 00.851.525zM.5 10.055l-.427-.26.427.26z"></path></svg> Apps</a></li>
+<li><a href="/subs/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-package" aria-hidden="true"><path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"></path></svg> Packages</a></li>
+<li><a href="/bundles/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-package-dependents" aria-hidden="true"><path fill-rule="evenodd" d="M6.122.392a1.75 1.75 0 011.756 0l5.25 3.045c.54.313.872.89.872 1.514V7.25a.75.75 0 01-1.5 0V5.677L7.75 8.432v6.384a1 1 0 01-1.502.865L.872 12.563A1.75 1.75 0 010 11.049V4.951c0-.624.332-1.2.872-1.514L6.122.392zM7.125 1.69l4.63 2.685L7 7.133 2.245 4.375l4.63-2.685a.25.25 0 01.25 0zM1.5 11.049V5.677l4.75 2.755v5.516l-4.625-2.683a.25.25 0 01-.125-.216zm10.828 3.684a.75.75 0 101.087 1.034l2.378-2.5a.75.75 0 000-1.034l-2.378-2.5a.75.75 0 00-1.087 1.034L13.501 12H10.25a.75.75 0 000 1.5h3.251l-1.173 1.233z"></path></svg> Bundles</a></li>
+<li><a href="/history/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-history" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg> History</a></li>
+<li><a href="/instantsearch/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-search" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg> Instant Search</a></li>
+</ul>
+<ul>
+<li><a href="/realtime/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-hubot" aria-hidden="true"><path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"></path></svg> Realtime Updates</a></li>
+<li><a href="/pricechanges/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-mirror" aria-hidden="true"><path fill-rule="evenodd" d="M8.75 1.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 4a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 4zm.75 3.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 10a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 10zm0 3a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 13zm7.547-9.939A.75.75 0 0116 3.75v8.5a.75.75 0 01-1.265.545l-4.5-4.25a.75.75 0 010-1.09l4.5-4.25a.75.75 0 01.812-.144zM11.842 8l2.658 2.51V5.49L11.842 8zM0 12.25a.75.75 0 001.265.545l4.5-4.25a.75.75 0 000-1.09l-4.5-4.25A.75.75 0 000 3.75v8.5zm1.5-6.76L4.158 8 1.5 10.51V5.49z"></path></svg> Price Tracking</a></li>
+<li><a href="/tags/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-tag" aria-hidden="true"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"></path></svg> Tags</a></li>
+<li><a href="/upcoming/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-calendar" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"></path></svg> Upcoming</a></li>
+<li><a href="/upcoming/free/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gift" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"></path></svg> Free Promotions</a></li>
+</ul>
+<ul>
+<li><a href="/stats/gameratings/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-graph" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg> Top Rated Games</a></li>
+<li><a href="/badge/13/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-play" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg> Top Game Owners</a></li>
+<li><a href="/stats/toplevels/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-people" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg> Top Steam Levels</a></li>
+<li><a href="/topsellers/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-credit-card" aria-hidden="true"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"></path><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"></path></svg> Top Selling Games</a></li>
+<li><a href="/badges/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-bookmark" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 2.5a.25.25 0 00-.25.25v9.91l3.023-2.489a.75.75 0 01.954 0l3.023 2.49V2.75a.25.25 0 00-.25-.25h-6.5zM3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 01-1.227.579L8 11.722l-3.773 3.107A.75.75 0 013 14.25V2.75z"></path></svg> Badges</a></li>
+</ul>
+<ul>
+<li><a href="https://steamstat.us/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-sun" aria-hidden="true"><path fill-rule="evenodd" d="M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z"></path></svg> Steam Status</a></li>
+<li><a href="https://steamapi.xpaw.me/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-telescope" aria-hidden="true"><path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"></path></svg> Steam Web API</a></li>
+<li><a href="/freepackages/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gift" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"></path></svg> Free Packages</a></li>
+<li><a href="/login/?page=tag%2F14153"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-sign-in" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm6.56 4.5l1.97-1.97a.75.75 0 10-1.06-1.06L6.22 7.47a.75.75 0 000 1.06l3.25 3.25a.75.75 0 101.06-1.06L8.56 8.75h5.69a.75.75 0 000-1.5H8.56z"></path></svg> Sign in via Steam</a></li>
+</ul>
+<div class="header-disclaimer">SteamDB is a community website and is not affiliated with Valve or Steam. All times on the site are UTC.</div>
+</div>
+</div>
+<div id="main"></div>
+</div>
+<script nonce="" integrity="sha512-hGcJcuL6BXVeXUyeC90nvFx3g+euit8wR/QIGdS4r3UoMK46n5IikBrRQL0fETRbEsECastd7OsT+h5tN9tVww==" src="/static/js/vendor/bugsnag.js?v=84670972e2fa0575"></script><script nonce="" integrity="sha512-aBdMa8moF9A6LNKorjVrElDmqrqpqUZDizoF72DBRmYHTma5CzowbcebIKEUdJ0niuFtNCWJVvzJw84o8BTemQ==" src="/static/js/global.js?v=68174c6bc9a817d0"></script>
+<style>
+@media (max-width: 980px) {
+.header-wrapper .container {
+flex-direction: column;
+margin-bottom: 20px;
+}
+}
+</style>
+<div class="header-wrapper">
+<div class="container d-flex">
+<h1 class="header-title flex-grow"><span class="muted"><a href="/tags/">Tags</a> »</span> Dungeons &amp; Dragons</h1>
+<a href="/sales/?tagid=14153" class="btn btn-primary" style="align-self:center">View sales with this tag</a>
+</div>
+</div>
+<div class="container">
+<div class="table-responsive">
+<div class="pre-table-title">Dungeons &amp; Dragons</div>
+<div id="table-apps_wrapper" class="dataTables_wrapper"><div class="row dataTable_display"><div class="span6"><div class="dataTables_length" id="table-apps_length"><label>Show <select name="table-apps_length" aria-controls="table-apps" class=""><option value="25">25</option><option value="50">50</option><option value="100">100</option><option value="250">250</option><option value="1000">1K</option><option value="5000">5K</option><option value="-1">All (slow)</option></select> entries</label></div></div><div class="span6"><div id="table-apps_filter" class="dataTables_filter"><label>Search:<input type="search" class="" placeholder="" aria-controls="table-apps"></label></div></div></div><table class="table-products text-center dataTable" id="table-apps" data-order="[[3,&quot;desc&quot;]]" role="grid" aria-describedby="table-apps_info">
+<thead>
+<tr role="row"><th style="width:119px" data-orderable="false" class="sorting_disabled" rowspan="1" colspan="1" aria-label=" "> </th><th class="text-left sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Name: activate to sort column ascending">Name</th><th style="width:100px" title="SteamDB Rating" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Rating: activate to sort column ascending">Rating</th><th style="width:100px" class="sorting sorting_desc" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-sort="descending" aria-label="Followers: activate to sort column ascending">Followers</th><th style="width:100px" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Online: activate to sort column ascending">Online</th><th style="width:100px" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Peak: activate to sort column ascending">Peak</th></tr>
+</thead>
+
+<tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="app" data-appid="1086940" data-cache="1618926085">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1618926085" alt="">
+</td>
+<td class="text-left"><a href="/app/1086940/">Baldur's Gate 3</a></td>
+<td data-sort="86.74">86.74%</td>
+<td data-sort="335218">335,218</td>
+<td data-sort="1144">1,144</td>
+<td data-sort="73980">73,980</td>
+</tr><tr class="app" data-appid="640820" data-cache="1617524476">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/640820/capsule_sm_120.jpg?t=1617524476" alt="">
+</td>
+<td class="text-left"><a href="/app/640820/">Pathfinder: Kingmaker - Enhanced Plus Edition</a></td>
+<td data-sort="77.16">77.16%</td>
+<td data-sort="105314">105,314</td>
+<td data-sort="1289">1,289</td>
+<td data-sort="22643">22,643</td>
+</tr><tr class="app" data-appid="109600" data-cache="1613516963">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/109600/capsule_sm_120.jpg?t=1613516963" alt="">
+</td>
+<td class="text-left"><a href="/app/109600/">Neverwinter</a></td>
+<td data-sort="76.62">76.62%</td>
+<td data-sort="103633">103,633</td>
+<td data-sort="1347">1,347</td>
+<td data-sort="14866">14,866</td>
+</tr><tr class="app" data-appid="1096530" data-cache="1618926685">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1096530/capsule_sm_120.jpg?t=1618926685" alt="">
+</td>
+<td class="text-left"><a href="/app/1096530/">Solasta: Crown of the Magister</a></td>
+<td data-sort="89.44">89.44%</td>
+<td data-sort="46034">46,034</td>
+<td data-sort="190">190</td>
+<td data-sort="2302">2,302</td>
+</tr><tr class="app" data-appid="257350" data-cache="1618855939">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/257350/capsule_sm_120.jpg?t=1618855939" alt="">
+</td>
+<td class="text-left"><a href="/app/257350/">Baldur's Gate II: Enhanced Edition</a></td>
+<td data-sort="87.56">87.56%</td>
+<td data-sort="37876">37,876</td>
+<td data-sort="387">387</td>
+<td data-sort="2644">2,644</td>
+</tr><tr class="app" data-appid="228280" data-cache="1618859594">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/228280/capsule_sm_120.jpg?t=1618859594" alt="">
+</td>
+<td class="text-left"><a href="/app/228280/">Baldur's Gate: Enhanced Edition</a></td>
+<td data-sort="88.15">88.15%</td>
+<td data-sort="37705">37,705</td>
+<td data-sort="461">461</td>
+<td data-sort="3756">3,756</td>
+</tr><tr class="app" data-appid="704450" data-cache="1619008110">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/704450/capsule_sm_120.jpg?t=1619008110" alt="">
+</td>
+<td class="text-left"><a href="/app/704450/">Neverwinter Nights: Enhanced Edition</a></td>
+<td data-sort="84.87">84.87%</td>
+<td data-sort="35197">35,197</td>
+<td data-sort="473">473</td>
+<td data-sort="2410">2,410</td>
+</tr><tr class="app" data-appid="252690" data-cache="1607964672">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/252690/capsule_sm_120.jpg?t=1607964672" alt="">
+</td>
+<td class="text-left"><a href="/app/252690/">Fantasy Grounds</a></td>
+<td data-sort="77.58">77.58%</td>
+<td data-sort="31180">31,180</td>
+<td data-sort="27">27</td>
+<td data-sort="991">991</td>
+</tr><tr class="app" data-appid="206480" data-cache="1618963882">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/206480/capsule_sm_120.jpg?t=1618963882" alt="">
+</td>
+<td class="text-left"><a href="/app/206480/">Dungeons &amp; Dragons Online®</a></td>
+<td data-sort="68.90">68.90%</td>
+<td data-sort="30924">30,924</td>
+<td data-sort="147">147</td>
+<td data-sort="2854">2,854</td>
+</tr><tr class="app" data-appid="466300" data-cache="1611332227">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/466300/capsule_sm_120.jpg?t=1611332227" alt="">
+</td>
+<td class="text-left"><a href="/app/466300/">Planescape: Torment: Enhanced Edition</a></td>
+<td data-sort="90.56">90.56%</td>
+<td data-sort="29838">29,838</td>
+<td data-sort="43">43</td>
+<td data-sort="955">955</td>
+</tr><tr class="app" data-appid="321800" data-cache="1618856689">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/321800/capsule_sm_120.jpg?t=1618856689" alt="">
+</td>
+<td class="text-left"><a href="/app/321800/">Icewind Dale: Enhanced Edition</a></td>
+<td data-sort="84.88">84.88%</td>
+<td data-sort="29411">29,411</td>
+<td data-sort="172">172</td>
+<td data-sort="856">856</td>
+</tr><tr class="app" data-appid="720620" data-cache="1618961994">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/720620/capsule_sm_120.jpg?t=1618961994" alt="">
+</td>
+<td class="text-left"><a href="/app/720620/">TaleSpire</a></td>
+<td data-sort="88.90">88.90%</td>
+<td data-sort="26517">26,517</td>
+<td data-sort="250">250</td>
+<td data-sort="1416">1,416</td>
+</tr><tr class="app" data-appid="1043390" data-cache="1617971221">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1043390/capsule_sm_120.jpg?t=1617971221" alt="">
+</td>
+<td class="text-left"><a href="/app/1043390/">FlowScape</a></td>
+<td data-sort="86.42">86.42%</td>
+<td data-sort="19075">19,075</td>
+<td data-sort="6">6</td>
+<td data-sort="338">338</td>
+</tr><tr class="app" data-appid="623280" data-cache="1618521803">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/623280/capsule_sm_120.jpg?t=1618521803" alt="">
+</td>
+<td class="text-left"><a href="/app/623280/">Dungeons &amp; Dragons: Dark Alliance</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="18319">18,319</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="576770" data-cache="1617530990">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/576770/capsule_sm_120.jpg?t=1617530990" alt="">
+</td>
+<td class="text-left"><a href="/app/576770/">Low Magic Age</a></td>
+<td data-sort="87.20">87.20%</td>
+<td data-sort="16694">16,694</td>
+<td data-sort="27">27</td>
+<td data-sort="212">212</td>
+</tr><tr class="app" data-appid="663380" data-cache="1616631217">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/663380/capsule_sm_120.jpg?t=1616631217" alt="">
+</td>
+<td class="text-left"><a href="/app/663380/">Tales from Candlekeep: Tomb of Annihilation</a></td>
+<td data-sort="69.09">69.09%</td>
+<td data-sort="14014">14,014</td>
+<td data-sort="2">2</td>
+<td data-sort="257">257</td>
+</tr><tr class="app" data-appid="627690" data-cache="1618272917">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/627690/capsule_sm_120.jpg?t=1618272917" alt="">
+</td>
+<td class="text-left"><a href="/app/627690/">Idle Champions of the Forgotten Realms</a></td>
+<td data-sort="80.62">80.62%</td>
+<td data-sort="13611">13,611</td>
+<td data-sort="4306">4,306</td>
+<td data-sort="7094">7,094</td>
+</tr><tr class="app" data-appid="909660" data-cache="1618461419">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/909660/capsule_sm_120.jpg?t=1618461419" alt="">
+</td>
+<td class="text-left"><a href="/app/909660/">Vagrus - The Riven Realms</a></td>
+<td data-sort="79.57">79.57%</td>
+<td data-sort="9635">9,635</td>
+<td data-sort="5">5</td>
+<td data-sort="131">131</td>
+</tr><tr class="app" data-appid="229480" data-cache="1605544050">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/229480/capsule_sm_120.jpg?t=1605544050" alt="">
+</td>
+<td class="text-left"><a href="/app/229480/">Dungeons &amp; Dragons: Chronicles of Mystara</a></td>
+<td data-sort="78.87">78.87%</td>
+<td data-sort="7461">7,461</td>
+<td data-sort="9">9</td>
+<td data-sort="313">313</td>
+</tr><tr class="app" data-appid="1167950" data-cache="1617179182">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1167950/capsule_sm_120.jpg?t=1617179182" alt="">
+</td>
+<td class="text-left"><a href="/app/1167950/">Vampire's Fall: Origins</a></td>
+<td data-sort="77.16">77.16%</td>
+<td data-sort="6902">6,902</td>
+<td data-sort="8">8</td>
+<td data-sort="662">662</td>
+</tr><tr class="app" data-appid="1196310" data-cache="1618949874">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/capsule_sm_120.jpg?t=1618949874" alt="">
+</td>
+<td class="text-left"><a href="/app/1196310/">Fantasy Grounds Unity</a></td>
+<td data-sort="82.05">82.05%</td>
+<td data-sort="6693">6,693</td>
+<td data-sort="78">78</td>
+<td data-sort="406">406</td>
+</tr><tr class="app" data-appid="644390" data-cache="1616786430">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/644390/capsule_sm_120.jpg?t=1616786430" alt="">
+</td>
+<td class="text-left"><a href="/app/644390/">D&amp;D Lords of Waterdeep</a></td>
+<td data-sort="88.01">88.01%</td>
+<td data-sort="5477">5,477</td>
+<td data-sort="43">43</td>
+<td data-sort="394">394</td>
+</tr><tr class="app" data-appid="1451680" data-cache="1618537279">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1451680/capsule_sm_120.jpg?t=1618537279" alt="">
+</td>
+<td class="text-left"><a href="/app/1451680/">Game Master Engine</a></td>
+<td data-sort="69.44">69.44%</td>
+<td data-sort="2571">2,571</td>
+<td data-sort="1">1</td>
+<td data-sort="27">27</td>
+</tr><tr class="app" data-appid="1078510" data-cache="1611530530">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1078510/capsule_sm_120.jpg?t=1611530530" alt="">
+</td>
+<td class="text-left"><a href="/app/1078510/">Alluris</a></td>
+<td data-sort="82.57">82.57%</td>
+<td data-sort="1348">1,348</td>
+<td data-sort="0">0</td>
+<td data-sort="144">144</td>
+</tr><tr class="app" data-appid="99100" data-cache="1610951119">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/99100/capsule_sm_120.jpg?t=1610951119" alt="">
+</td>
+<td class="text-left"><a href="/app/99100/">Dungeons and Dragons: Daggerdale</a></td>
+<td data-sort="31.05">31.05%</td>
+<td data-sort="1265">1,265</td>
+<td data-sort="0">0</td>
+<td data-sort="571">571</td>
+</tr><tr class="app" data-appid="942900" data-cache="1617809501">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/942900/capsule_sm_120.jpg?t=1617809501" alt="">
+</td>
+<td class="text-left"><a href="/app/942900/">Goblin's Shop</a></td>
+<td data-sort="63.41">63.41%</td>
+<td data-sort="1061">1,061</td>
+<td data-sort="1">1</td>
+<td data-sort="77">77</td>
+</tr><tr class="app" data-appid="1083760" data-cache="1606048482">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1083760/capsule_sm_120.jpg?t=1606048482" alt="">
+</td>
+<td class="text-left"><a href="/app/1083760/">Knights of the Chalice</a></td>
+<td data-sort="80.17">80.17%</td>
+<td data-sort="809">809</td>
+<td data-sort="0">0</td>
+<td data-sort="20">20</td>
+</tr><tr class="app" data-appid="749950" data-cache="1606415112">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/749950/capsule_sm_120.jpg?t=1606415112" alt="">
+</td>
+<td class="text-left"><a href="/app/749950/">The Six Dragons</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="673">673</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1015700" data-cache="1617867465">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1015700/capsule_sm_120.jpg?t=1617867465" alt="">
+</td>
+<td class="text-left"><a href="/app/1015700/">Land Of The Void</a></td>
+<td data-sort="62.61">62.61%</td>
+<td data-sort="615">615</td>
+<td data-sort="0">0</td>
+<td data-sort="28">28</td>
+</tr><tr class="app" data-appid="994680" data-cache="1610084381">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/994680/capsule_sm_120.jpg?t=1610084381" alt="">
+</td>
+<td class="text-left"><a href="/app/994680/">The Dungeon Experience</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="533">533</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1281290" data-cache="1611415208">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1281290/capsule_sm_120.jpg?t=1611415208" alt="">
+</td>
+<td class="text-left"><a href="/app/1281290/">The Fellowship Saga</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="506">506</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="801210" data-cache="1614310409">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/801210/capsule_sm_120.jpg?t=1614310409" alt="">
+</td>
+<td class="text-left"><a href="/app/801210/">Spellsword Cards: Demontide</a></td>
+<td data-sort="63.07">63.07%</td>
+<td data-sort="411">411</td>
+<td data-sort="0">0</td>
+<td data-sort="30">30</td>
+</tr><tr class="app" data-appid="1074040" data-cache="1613231615">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1074040/capsule_sm_120.jpg?t=1613231615" alt="">
+</td>
+<td class="text-left"><a href="/app/1074040/">The Red Prison</a></td>
+<td data-sort="73.63">73.63%</td>
+<td data-sort="368">368</td>
+<td data-sort="0">0</td>
+<td data-sort="99">99</td>
+</tr><tr class="app" data-appid="781680" data-cache="1618765504">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/781680/capsule_sm_120.jpg?t=1618765504" alt="">
+</td>
+<td class="text-left"><a href="/app/781680/">In Darkness</a></td>
+<td data-sort="54.17">54.17%</td>
+<td data-sort="366">366</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1525700" data-cache="1617916162">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1525700/capsule_sm_120.jpg?t=1617916162" alt="">
+</td>
+<td class="text-left"><a href="/app/1525700/">Tavern Master</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="346">346</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1480140" data-cache="1618607176">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1480140/capsule_sm_120.jpg?t=1618607176" alt="">
+</td>
+<td class="text-left"><a href="/app/1480140/">RPG Sounds</a></td>
+<td data-sort="81.86">81.86%</td>
+<td data-sort="342">342</td>
+<td data-sort="1">1</td>
+<td data-sort="26">26</td>
+</tr><tr class="app" data-appid="837200" data-cache="1615216247">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/837200/capsule_sm_120.jpg?t=1615216247" alt="">
+</td>
+<td class="text-left"><a href="/app/837200/">NetHack: Legacy</a></td>
+<td data-sort="68.20">68.20%</td>
+<td data-sort="311">311</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="912310" data-cache="1610468168">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/912310/capsule_sm_120.jpg?t=1610468168" alt="">
+</td>
+<td class="text-left"><a href="/app/912310/">Tabletop Adventures</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="297">297</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="980730" data-cache="1612735457">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/980730/capsule_sm_120.jpg?t=1612735457" alt="">
+</td>
+<td class="text-left"><a href="/app/980730/">Underlight</a></td>
+<td data-sort="62.89">62.89%</td>
+<td data-sort="263">263</td>
+<td data-sort="0">0</td>
+<td data-sort="23">23</td>
+</tr><tr class="app" data-appid="1176860" data-cache="1594211290">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1176860/capsule_sm_120.jpg?t=1594211290" alt="">
+</td>
+<td class="text-left"><a href="/app/1176860/">NMORPG</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="225">225</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1289490" data-cache="1617856023">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1289490/capsule_sm_120.jpg?t=1617856023" alt="">
+</td>
+<td class="text-left"><a href="/app/1289490/">Dungeon Solver</a></td>
+<td data-sort="75.77">75.77%</td>
+<td data-sort="133">133</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="995790" data-cache="1616984263">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/995790/capsule_sm_120.jpg?t=1616984263" alt="">
+</td>
+<td class="text-left"><a href="/app/995790/">Dark Sauce</a></td>
+<td data-sort="54.55">54.55%</td>
+<td data-sort="128">128</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1188270" data-cache="1618919495">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1188270/capsule_sm_120.jpg?t=1618919495" alt="">
+</td>
+<td class="text-left"><a href="/app/1188270/">The Curse of Feldar Vale</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="103">103</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1202330" data-cache="1611590219">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1202330/capsule_sm_120.jpg?t=1611590219" alt="">
+</td>
+<td class="text-left"><a href="/app/1202330/">Frontier</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="94">94</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1363650" data-cache="1604355825">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1363650/capsule_sm_120.jpg?t=1604355825" alt="">
+</td>
+<td class="text-left"><a href="/app/1363650/">Dungeon Display</a></td>
+<td data-sort="55.69">55.69%</td>
+<td data-sort="56">56</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1509060" data-cache="1615996494">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1509060/capsule_sm_120.jpg?t=1615996494" alt="">
+</td>
+<td class="text-left"><a href="/app/1509060/">Dungeon Team</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="49">49</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1483060" data-cache="1611103163">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1483060/capsule_sm_120.jpg?t=1611103163" alt="">
+</td>
+<td class="text-left"><a href="/app/1483060/">Cube Paradox</a></td>
+<td data-sort="78.30">78.30%</td>
+<td data-sort="39">39</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1604690" data-cache="1618761537">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1604690/capsule_sm_120.jpg?t=1618761537" alt="">
+</td>
+<td class="text-left"><a href="/app/1604690/">Last Blossom: Roleplaying tabletop based scene</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3">3</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1573780" data-cache="1615490595">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1573780/capsule_sm_120.jpg?t=1615490595" alt="">
+</td>
+<td class="text-left"><a href="/app/1573780/">RPG Sounds - Midnight Curse - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1552360" data-cache="1613588106">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1552360/capsule_sm_120.jpg?t=1613588106" alt="">
+</td>
+<td class="text-left"><a href="/app/1552360/">RPG Sounds - Frost Lands - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1540380" data-cache="1613272713">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1540380/capsule_sm_120.jpg?t=1613272713" alt="">
+</td>
+<td class="text-left"><a href="/app/1540380/">RPG Sounds - Woodenhorn Clan - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1535933" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1535933/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1535933/">RPG Sounds - Wood and metal weapons - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1535932" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1535932/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1535932/">RPG Sounds - Weather - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1535931" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1535931/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1535931/">RPG Sounds - The Sewers - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1535930" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1535930/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1535930/">RPG Sounds - Spells - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1535740" data-cache="1616429655">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1535740/capsule_sm_120.jpg?t=1616429655" alt="">
+</td>
+<td class="text-left"><a href="/app/1535740/">Fantasy Grounds - D&amp;D Candlekeep Mysteries</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1528490" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1528490/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1528490/">RPG Sounds - Ranged - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1528480" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1528480/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1528480/">RPG Sounds - SciFi - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1524687" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524687/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1524687/">RPG Sounds - Pirate Ship - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1524686" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524686/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1524686/">RPG Sounds - Mountain - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1524685" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524685/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1524685/">RPG Sounds - Meadows - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1524682" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524682/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1524682/">RPG Sounds - Graveyard - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1524681" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524681/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1524681/">RPG Sounds - Forest - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1524660" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524660/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1524660/">RPG Sounds - Combat - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1495730" data-cache="1608078418">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1495730/capsule_sm_120.jpg?t=1608078418" alt="">
+</td>
+<td class="text-left"><a href="/app/1495730/">Fantasy Grounds - D&amp;D Adventurers League 10-01 The Frozen North</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1493830" data-cache="1612379197">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1493830/capsule_sm_120.jpg?t=1612379197" alt="">
+</td>
+<td class="text-left"><a href="/app/1493830/">RPG Sounds - Dragon's Tower - Sound Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1482120" data-cache="1608078418">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1482120/capsule_sm_120.jpg?t=1608078418" alt="">
+</td>
+<td class="text-left"><a href="/app/1482120/">Fantasy Grounds - D&amp;D Adventurers League 10-00 Ice Road Trackers</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1452520" data-cache="1605040266">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1452520/capsule_sm_120.jpg?t=1605040266" alt="">
+</td>
+<td class="text-left"><a href="/app/1452520/">Fantasy Grounds - D&amp;D Classics: Night Below: An Underdark Campaign (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1438980" data-cache="1617052662">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1438980/capsule_sm_120.jpg?t=1617052662" alt="">
+</td>
+<td class="text-left"><a href="/app/1438980/">Solasta: Crown of the Magister - Supporter Pack</a></td>
+<td data-sort="76.13">76.13%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1417630" data-cache="1601409770">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1417630/capsule_sm_120.jpg?t=1601409770" alt="">
+</td>
+<td class="text-left"><a href="/app/1417630/">Fantasy Grounds - D&amp;D Adventurers League 09-18 Consequences of Choice</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1412060" data-cache="1600194658">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1412060/capsule_sm_120.jpg?t=1600194658" alt="">
+</td>
+<td class="text-left"><a href="/app/1412060/">Fantasy Grounds - D&amp;D Classics: S2 White Plume Mountain (1E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1396430" data-cache="1600151435">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1396430/capsule_sm_120.jpg?t=1600151435" alt="">
+</td>
+<td class="text-left"><a href="/app/1396430/">Fantasy Grounds - D&amp;D Icewind Dale Rime of the Frostmaiden</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1393020" data-cache="1599595378">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1393020/capsule_sm_120.jpg?t=1599595378" alt="">
+</td>
+<td class="text-left"><a href="/app/1393020/">Fantasy Grounds - D&amp;D Adventurers League EB-EP-01 The Iron Titan</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1392870" data-cache="1599595378">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1392870/capsule_sm_120.jpg?t=1599595378" alt="">
+</td>
+<td class="text-left"><a href="/app/1392870/">Fantasy Grounds - D&amp;D Adventurers League EB-04 The Third Protocol</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1383260" data-cache="1598394747">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1383260/capsule_sm_120.jpg?t=1598394747" alt="">
+</td>
+<td class="text-left"><a href="/app/1383260/">Fantasy Grounds - D&amp;D Adventurers League EB-01 The Night Land</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1382400" data-cache="1598394747">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1382400/capsule_sm_120.jpg?t=1598394747" alt="">
+</td>
+<td class="text-left"><a href="/app/1382400/">Fantasy Grounds - D&amp;D Classics: Q1 Queen of the Demonweb Pits (1E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1381340" data-cache="1598996843">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1381340/capsule_sm_120.jpg?t=1598996843" alt="">
+</td>
+<td class="text-left"><a href="/app/1381340/">Fantasy Grounds - D&amp;D Adventurers League 09-17 In the Hand</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1364480" data-cache="1595363740">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1364480/capsule_sm_120.jpg?t=1595363740" alt="">
+</td>
+<td class="text-left"><a href="/app/1364480/">Fantasy Grounds - D&amp;D Adventurers League 09-16 Honors Unforseen</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1358200" data-cache="1595363740">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1358200/capsule_sm_120.jpg?t=1595363740" alt="">
+</td>
+<td class="text-left"><a href="/app/1358200/">Fantasy Grounds - D&amp;D Adventurers League 09-08 In the Garden of Evil</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1347890" data-cache="1594772041">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1347890/capsule_sm_120.jpg?t=1594772041" alt="">
+</td>
+<td class="text-left"><a href="/app/1347890/">Fantasy Grounds - Pathfinder 2 RPG - Bestiary 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1343790" data-cache="1597166113">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1343790/capsule_sm_120.jpg?t=1597166113" alt="">
+</td>
+<td class="text-left"><a href="/app/1343790/">Fantasy Grounds - Mini-Dungeon Monthly #12</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1343780" data-cache="1596572248">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1343780/capsule_sm_120.jpg?t=1596572248" alt="">
+</td>
+<td class="text-left"><a href="/app/1343780/">Fantasy Grounds - Mini-Dungeon Monthly #11</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1343760" data-cache="1595363739">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1343760/capsule_sm_120.jpg?t=1595363739" alt="">
+</td>
+<td class="text-left"><a href="/app/1343760/">Fantasy Grounds - Mini-Dungeon Monthly #10</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1343650" data-cache="1594772041">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1343650/capsule_sm_120.jpg?t=1594772041" alt="">
+</td>
+<td class="text-left"><a href="/app/1343650/">Fantasy Grounds - Mini-Dungeon Monthly #9</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1261720" data-cache="1595363736">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1261720/capsule_sm_120.jpg?t=1595363736" alt="">
+</td>
+<td class="text-left"><a href="/app/1261720/">Fantasy Grounds - Starfinder RPG - Dawn of Flame AP 6: Assault on the Crucible</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1247750" data-cache="1618380808">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1247750/capsule_sm_120.jpg?t=1618380808" alt="">
+</td>
+<td class="text-left"><a href="/app/1247750/">Neverwinter Nights: Enhanced Edition Dark Dreams of Furiae</a></td>
+<td data-sort="32.61">32.61%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1226850" data-cache="1594426431">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1226850/capsule_sm_120.jpg?t=1594426431" alt="">
+</td>
+<td class="text-left"><a href="/app/1226850/">Fantasy Grounds - D&amp;D Explorer's Guide to Wildemount</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1225420" data-cache="1593724117">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1225420/capsule_sm_120.jpg?t=1593724117" alt="">
+</td>
+<td class="text-left"><a href="/app/1225420/">Fantasy Grounds - D&amp;D Classics: B2 The Keep on the Borderlands</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1206830" data-cache="1593724125">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1206830/capsule_sm_120.jpg?t=1593724125" alt="">
+</td>
+<td class="text-left"><a href="/app/1206830/">Fantasy Grounds - D&amp;D Classics: PHBR12 The Complete Paladin's Handbook (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1188120" data-cache="1593724135">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1188120/capsule_sm_120.jpg?t=1593724135" alt="">
+</td>
+<td class="text-left"><a href="/app/1188120/">Fantasy Grounds - Dungeons &amp; Dragons vs Rick and Morty</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1185890" data-cache="1593724135">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1185890/capsule_sm_120.jpg?t=1593724135" alt="">
+</td>
+<td class="text-left"><a href="/app/1185890/">Fantasy Grounds - D&amp;D Classics: PHBR7 The Complete Bard's Handbook (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1168180" data-cache="1593724147">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1168180/capsule_sm_120.jpg?t=1593724147" alt="">
+</td>
+<td class="text-left"><a href="/app/1168180/">Fantasy Grounds - D&amp;D Classics: I6 Ravenloft (1E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1163790" data-cache="1594426429">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1163790/capsule_sm_120.jpg?t=1594426429" alt="">
+</td>
+<td class="text-left"><a href="/app/1163790/">Fantasy Grounds - D&amp;D Eberron: Rising From The Last War</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1156160" data-cache="1594440832">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1156160/capsule_sm_120.jpg?t=1594440832" alt="">
+</td>
+<td class="text-left"><a href="/app/1156160/">Fantasy Grounds - D&amp;D Storm Lord's Wrath</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1151950" data-cache="1593724176">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1151950/capsule_sm_120.jpg?t=1593724176" alt="">
+</td>
+<td class="text-left"><a href="/app/1151950/">Fantasy Grounds - D&amp;D Classics: FRC2 Curse of the Azure Bonds (1E) (2E)</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1119880" data-cache="1593724198">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1119880/capsule_sm_120.jpg?t=1593724198" alt="">
+</td>
+<td class="text-left"><a href="/app/1119880/">Fantasy Grounds - D&amp;D Classics: FRQ1 Haunted Halls of Eveningstar (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1119850" data-cache="1593724198">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1119850/capsule_sm_120.jpg?t=1593724198" alt="">
+</td>
+<td class="text-left"><a href="/app/1119850/">Fantasy Grounds - D&amp;D Classics: A0-A4: Against the Slave Lords (1E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1108650" data-cache="1593724206">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1108650/capsule_sm_120.jpg?t=1593724206" alt="">
+</td>
+<td class="text-left"><a href="/app/1108650/">Fantasy Grounds - D&amp;D Classics: Temple of Elemental Evil (1E)</a></td>
+<td data-sort="35.92">35.92%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1107500" data-cache="1593724208">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1107500/capsule_sm_120.jpg?t=1593724208" alt="">
+</td>
+<td class="text-left"><a href="/app/1107500/">Fantasy Grounds - D&amp;D Classics: G2 The Glacial Rift of the Frost Giant Jarl (1e)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1107460" data-cache="1593724208">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1107460/capsule_sm_120.jpg?t=1593724208" alt="">
+</td>
+<td class="text-left"><a href="/app/1107460/">Fantasy Grounds - D&amp;D Classics: Faiths &amp; Avatars (2e)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1107430" data-cache="1593724208">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1107430/capsule_sm_120.jpg?t=1593724208" alt="">
+</td>
+<td class="text-left"><a href="/app/1107430/">Fantasy Grounds - D&amp;D Classics: The Secret of Spiderhaunt (2e)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1107400" data-cache="1593724208">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1107400/capsule_sm_120.jpg?t=1593724208" alt="">
+</td>
+<td class="text-left"><a href="/app/1107400/">Fantasy Grounds - D&amp;D Classics: The Sword of the Dales (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1097080" data-cache="1593724214">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1097080/capsule_sm_120.jpg?t=1593724214" alt="">
+</td>
+<td class="text-left"><a href="/app/1097080/">Fantasy Grounds - D&amp;D Classics: PHBR11 The Complete Ranger's Handbook (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1094900" data-cache="1594426429">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1094900/capsule_sm_120.jpg?t=1594426429" alt="">
+</td>
+<td class="text-left"><a href="/app/1094900/">Fantasy Grounds - D&amp;D Baldur's Gate: Descent Into Avernus</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1092820" data-cache="1593724216">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1092820/capsule_sm_120.jpg?t=1593724216" alt="">
+</td>
+<td class="text-left"><a href="/app/1092820/">Fantasy Grounds - D&amp;D Acquisitions Incorporated</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1090880" data-cache="1593724218">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1090880/capsule_sm_120.jpg?t=1593724218" alt="">
+</td>
+<td class="text-left"><a href="/app/1090880/">Fantasy Grounds - D&amp;D Classics: Complete Priest's Handbook (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1090830" data-cache="1593724218">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1090830/capsule_sm_120.jpg?t=1593724218" alt="">
+</td>
+<td class="text-left"><a href="/app/1090830/">Fantasy Grounds - Stranger Things Dungeons &amp; Dragons Starter Set</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1086610" data-cache="1593724220">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1086610/capsule_sm_120.jpg?t=1593724220" alt="">
+</td>
+<td class="text-left"><a href="/app/1086610/">Fantasy Grounds - D&amp;D Classics: C2 The Ghost Tower of Inverness (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1086600" data-cache="1593724220">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1086600/capsule_sm_120.jpg?t=1593724220" alt="">
+</td>
+<td class="text-left"><a href="/app/1086600/">Fantasy Grounds - D&amp;D Classics: G1 Steading of the Hill Giant Chief (2E)</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1082420" data-cache="1593724221">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1082420/capsule_sm_120.jpg?t=1593724221" alt="">
+</td>
+<td class="text-left"><a href="/app/1082420/">Fantasy Grounds - D&amp;D Classics: I1 Dwellers of the Forbidden City (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1078220" data-cache="1593724227">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1078220/capsule_sm_120.jpg?t=1593724227" alt="">
+</td>
+<td class="text-left"><a href="/app/1078220/">Fantasy Grounds - D&amp;D Classics: Complete Wizard's Handbook (2E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1076820" data-cache="1593724229">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1076820/capsule_sm_120.jpg?t=1593724229" alt="">
+</td>
+<td class="text-left"><a href="/app/1076820/">Fantasy Grounds - D&amp;D Classics: Complete Thief's Handbook</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1067830" data-cache="1594512826">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1067830/capsule_sm_120.jpg?t=1594512826" alt="">
+</td>
+<td class="text-left"><a href="/app/1067830/">Fantasy Grounds - D&amp;D Ghosts of Saltmarsh</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1059510" data-cache="1594671241">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1059510/capsule_sm_120.jpg?t=1594671241" alt="">
+</td>
+<td class="text-left"><a href="/app/1059510/">Fantasy Grounds - Dungeons &amp; Dragons Tactical Maps: Adventure Atlas</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1031410" data-cache="1594426427">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1031410/capsule_sm_120.jpg?t=1594426427" alt="">
+</td>
+<td class="text-left"><a href="/app/1031410/">Fantasy Grounds - Dungeons &amp; Dragons Tactical Maps Reincarnated</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="973840" data-cache="1594671241">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/973840/capsule_sm_120.jpg?t=1594671241" alt="">
+</td>
+<td class="text-left"><a href="/app/973840/">Fantasy Grounds - D&amp;D Guildmasters' Guide to Ravnica</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="917890" data-cache="1595277324">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/917890/capsule_sm_120.jpg?t=1595277324" alt="">
+</td>
+<td class="text-left"><a href="/app/917890/">Fantasy Grounds - D&amp;D Wayfinder's Guide to Eberron</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="875090" data-cache="1594426427">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/875090/capsule_sm_120.jpg?t=1594426427" alt="">
+</td>
+<td class="text-left"><a href="/app/875090/">Fantasy Grounds - Dungeons &amp; Dragons Waterdeep: Dungeon of the Mad Mage</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="875070" data-cache="1594426425">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/875070/capsule_sm_120.jpg?t=1594426425" alt="">
+</td>
+<td class="text-left"><a href="/app/875070/">Fantasy Grounds - Dungeons &amp; Dragons Waterdeep: Dragon Heist</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="873630" data-cache="1593724480">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/873630/capsule_sm_120.jpg?t=1593724480" alt="">
+</td>
+<td class="text-left"><a href="/app/873630/">Fantasy Grounds - Quests of Doom 4: Awakenings (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="872210" data-cache="1593724480">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/872210/capsule_sm_120.jpg?t=1593724480" alt="">
+</td>
+<td class="text-left"><a href="/app/872210/">Fantasy Grounds - Paths to Adventure: Planar Excursions Map (Map Pack)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="860470" data-cache="1593724493">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/860470/capsule_sm_120.jpg?t=1593724493" alt="">
+</td>
+<td class="text-left"><a href="/app/860470/">Fantasy Grounds - D&amp;D Adventurers League: Rrakkma</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="855810" data-cache="1593724501">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/855810/capsule_sm_120.jpg?t=1593724501" alt="">
+</td>
+<td class="text-left"><a href="/app/855810/">Fantasy Grounds - By Flame, Storm, and Thorn (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="845190" data-cache="1593724507">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/845190/capsule_sm_120.jpg?t=1593724507" alt="">
+</td>
+<td class="text-left"><a href="/app/845190/">Fantasy Grounds - Pirate Adventurers (5E)</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="838000" data-cache="1593724537">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/838000/capsule_sm_120.jpg?t=1593724537" alt="">
+</td>
+<td class="text-left"><a href="/app/838000/">Fantasy Grounds - A10: Icecrag Monastery (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="837970" data-cache="1593724537">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/837970/capsule_sm_120.jpg?t=1593724537" alt="">
+</td>
+<td class="text-left"><a href="/app/837970/">Fantasy Grounds - Don't Wake Dretchlor (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="833340" data-cache="1593724538">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/833340/capsule_sm_120.jpg?t=1593724538" alt="">
+</td>
+<td class="text-left"><a href="/app/833340/">Fantasy Grounds - Deadly Delves: Along Came a Spider (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="832010" data-cache="1593724538">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/832010/capsule_sm_120.jpg?t=1593724538" alt="">
+</td>
+<td class="text-left"><a href="/app/832010/">Fantasy Grounds - Book of Heroic Races: Player Races 1 (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="823400" data-cache="1593724542">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/823400/capsule_sm_120.jpg?t=1593724542" alt="">
+</td>
+<td class="text-left"><a href="/app/823400/">Fantasy Grounds - The Claws of Madness (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="823250" data-cache="1593724542">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/823250/capsule_sm_120.jpg?t=1593724542" alt="">
+</td>
+<td class="text-left"><a href="/app/823250/">Fantasy Grounds - The Valkyrie: A New Hybrid Class (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="805200" data-cache="1593724560">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/805200/capsule_sm_120.jpg?t=1593724560" alt="">
+</td>
+<td class="text-left"><a href="/app/805200/">Fantasy Grounds - The Blight: GM Guide (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="804920" data-cache="1593724561">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/804920/capsule_sm_120.jpg?t=1593724561" alt="">
+</td>
+<td class="text-left"><a href="/app/804920/">Fantasy Grounds - Village Backdrop: Ashford (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="801970" data-cache="1594426425">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/801970/capsule_sm_120.jpg?t=1594426425" alt="">
+</td>
+<td class="text-left"><a href="/app/801970/">Fantasy Grounds - D&amp;D Mordenkainen's Tome of Foes</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="798110" data-cache="1593724563">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/798110/capsule_sm_120.jpg?t=1593724563" alt="">
+</td>
+<td class="text-left"><a href="/app/798110/">Fantasy Grounds - Rogues in Remballo (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="796120" data-cache="1594426425">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/796120/capsule_sm_120.jpg?t=1594426425" alt="">
+</td>
+<td class="text-left"><a href="/app/796120/">Fantasy Grounds - D&amp;D: Unearthed Arcana</a></td>
+<td data-sort="44.31">44.31%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="786760" data-cache="1593724569">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/786760/capsule_sm_120.jpg?t=1593724569" alt="">
+</td>
+<td class="text-left"><a href="/app/786760/">Fantasy Grounds - D&amp;D DDIA-XGE Underworld Speculation</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="784900" data-cache="1593724571">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/784900/capsule_sm_120.jpg?t=1593724571" alt="">
+</td>
+<td class="text-left"><a href="/app/784900/">Fantasy Grounds - The Bleak Harvest (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="773300" data-cache="1593724571">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/773300/capsule_sm_120.jpg?t=1593724571" alt="">
+</td>
+<td class="text-left"><a href="/app/773300/">Fantasy Grounds - Hunter's Mark (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="766350" data-cache="1593724573">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/766350/capsule_sm_120.jpg?t=1593724573" alt="">
+</td>
+<td class="text-left"><a href="/app/766350/">Fantasy Grounds - Entrees, Entrails, Canapes and Corpses (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="760940" data-cache="1593724577">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/760940/capsule_sm_120.jpg?t=1593724577" alt="">
+</td>
+<td class="text-left"><a href="/app/760940/">Fantasy Grounds - Legendary Beginnings: A Feast of Flavor (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="737320" data-cache="1593724588">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/737320/capsule_sm_120.jpg?t=1593724588" alt="">
+</td>
+<td class="text-left"><a href="/app/737320/">Fantasy Grounds - Noble Cause, Bloodied Hands (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="732220" data-cache="1593724590">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/732220/capsule_sm_120.jpg?t=1593724590" alt="">
+</td>
+<td class="text-left"><a href="/app/732220/">Fantasy Grounds - Unlikely Heroes (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="732200" data-cache="1593724590">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/732200/capsule_sm_120.jpg?t=1593724590" alt="">
+</td>
+<td class="text-left"><a href="/app/732200/">Fantasy Grounds - Southlands Heroes (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="731140" data-cache="1593724626">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/731140/capsule_sm_120.jpg?t=1593724626" alt="">
+</td>
+<td class="text-left"><a href="/app/731140/">Fantasy Grounds - Conquering Heroes (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="727870" data-cache="1593724630">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/727870/capsule_sm_120.jpg?t=1593724630" alt="">
+</td>
+<td class="text-left"><a href="/app/727870/">Fantasy Grounds - Midgard Heroes (5E)</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="727080" data-cache="1593724632">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/727080/capsule_sm_120.jpg?t=1593724632" alt="">
+</td>
+<td class="text-left"><a href="/app/727080/">Fantasy Grounds - D&amp;D The Tortle Package</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="720130" data-cache="1594426425">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/720130/capsule_sm_120.jpg?t=1594426425" alt="">
+</td>
+<td class="text-left"><a href="/app/720130/">Fantasy Grounds - D&amp;D Xanathar's Guide to Everything</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="718520" data-cache="1593724634">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/718520/capsule_sm_120.jpg?t=1593724634" alt="">
+</td>
+<td class="text-left"><a href="/app/718520/">Fantasy Grounds - A07: Alchemist's Errand (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="709600" data-cache="1593724644">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/709600/capsule_sm_120.jpg?t=1593724644" alt="">
+</td>
+<td class="text-left"><a href="/app/709600/">Fantasy Grounds - Ultimate Bestiary: Revenge of the Horde (5E)</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="706700" data-cache="1593724646">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/706700/capsule_sm_120.jpg?t=1593724646" alt="">
+</td>
+<td class="text-left"><a href="/app/706700/">Fantasy Grounds - Village Backdrop: Hard Bay (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="706590" data-cache="1593724648">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/706590/capsule_sm_120.jpg?t=1593724648" alt="">
+</td>
+<td class="text-left"><a href="/app/706590/">Fantasy Grounds - Pixies on Parade (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="702850" data-cache="1593724652">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/702850/capsule_sm_120.jpg?t=1593724652" alt="">
+</td>
+<td class="text-left"><a href="/app/702850/">Fantasy Grounds - The Malefactor Class: Revised &amp; Expanded (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="698840" data-cache="1593724654">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/698840/capsule_sm_120.jpg?t=1593724654" alt="">
+</td>
+<td class="text-left"><a href="/app/698840/">Fantasy Grounds - Demon Cults &amp; Secret Societies (5E)</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="698060" data-cache="1593724656">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/698060/capsule_sm_120.jpg?t=1593724656" alt="">
+</td>
+<td class="text-left"><a href="/app/698060/">Fantasy Grounds - The Book of the Righteous (5E)</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="695000" data-cache="1594671237">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/695000/capsule_sm_120.jpg?t=1594671237" alt="">
+</td>
+<td class="text-left"><a href="/app/695000/">Fantasy Grounds - D&amp;D Tomb of Annihilation</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="674920" data-cache="1593724672">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/674920/capsule_sm_120.jpg?t=1593724672" alt="">
+</td>
+<td class="text-left"><a href="/app/674920/">Fantasy Grounds - Underworld Races &amp; Classes (5E)</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="670980" data-cache="1593724673">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/670980/capsule_sm_120.jpg?t=1593724673" alt="">
+</td>
+<td class="text-left"><a href="/app/670980/">Fantasy Grounds - Dungeons &amp; Dragons: Harried in Hillsfar</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="670030" data-cache="1593724673">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/670030/capsule_sm_120.jpg?t=1593724673" alt="">
+</td>
+<td class="text-left"><a href="/app/670030/">Fantasy Grounds - Dungeons &amp; Dragons: Shackles of Blood</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="629890" data-cache="1593724729">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/629890/capsule_sm_120.jpg?t=1593724729" alt="">
+</td>
+<td class="text-left"><a href="/app/629890/">Fantasy Grounds - Dungeons &amp; Dragons - Lair Assault: Attack of the Tyrantclaw (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="605540" data-cache="1594426423">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/605540/capsule_sm_120.jpg?t=1594426423" alt="">
+</td>
+<td class="text-left"><a href="/app/605540/">Fantasy Grounds - D&amp;D Tales from the Yawning Portal</a></td>
+<td data-sort="44.31">44.31%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="585120" data-cache="1593724858">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/585120/capsule_sm_120.jpg?t=1593724858" alt="">
+</td>
+<td class="text-left"><a href="/app/585120/">Fantasy Grounds - D&amp;D Lair Assault: Forge of the Dawn Titan</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="585110" data-cache="1593724858">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/585110/capsule_sm_120.jpg?t=1593724858" alt="">
+</td>
+<td class="text-left"><a href="/app/585110/">Fantasy Grounds - D&amp;D Lair Assault: Talon of Umberlee</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="549380" data-cache="1594426421">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/549380/capsule_sm_120.jpg?t=1594426421" alt="">
+</td>
+<td class="text-left"><a href="/app/549380/">Fantasy Grounds - D&amp;D Volo's Guide to Monsters</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="543670" data-cache="1595277316">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/543670/capsule_sm_120.jpg?t=1595277316" alt="">
+</td>
+<td class="text-left"><a href="/app/543670/">Fantasy Grounds - D&amp;D Map Pack Volume 1</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="513010" data-cache="1593724967">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/513010/capsule_sm_120.jpg?t=1593724967" alt="">
+</td>
+<td class="text-left"><a href="/app/513010/">Fantasy Grounds - 5E: Tome of Beasts</a></td>
+<td data-sort="67.06">67.06%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="508780" data-cache="1593724971">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/508780/capsule_sm_120.jpg?t=1593724971" alt="">
+</td>
+<td class="text-left"><a href="/app/508780/">Fantasy Grounds - A05: Winterflower (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="507040" data-cache="1594512820">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/507040/capsule_sm_120.jpg?t=1594512820" alt="">
+</td>
+<td class="text-left"><a href="/app/507040/">Fantasy Grounds - D&amp;D Storm King's Thunder</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="502900" data-cache="1593724979">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/502900/capsule_sm_120.jpg?t=1593724979" alt="">
+</td>
+<td class="text-left"><a href="/app/502900/">Fantasy Grounds - Primeval Thule: Player's Companion (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="501730" data-cache="1593724980">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/501730/capsule_sm_120.jpg?t=1593724980" alt="">
+</td>
+<td class="text-left"><a href="/app/501730/">Fantasy Grounds - Primeval Thule: Gamemaster's Companion (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="501230" data-cache="1593724980">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/501230/capsule_sm_120.jpg?t=1593724980" alt="">
+</td>
+<td class="text-left"><a href="/app/501230/">Fantasy Grounds - Primeval Thule: Secret of the Moon-Door (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="500280" data-cache="1593724983">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/500280/capsule_sm_120.jpg?t=1593724983" alt="">
+</td>
+<td class="text-left"><a href="/app/500280/">Fantasy Grounds - Primeval Thule: Watchers of Meng (5E)</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="498900" data-cache="1593724983">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/498900/capsule_sm_120.jpg?t=1593724983" alt="">
+</td>
+<td class="text-left"><a href="/app/498900/">Fantasy Grounds - D&amp;D Tokens Volume 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="498890" data-cache="1595277316">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/498890/capsule_sm_120.jpg?t=1595277316" alt="">
+</td>
+<td class="text-left"><a href="/app/498890/">Fantasy Grounds - D&amp;D Tokens Volume 1</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="495330" data-cache="1593724984">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/495330/capsule_sm_120.jpg?t=1593724984" alt="">
+</td>
+<td class="text-left"><a href="/app/495330/">Fantasy Grounds - 5E: Primeval Thule: Red Chains</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="471310" data-cache="1593725003">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/471310/capsule_sm_120.jpg?t=1593725003" alt="">
+</td>
+<td class="text-left"><a href="/app/471310/">Fantasy Grounds - 5E: Tarin's Crown</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="468610" data-cache="1593725005">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/468610/capsule_sm_120.jpg?t=1593725005" alt="">
+</td>
+<td class="text-left"><a href="/app/468610/">Fantasy Grounds - 5E: Devil of Dark Wood</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="468520" data-cache="1593725007">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/468520/capsule_sm_120.jpg?t=1593725007" alt="">
+</td>
+<td class="text-left"><a href="/app/468520/">Fantasy Grounds - 5E: The Crypt of the Sun Lord</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="466250" data-cache="1593725007">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/466250/capsule_sm_120.jpg?t=1593725007" alt="">
+</td>
+<td class="text-left"><a href="/app/466250/">Fantasy Grounds - 5E: Primeval Thule Campaign Setting</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="450080" data-cache="1595236558">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/450080/capsule_sm_120.jpg?t=1595236558" alt="">
+</td>
+<td class="text-left"><a href="/app/450080/">Fantasy Grounds - D&amp;D Curse of Strahd</a></td>
+<td data-sort="56.05">56.05%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="436250" data-cache="1593725071">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/436250/capsule_sm_120.jpg?t=1593725071" alt="">
+</td>
+<td class="text-left"><a href="/app/436250/">Fantasy Grounds - D&amp;D Legacy of the Crystal Shard</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="422580" data-cache="1594426418">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/422580/capsule_sm_120.jpg?t=1594426418" alt="">
+</td>
+<td class="text-left"><a href="/app/422580/">Fantasy Grounds - D&amp;D Dungeon Master's Guide</a></td>
+<td data-sort="66.62">66.62%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="415570" data-cache="1594426418">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/415570/capsule_sm_120.jpg?t=1594426418" alt="">
+</td>
+<td class="text-left"><a href="/app/415570/">Fantasy Grounds - D&amp;D Sword Coast Adventurer's Guide</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="409252" data-cache="1544530479">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/409252/capsule_sm_120.jpg?t=1544530479" alt="">
+</td>
+<td class="text-left"><a href="/app/409252/">ePic Character Generator - Season #2: Female Sorcerer</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="403500" data-cache="1593725079">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/403500/capsule_sm_120.jpg?t=1593725079" alt="">
+</td>
+<td class="text-left"><a href="/app/403500/">Fantasy Grounds - D&amp;D Rage of Demons: Out of the Abyss</a></td>
+<td data-sort="69.20">69.20%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="390750" data-cache="1593725079">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/390750/capsule_sm_120.jpg?t=1593725079" alt="">
+</td>
+<td class="text-left"><a href="/app/390750/">Fantasy Grounds - D&amp;D Scourge of the Sword Coast</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="385970" data-cache="1618859069">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/385970/capsule_sm_120.jpg?t=1618859069" alt="">
+</td>
+<td class="text-left"><a href="/app/385970/">Baldur's Gate: Siege of Dragonspear</a></td>
+<td data-sort="68.89">68.89%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="385570" data-cache="1595277313">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/385570/capsule_sm_120.jpg?t=1595277313" alt="">
+</td>
+<td class="text-left"><a href="/app/385570/">Fantasy Grounds - D&amp;D Elemental Evil Player's Companion</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="382200" data-cache="1595277313">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/382200/capsule_sm_120.jpg?t=1595277313" alt="">
+</td>
+<td class="text-left"><a href="/app/382200/">Fantasy Grounds - D&amp;D Princes of the Apocalypse</a></td>
+<td data-sort="62.51">62.51%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="372020" data-cache="1594671231">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/372020/capsule_sm_120.jpg?t=1594671231" alt="">
+</td>
+<td class="text-left"><a href="/app/372020/">Fantasy Grounds - D&amp;D Hoard of the Dragon Queen</a></td>
+<td data-sort="67.06">67.06%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="362320" data-cache="1593725087">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/362320/capsule_sm_120.jpg?t=1593725087" alt="">
+</td>
+<td class="text-left"><a href="/app/362320/">Fantasy Grounds - D&amp;D Basic Rules and Theme</a></td>
+<td data-sort="55.69">55.69%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360428" data-cache="1593725089">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360428/capsule_sm_120.jpg?t=1593725089" alt="">
+</td>
+<td class="text-left"><a href="/app/360428/">Fantasy Grounds - D&amp;D Monster Pack - Undead</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360427" data-cache="1593725089">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360427/capsule_sm_120.jpg?t=1593725089" alt="">
+</td>
+<td class="text-left"><a href="/app/360427/">Fantasy Grounds - D&amp;D Monster Pack - Oozes, Plants &amp; Swarms</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360426" data-cache="1593725089">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360426/capsule_sm_120.jpg?t=1593725089" alt="">
+</td>
+<td class="text-left"><a href="/app/360426/">Fantasy Grounds - D&amp;D Monster Pack - Monstrosities</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360425" data-cache="1593725089">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360425/capsule_sm_120.jpg?t=1593725089" alt="">
+</td>
+<td class="text-left"><a href="/app/360425/">Fantasy Grounds - D&amp;D Monster Pack - Humanoids</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360424" data-cache="1593725091">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360424/capsule_sm_120.jpg?t=1593725091" alt="">
+</td>
+<td class="text-left"><a href="/app/360424/">Fantasy Grounds - D&amp;D Monster Pack - Fey &amp; Giants</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360423" data-cache="1593725091">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360423/capsule_sm_120.jpg?t=1593725091" alt="">
+</td>
+<td class="text-left"><a href="/app/360423/">Fantasy Grounds - D&amp;D Monster Pack - Dragons</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360422" data-cache="1593725091">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360422/capsule_sm_120.jpg?t=1593725091" alt="">
+</td>
+<td class="text-left"><a href="/app/360422/">Fantasy Grounds - D&amp;D Monster Pack - Constructs &amp; Elementals</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360421" data-cache="1593725091">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360421/capsule_sm_120.jpg?t=1593725091" alt="">
+</td>
+<td class="text-left"><a href="/app/360421/">Fantasy Grounds - D&amp;D Monster Pack - Celestials &amp; Fiends</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360420" data-cache="1593725091">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360420/capsule_sm_120.jpg?t=1593725091" alt="">
+</td>
+<td class="text-left"><a href="/app/360420/">Fantasy Grounds - D&amp;D Monster Pack - Beasts</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360120" data-cache="1593725093">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360120/capsule_sm_120.jpg?t=1593725093" alt="">
+</td>
+<td class="text-left"><a href="/app/360120/">Fantasy Grounds - D&amp;D Monster Pack - Aberrations</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360115" data-cache="1594772013">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360115/capsule_sm_120.jpg?t=1594772013" alt="">
+</td>
+<td class="text-left"><a href="/app/360115/">Fantasy Grounds - D&amp;D Monster Manual</a></td>
+<td data-sort="66.62">66.62%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360114" data-cache="1594426416">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360114/capsule_sm_120.jpg?t=1594426416" alt="">
+</td>
+<td class="text-left"><a href="/app/360114/">Fantasy Grounds - D&amp;D Lost Mine of Phandelver</a></td>
+<td data-sort="57.39">57.39%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360113" data-cache="1595542019">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360113/capsule_sm_120.jpg?t=1595542019" alt="">
+</td>
+<td class="text-left"><a href="/app/360113/">Fantasy Grounds - D&amp;D Wizard Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360112" data-cache="1593725095">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360112/capsule_sm_120.jpg?t=1593725095" alt="">
+</td>
+<td class="text-left"><a href="/app/360112/">Fantasy Grounds - D&amp;D Warlock Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360099" data-cache="1593725095">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360099/capsule_sm_120.jpg?t=1593725095" alt="">
+</td>
+<td class="text-left"><a href="/app/360099/">Fantasy Grounds - D&amp;D Rogue Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360098" data-cache="1593725097">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360098/capsule_sm_120.jpg?t=1593725097" alt="">
+</td>
+<td class="text-left"><a href="/app/360098/">Fantasy Grounds - D&amp;D Paladin Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360097" data-cache="1593725097">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360097/capsule_sm_120.jpg?t=1593725097" alt="">
+</td>
+<td class="text-left"><a href="/app/360097/">Fantasy Grounds - D&amp;D Monk Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360095" data-cache="1593725097">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360095/capsule_sm_120.jpg?t=1593725097" alt="">
+</td>
+<td class="text-left"><a href="/app/360095/">Fantasy Grounds - D&amp;D Druid Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360094" data-cache="1593725099">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360094/capsule_sm_120.jpg?t=1593725099" alt="">
+</td>
+<td class="text-left"><a href="/app/360094/">Fantasy Grounds - D&amp;D Cleric Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360093" data-cache="1593725099">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360093/capsule_sm_120.jpg?t=1593725099" alt="">
+</td>
+<td class="text-left"><a href="/app/360093/">Fantasy Grounds - D&amp;D Bard Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360092" data-cache="1593725099">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360092/capsule_sm_120.jpg?t=1593725099" alt="">
+</td>
+<td class="text-left"><a href="/app/360092/">Fantasy Grounds - D&amp;D Barbarian Class Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360091" data-cache="1597083155">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360091/capsule_sm_120.jpg?t=1597083155" alt="">
+</td>
+<td class="text-left"><a href="/app/360091/">Fantasy Grounds - D&amp;D Character Customization Pack</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="360090" data-cache="1603610723">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/360090/capsule_sm_120.jpg?t=1603610723" alt="">
+</td>
+<td class="text-left"><a href="/app/360090/">Fantasy Grounds - D&amp;D Player's Handbook</a></td>
+<td data-sort="66.33">66.33%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="357350" data-cache="1594671229">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/357350/capsule_sm_120.jpg?t=1594671229" alt="">
+</td>
+<td class="text-left"><a href="/app/357350/">Fantasy Grounds - Dungeons &amp; Dragons: The Rise of Tiamat</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347494" data-cache="1593725100">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347494/capsule_sm_120.jpg?t=1593725100" alt="">
+</td>
+<td class="text-left"><a href="/app/347494/">Fantasy Grounds - Top-down Tokens - Heroic 5</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347493" data-cache="1593725100">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347493/capsule_sm_120.jpg?t=1593725100" alt="">
+</td>
+<td class="text-left"><a href="/app/347493/">Fantasy Grounds - Top-down Tokens - Heroic 4</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347492" data-cache="1593725102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347492/capsule_sm_120.jpg?t=1593725102" alt="">
+</td>
+<td class="text-left"><a href="/app/347492/">Fantasy Grounds - Top-down Tokens - Heroic 3</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347491" data-cache="1593725102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347491/capsule_sm_120.jpg?t=1593725102" alt="">
+</td>
+<td class="text-left"><a href="/app/347491/">Fantasy Grounds - Top-down Tokens - Heroic 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347490" data-cache="1593725102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347490/capsule_sm_120.jpg?t=1593725102" alt="">
+</td>
+<td class="text-left"><a href="/app/347490/">Fantasy Grounds - Top-down Tokens - Heroic 1</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347105" data-cache="1593725102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347105/capsule_sm_120.jpg?t=1593725102" alt="">
+</td>
+<td class="text-left"><a href="/app/347105/">Fantasy Grounds - Fiery Dragon Counter Collection: Epic 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347104" data-cache="1593725104">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347104/capsule_sm_120.jpg?t=1593725104" alt="">
+</td>
+<td class="text-left"><a href="/app/347104/">Fantasy Grounds - Fiery Dragon Counter Collection: Paragon 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347103" data-cache="1593725104">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347103/capsule_sm_120.jpg?t=1593725104" alt="">
+</td>
+<td class="text-left"><a href="/app/347103/">Fantasy Grounds - Fiery Dragon Counter Collection: Epic 1</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347102" data-cache="1593725104">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347102/capsule_sm_120.jpg?t=1593725104" alt="">
+</td>
+<td class="text-left"><a href="/app/347102/">Fantasy Grounds - Rite Publishing Fantastic Maps - Lairs Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="347101" data-cache="1593725104">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/347101/capsule_sm_120.jpg?t=1593725104" alt="">
+</td>
+<td class="text-left"><a href="/app/347101/">Fantasy Grounds - Fiery Dragon Counter Collection: Heroic 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="342330" data-cache="1600050626">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/342330/capsule_sm_120.jpg?t=1600050626" alt="">
+</td>
+<td class="text-left"><a href="/app/342330/">Fantasy Grounds - 3.5E/PFRPG Advanced Bestiary</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="328021" data-cache="1593725112">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/328021/capsule_sm_120.jpg?t=1593725112" alt="">
+</td>
+<td class="text-left"><a href="/app/328021/">Fantasy Grounds - Maps: Graystone Castle</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="328020" data-cache="1593725112">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/328020/capsule_sm_120.jpg?t=1593725112" alt="">
+</td>
+<td class="text-left"><a href="/app/328020/">Fantasy Grounds - Maps: Cobblestone City and Inn</a></td>
+<td data-sort="35.92">35.92%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="319880" data-cache="1593725116">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/319880/capsule_sm_120.jpg?t=1593725116" alt="">
+</td>
+<td class="text-left"><a href="/app/319880/">Fantasy Grounds - PFRPG: U1: Dark Days in Stoneholme</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="319840" data-cache="1593725118">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/319840/capsule_sm_120.jpg?t=1593725118" alt="">
+</td>
+<td class="text-left"><a href="/app/319840/">Fantasy Grounds - PFRPG: BASIC3 - A Giving Time</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="315730" data-cache="1593725122">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/315730/capsule_sm_120.jpg?t=1593725122" alt="">
+</td>
+<td class="text-left"><a href="/app/315730/">Fantasy Grounds - PFRPG The Reaping Stone</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="315630" data-cache="1593725122">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/315630/capsule_sm_120.jpg?t=1593725122" alt="">
+</td>
+<td class="text-left"><a href="/app/315630/">Fantasy Grounds - PFRPG Rite Publishing's Adventure Quarterly #5</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="314170" data-cache="1593725122">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/314170/capsule_sm_120.jpg?t=1593725122" alt="">
+</td>
+<td class="text-left"><a href="/app/314170/">Fantasy Grounds - PixelFigs Half-Orcs Token and Portrait Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="313520" data-cache="1593725122">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/313520/capsule_sm_120.jpg?t=1593725122" alt="">
+</td>
+<td class="text-left"><a href="/app/313520/">Fantasy Grounds - PFRPG The Breaking of Forstor Nagar</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="311921" data-cache="1602869796">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/311921/capsule_sm_120.jpg?t=1602869796" alt="">
+</td>
+<td class="text-left"><a href="/app/311921/">Fantasy Grounds - PFRPG Compatible Adventure: The Lost City of Bransik - One on One Adventure #16</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="311920" data-cache="1593725124">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/311920/capsule_sm_120.jpg?t=1593725124" alt="">
+</td>
+<td class="text-left"><a href="/app/311920/">Fantasy Grounds - PFRPG Compatible Adventure: Cipactli's Maw - One on One Adventure #15</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="308140" data-cache="1593725124">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/308140/capsule_sm_120.jpg?t=1593725124" alt="">
+</td>
+<td class="text-left"><a href="/app/308140/">Fantasy Grounds - 3.5E/PFRPG 1 on 1 Adventure #3 The Forbidden Hills</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="308030" data-cache="1593725124">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/308030/capsule_sm_120.jpg?t=1593725124" alt="">
+</td>
+<td class="text-left"><a href="/app/308030/">Fantasy Grounds - 3.5E/PFRPG 1 on 1 Adventure #2 The Star of Olinder</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="308010" data-cache="1593725124">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/308010/capsule_sm_120.jpg?t=1593725124" alt="">
+</td>
+<td class="text-left"><a href="/app/308010/">Fantasy Grounds - PFRPG Curse of the Sickled Hand</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="305471" data-cache="1593725126">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/305471/capsule_sm_120.jpg?t=1593725126" alt="">
+</td>
+<td class="text-left"><a href="/app/305471/">Fantasy Grounds - Gaming Tokens &amp; Portraits Pack #3: PC's &amp; NPCs</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="303332" data-cache="1593725128">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/303332/capsule_sm_120.jpg?t=1593725128" alt="">
+</td>
+<td class="text-left"><a href="/app/303332/">Fantasy Grounds - Creature Collection 4E - Heroic 1 Token Pack</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="301247" data-cache="1593725130">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/301247/capsule_sm_120.jpg?t=1593725130" alt="">
+</td>
+<td class="text-left"><a href="/app/301247/">Fantasy Grounds - 3.5E/PFRPG: Gambler's Quest - 1 on 1</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="301245" data-cache="1593725132">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/301245/capsule_sm_120.jpg?t=1593725132" alt="">
+</td>
+<td class="text-left"><a href="/app/301245/">Fantasy Grounds - 4E: Lands of Darkness #2: Cesspools of Arnac</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="301244" data-cache="1593725132">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/301244/capsule_sm_120.jpg?t=1593725132" alt="">
+</td>
+<td class="text-left"><a href="/app/301244/">Fantasy Grounds - 4E: Lands of Darkness #1: The Barrow Grounds</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="301242" data-cache="1593725132">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/301242/capsule_sm_120.jpg?t=1593725132" alt="">
+</td>
+<td class="text-left"><a href="/app/301242/">Fantasy Grounds - 3.5E/PFRPG: B01: Under His Skin</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="301241" data-cache="1593725132">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/301241/capsule_sm_120.jpg?t=1593725132" alt="">
+</td>
+<td class="text-left"><a href="/app/301241/">Fantasy Grounds - 3.5E/PFRPG: A01: Crypt of the Sun Lord</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="301240" data-cache="1593725134">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/301240/capsule_sm_120.jpg?t=1593725134" alt="">
+</td>
+<td class="text-left"><a href="/app/301240/">Fantasy Grounds - 3.5E/PFRPG: A00: Crow's Rest Island</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="300870" data-cache="1598747787">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/300870/capsule_sm_120.jpg?t=1598747787" alt="">
+</td>
+<td class="text-left"><a href="/app/300870/">Fantasy Grounds - Ultimate Upgrade</a></td>
+<td data-sort="68.00">68.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="299140" data-cache="1593725138">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/299140/capsule_sm_120.jpg?t=1593725138" alt="">
+</td>
+<td class="text-left"><a href="/app/299140/">Fantasy Grounds - PFRPG Basic Paths: Fangs from the Past</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="213197" data-cache="1602555758">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/213197/capsule_sm_120.jpg?t=1602555758" alt="">
+</td>
+<td class="text-left"><a href="/app/213197/">Dungeons &amp; Dragons Online® Catacombs Starter Pack</a></td>
+<td data-sort="69.59">69.59%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="213195" data-cache="1609222156">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/213195/capsule_sm_120.jpg?t=1609222156" alt="">
+</td>
+<td class="text-left"><a href="/app/213195/">Dungeons &amp; Dragons Online® Menace of the Underdark™</a></td>
+<td data-sort="60.28">60.28%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr></tbody>
+</table><div class="dataTables_info_container text-center"><div class="dataTables_info" id="table-apps_info" role="status" aria-live="polite">Showing 1 to 250 of 250 entries</div></div><div class="dataTables_paginate paging_simple_numbers" id="table-apps_paginate"><nav class="pagination" aria-label="Pagination"><a class="paginate_button previous disabled" id="table-apps_previous" href="#" aria-controls="table-apps" data-dt-idx="0" tabindex="0">Previous</a><a class="paginate_button active" href="#" aria-controls="table-apps" data-dt-idx="1" tabindex="0">1</a><a class="paginate_button next disabled" id="table-apps_next" href="#" aria-controls="table-apps" data-dt-idx="2" tabindex="0">Next</a></nav></div></div>
+</div>
+<a href="/tag/14153/?all">View all apps without limiting</a> <i>(requires to be signed in)</i><script nonce="" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" src="/static/js/vendor/jquery.js?v=f3de1813a4160f92"></script><script nonce="" integrity="sha512-1ldJgrhlWJ6exKxNHUerSVIPmf3O9LShj8j9haz0y6qy7G88aJg8Iu+RWXf9MZ9s3zhh2cFdjY/S8Ov6+fWmrw==" src="/static/js/vendor/dataTables.js?v=d6574982b865589e"></script>
+<script nonce="">(function()
+{
+var cdnUrl = $( document.body ).data( 'steam-cdn' );
+$( '#table-apps' ).DataTable({
+orderClasses: false,
+autoWidth: false,
+pageLength: 100,
+stripeClasses: [],
+lengthMenu:
+[
+[ 25, 50, 100, 250, 1000, 5000, -1 ],
+[ 25, 50, 100, 250, '1K', '5K', 'All (slow)' ]
+],
+initComplete: function( )
+{
+$( this )
+.find( 'tfoot' ).remove().end()
+.find( 'tbody' ).prop( 'hidden', false );
+},
+rowCallback: function( row )
+{
+row = $( row );
+if( row.data( 'loaded' ) )
+{
+return;
+}
+row
+.data( 'loaded', true )
+.find( '.applogo img' )
+.one( 'error', function()
+{
+$( this ).attr( 'src', '/static/img/applogo.svg' );
+} )
+.attr( 'src', cdnUrl + 'steam/apps/' + row.data( 'appid' ) + '/capsule_sm_120.jpg?t=' + row.data( 'cache' ) );
+}
+});
+}());
+</script>
+</div>
+</div>
+<div class="footer" role="contentinfo" id="steamdb-org" itemscope="" itemtype="http://schema.org/Organization" itemprop="publisher">
+<meta itemprop="name" content="Steam Database">
+<meta itemprop="alternateName" content="SteamDB">
+<meta itemprop="url" content="https://steamdb.info/">
+<span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://steamdb.info/static/logos/512px.png">
+<meta itemprop="width" content="512">
+<meta itemprop="height" content="512">
+</span>
+<div class="container">
+<div class="row">
+<div class="span9 footer-attribution">
+<div class="footer-steamdb">Steam Database</div>
+<div>By <a href="https://xpaw.me">xPaw</a> and <a href="https://marlamin.com/">Marlamin</a></div>
+<div class="footer-third-party">SteamDB is a community website and is not affiliated with Valve or Steam.<br>All times on the site are UTC.</div>
+<a href="/?dark=0" id="dark-mode-toggle" rel="nofollow"><span class="dark-mode-slider"></span> <span class="dark-mode-disabled">Enable dark mode</span><span class="dark-mode-enabled">Disable dark mode</span></a>
+</div>
+<div class="span3">
+<a class="btn-social" href="https://twitter.com/intent/follow?screen_name=SteamDB" itemprop="sameAs">
+<svg viewBox="0 0 32 32" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path d="M31.993 6.077c-1.177.523-2.44.876-3.77 1.033 1.355-.812 2.396-2.098 2.887-3.63-1.27.75-2.673 1.3-4.168 1.592C25.744 3.797 24.038 3 22.15 3c-3.626 0-6.563 2.938-6.563 6.563 0 .514.057 1.016.17 1.496C10.3 10.784 5.464 8.17 2.226 4.2c-.564.97-.888 2.098-.888 3.3 0 2.28 1.158 4.287 2.918 5.465-1.075-.035-2.087-.33-2.972-.82v.08c0 3.182 2.26 5.835 5.264 6.438-.55.15-1.13.23-1.73.23-.423 0-.833-.04-1.233-.117.834 2.606 3.26 4.504 6.13 4.558-2.245 1.76-5.075 2.81-8.15 2.81-.53 0-1.053-.03-1.566-.09C2.906 27.913 6.356 29 10.063 29c12.072 0 18.675-10 18.675-18.675 0-.284-.008-.568-.02-.85 1.283-.925 2.395-2.08 3.276-3.398z"></path>
+</svg>
+<span class="btn-social-title">Follow @SteamDB</span>
+</a>
+<a class="btn-social" href="https://twitter.com/intent/follow?screen_name=thexpaw">
+<svg viewBox="0 0 32 32" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path d="M31.993 6.077c-1.177.523-2.44.876-3.77 1.033 1.355-.812 2.396-2.098 2.887-3.63-1.27.75-2.673 1.3-4.168 1.592C25.744 3.797 24.038 3 22.15 3c-3.626 0-6.563 2.938-6.563 6.563 0 .514.057 1.016.17 1.496C10.3 10.784 5.464 8.17 2.226 4.2c-.564.97-.888 2.098-.888 3.3 0 2.28 1.158 4.287 2.918 5.465-1.075-.035-2.087-.33-2.972-.82v.08c0 3.182 2.26 5.835 5.264 6.438-.55.15-1.13.23-1.73.23-.423 0-.833-.04-1.233-.117.834 2.606 3.26 4.504 6.13 4.558-2.245 1.76-5.075 2.81-8.15 2.81-.53 0-1.053-.03-1.566-.09C2.906 27.913 6.356 29 10.063 29c12.072 0 18.675-10 18.675-18.675 0-.284-.008-.568-.02-.85 1.283-.925 2.395-2.08 3.276-3.398z"></path>
+</svg>
+<span class="btn-social-title">Follow @thexpaw</span>
+</a>
+<a class="btn-social" href="/discord/" rel="nofollow">
+<svg viewBox="0 0 24 24" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path d="M20.222 0c1.406 0 2.54 1.137 2.607 2.475V24l-2.677-2.273-1.47-1.338-1.604-1.398.67 2.205H3.71c-1.402 0-2.54-1.065-2.54-2.476V2.48C1.17 1.142 2.31.003 3.715.003h16.5L20.222 0zm-6.118 5.683h-.03l-.202.2c2.073.6 3.076 1.537 3.076 1.537-1.336-.668-2.54-1.002-3.744-1.137-.87-.135-1.74-.064-2.475 0h-.2c-.47 0-1.47.2-2.81.735-.467.203-.735.336-.735.336s1.002-1.002 3.21-1.537l-.135-.135s-1.672-.064-3.477 1.27c0 0-1.805 3.144-1.805 7.02 0 0 1 1.74 3.743 1.806 0 0 .4-.533.805-1.002-1.54-.468-2.14-1.404-2.14-1.404s.134.066.335.2h.06c.03 0 .044.015.06.03v.006c.016.016.03.03.06.03.33.136.66.27.93.4.466.202 1.065.403 1.8.536.93.135 1.996.2 3.21 0 .6-.135 1.2-.267 1.8-.535.39-.2.87-.4 1.397-.737 0 0-.6.936-2.205 1.404.33.466.795 1 .795 1 2.744-.06 3.81-1.8 3.87-1.726 0-3.87-1.815-7.02-1.815-7.02-1.635-1.214-3.165-1.26-3.435-1.26l.056-.02zm.168 4.413c.703 0 1.27.6 1.27 1.335 0 .74-.57 1.34-1.27 1.34-.7 0-1.27-.6-1.27-1.334.002-.74.573-1.338 1.27-1.338zm-4.543 0c.7 0 1.266.6 1.266 1.335 0 .74-.57 1.34-1.27 1.34-.7 0-1.27-.6-1.27-1.334 0-.74.57-1.338 1.27-1.338z"></path>
+</svg>
+<span class="btn-social-title">Join our Discord</span>
+</a>
+<a class="btn-social" href="https://steamcommunity.com/groups/steamdb" itemprop="sameAs">
+<svg viewBox="0 0 16 16" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path d="M8 0a8 8 0 00-8 7.47c.07.1.13.21.18.32l4.15 1.67a2.2 2.2 0 011.31-.36l1.97-2.8v-.04c0-1.65 1.37-3 3.05-3a3.03 3.03 0 013.05 3 3.03 3.03 0 01-3.12 3l-2.81 1.97c0 .3-.05.6-.17.9a2.25 2.25 0 01-4.23-.37L.4 10.56A8.01 8.01 0 108 0zm2.66 4.27c-1.12 0-2.03.9-2.03 2s.91 1.99 2.03 1.99c1.12 0 2.03-.9 2.03-2s-.9-2-2.03-2zm0 .5c.85 0 1.53.66 1.53 1.49s-.68 1.5-1.53 1.5c-.84 0-1.52-.67-1.52-1.5s.68-1.5 1.52-1.5zM5.57 9.6c-.22 0-.43.04-.62.11l1.02.42c.65.26.95.99.68 1.62-.27.63-1 .93-1.65.67l-1-.4a1.73 1.73 0 003.13-.08c.18-.42.18-.88.01-1.3A1.69 1.69 0 005.57 9.6z"></path>
+</svg>
+<span class="btn-social-title">Join our Steam Group</span>
+</a>
+<a class="btn-social" href="https://github.com/SteamDatabase" itemprop="sameAs">
+<svg viewBox="0 0 16 16" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+<span class="btn-social-title">View our GitHub</span>
+</a>
+<a class="btn-social" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2143864906" rel="nofollow" style="color:#ffc83d">
+<svg viewBox="0 0 13 21" xmlns="http://www.w3.org/2000/svg" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.8.2l-.6.42c-.24.15-.5.23-.81.2L3.93.73c-.5-.04-.97.19-1.2.65l-.3.65c-.16.27-.35.47-.62.58l-.42.2c-.46.19-.73.65-.7 1.15l.05.73c.03.3-.04.54-.24.77l-.26.39c-.31.38-.31.92-.04 1.34l.42.62c.15.23.2.5.2.8l-.08.47c-.04.5.19.96.65 1.2l.65.3c.27.15.46.35.58.62l.15.42c.23.46.66.73 1.2.7l.72-.05c.27-.04.54.04.77.23l.39.27c.38.31.92.31 1.34.04l.62-.42c.23-.16.5-.2.77-.2l.46.08c.5.04 1-.19 1.19-.65l.34-.66c.12-.27.31-.46.58-.57l.42-.16c.46-.23.77-.65.73-1.19l-.04-.73a.97.97 0 01.24-.77l.26-.39c.31-.38.31-.92.04-1.34l-.42-.62a1.1 1.1 0 01-.2-.77l.08-.46c.04-.5-.19-1-.65-1.2l-.65-.34c-.27-.12-.46-.3-.58-.58l-.2-.42C10 .97 9.55.66 9.05.7L8.3.74A.93.93 0 017.54.5L7.15.24C6.77-.07 6.23-.07 5.81.2zm.7 2.5a3.82 3.82 0 10-.04 7.65A3.82 3.82 0 006.5 2.7z"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.04 12.78v7.32l3.46-2.47 3.46 2.47v-7.32c-.3.12-.65.2-1 .16l-.42-.08a.65.65 0 00-.39.12l-.61.38c-.66.42-1.46.42-2.12-.04l-.34-.3c-.12-.08-.23-.08-.35-.08l-.73.04c-.34 0-.69-.04-.96-.2z"></path>
+</svg>
+<span class="btn-social-title">Give a Steam Award</span>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="span12 footer-menu hide-small">
+<ul>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/faq/">FAQ &amp; Help</a></li>
+<li><a href="/sales/">Sales</a></li>
+<li><a href="/calculator/">Calculator</a></li>
+<li><a href="/donate/">Donate</a></li>
+<li><a href="/graph/">Charts</a></li>
+</ul>
+<ul>
+<li><a href="/apps/">Apps</a></li>
+<li><a href="/subs/">Packages</a></li>
+<li><a href="/bundles/">Bundles</a></li>
+<li><a href="/history/">History</a></li>
+<li><a href="/instantsearch/">Instant Search</a></li>
+<li><a href="/servers/">Valve MM Servers</a></li>
+</ul>
+<ul>
+<li><a href="/realtime/">Realtime Updates</a></li>
+<li><a href="/pricechanges/">Price Tracking</a></li>
+<li><a href="/tags/">Tags</a></li>
+<li><a href="/upcoming/">Upcoming</a></li>
+<li><a href="/upcoming/mostfollowed/">Most Followed Upcoming</a></li>
+<li><a href="/calendar/">Release Calendar</a></li>
+</ul>
+<ul>
+<li><a href="/stats/gameratings/">Top Rated Games</a></li>
+<li><a href="/badge/13/">Top Game Owners</a></li>
+<li><a href="/stats/toplevels/">Top Steam Levels</a></li>
+<li><a href="/topsellers/">Top Selling Games</a></li>
+<li><a href="/stats/mostfollowed/">Most Followed Games</a></li>
+<li><a href="/badges/">Badges</a></li>
+</ul>
+<ul>
+<li><a href="/sales/history/">When is next sale?</a></li>
+<li><a href="/patchnotes/">Patch notes</a></li>
+<li><a href="/upcoming/free/">Free Promotions</a></li>
+<li><a href="/freepackages/">Free Packages</a></li>
+<li><a href="https://steamstat.us/">Steam Status</a></li>
+<li><a href="https://steamapi.xpaw.me/">Steam Web API</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-copyright">
+<div class="container">Steam and the Steam logo are trademarks of Valve Corporation. All other trademarks are property of their respective owners. <a href="/faq/#what-steamdb-is-not">Fair use disclaimer</a></div>
+</div>
+</div>
+<div class="hover" id="js-hover" hidden=""></div>
+<script nonce="" integrity="sha512-qAFfbfGmF7m39gd3Ot1xaQ3VqZoDCeGQyeX/19ntvAojZtDc10C6v/UyX54MlRwo7oKNfGq6BTPbFpn6oehdPQ==" src="/static/js/footer.js?v=a8015f6df1a617b9" defer=""></script><script nonce="" integrity="sha512-35WB2glFrhhc/0w/rM/WzEyehnIjcC6G+rf26F5wK+Vg9HAY0neIBsxySUSxctUOW/oOfb08i0LaZwX3HvZ7iQ==" src="/static/js/hover.js?v=df9581da0945ae18" defer=""></script>
+<noscript class="extension-warning"><svg version="1.1" width="32" height="32" viewBox="0 0 16 16" class="octicon octicon-alert" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg> For SteamDB to function correctly you must enable JavaScript.</noscript>
+
+</body></html>

@@ -1,0 +1,3698 @@
+<html lang="en" class="dark-mode"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Tags · 4X · SteamDB</title>
+<link rel="stylesheet" integrity="sha512-tta00Bk2HL1Hx60SdWe0C4WKi1cVP3EZeDJczFX0HjST5wFfnxmbGUNSPPG9PGwJ2kWQmoeTUkOnoakeQc1qNw==" href="/static/css/headcrab.css?v=b6d6b4d019361cbd">
+<link rel="alternate" type="application/rss+xml" title="SteamDB Blog" href="https://steamdb.info/api/BlogRSS/">
+<link rel="canonical" href="https://steamdb.info/tag/1670/">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@SteamDB">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SteamDB">
+<meta property="og:title" content="User Tags · 4X">
+<meta name="description" content="A list of products on Steam: 4X">
+<meta property="og:description" content="A list of products on Steam: 4X">
+<meta property="og:image" content="https://steamdb.info/static/logos/512px.png">
+<link rel="image_src" href="https://steamdb.info/static/logos/512px.png">
+<meta name="theme-color" content="#000000">
+<meta name="application-name" content="SteamDB">
+<meta name="apple-mobile-web-app-title" content="SteamDB">
+<link rel="manifest" href="/steamdb.webmanifest">
+<link rel="icon" type="image/png" href="/static/logos/32px.png">
+<link rel="icon" type="image/svg+xml" href="/static/logos/vector_prefers_schema.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/logos/512px_maskable.png">
+<link rel="mask-icon" href="/static/logos/vector_16px.svg" color="#000000">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="SteamDB">
+<link rel="preconnect" href="https://cdn.cloudflare.steamstatic.com/">
+</head>
+<body class="page-tags" itemscope="" itemtype="http://schema.org/WebSite" data-steam-cdn="https://cdn.cloudflare.steamstatic.com/">
+<a class="skip-main" href="#main" id="js-skip-main">Skip to content</a>
+<div class="footer-wrap">
+<div class="body-content">
+<div class="global-announcement" role="banner">
+<style>
+.global-announcement {
+    color: #66c0f4;
+    background-color: #111;
+    text-align:center;
+}
+
+.global-announcement a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.global-announcement a:hover {
+    text-decoration: underline;
+}
+
+.page-tokendumper .global-announcement {
+    display: none;
+}
+
+@media (max-width: 980px) {
+    .global-announcement {
+        display: none;
+    }
+}
+</style>
+<div class="container">
+<svg class="octicon" style="width:25px;height:20px;margin-left:5px;margin-right:14px" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M436 17.5c-30.8-26.7-76.7-21.9-104.9 7.7L320 36.9l-11.1-11.6C280.7-4.4 234.8-9.2 204 17.5c-35.3 30.6-37.2 85.6-5.6 118.8l108.9 114.2c7 7.4 18.4 7.4 25.5 0l108.9-114.2c31.5-33.2 29.7-88.2-5.7-118.8zM204.8 230.4c-10.6-14.1-30.7-17-44.8-6.4-14.1 10.6-17 30.7-6.4 44.8l38.1 50.8c4.8 6.4 4.1 15.3-1.5 20.9l-12.8 12.8c-6.7 6.7-17.6 6.2-23.6-1.1L64 244.4V96c0-17.7-14.3-32-32-32S0 78.3 0 96v218.4c0 10.9 3.7 21.5 10.5 30l104.1 134.3c5 6.5 8.4 13.9 10.4 21.7 1.8 6.9 8.1 11.6 15.3 11.6H272c8.8 0 16-7.2 16-16V384c0-27.7-9-54.6-25.6-76.8l-57.6-76.8zM608 64c-17.7 0-32 14.3-32 32v148.4l-89.8 107.8c-6 7.2-17 7.7-23.6 1.1l-12.8-12.8c-5.6-5.6-6.3-14.5-1.5-20.9l38.1-50.8c10.6-14.1 7.7-34.2-6.4-44.8-14.1-10.6-34.2-7.7-44.8 6.4l-57.6 76.8C361 329.4 352 356.3 352 384v112c0 8.8 7.2 16 16 16h131.7c7.1 0 13.5-4.7 15.3-11.6 2-7.8 5.4-15.2 10.4-21.7l104.1-134.3c6.8-8.5 10.5-19.1 10.5-30V96c0-17.7-14.3-32-32-32z"></path></svg><a href="/tokendumper/"><i>Contribute to SteamDB:</i> Use our token dumper program to help us track hidden games</a>
+</div>
+</div>
+<div class="header" role="banner">
+<div class="container">
+<ul class="header-navbar">
+<li class="header-brand mobile-visible"><a href="/" itemprop="url" aria-label="Homepage"><svg version="1.1" width="30" height="30" viewBox="0 0 128 128" class="octicon octicon-steamdb" aria-hidden="true"><path fill-rule="evenodd" d="M63.9 0C30.5 0 3.1 11.9.1 27.1l35.6 6.7c2.9-.9 6.2-1.3 9.6-1.3l16.7-10c-.2-2.5 1.3-5.1 4.7-7.2 4.8-3.1 12.3-4.8 19.9-4.8 5.2-.1 10.5.7 15 2.2 11.2 3.8 13.7 11.1 5.7 16.3-5.1 3.3-13.3 5-21.4 4.8l-22 7.9c-.2 1.6-1.3 3.1-3.4 4.5-5.9 3.8-17.4 4.7-25.6 1.9-3.6-1.2-6-3-7-4.8L2.5 38.4c2.3 3.6 6 6.9 10.8 9.8C5 53 0 59 0 65.5c0 6.4 4.8 12.3 12.9 17.1C4.8 87.3 0 93.2 0 99.6 0 115.3 28.6 128 64 128c35.3 0 64-12.7 64-28.4 0-6.4-4.8-12.3-12.9-17 8.1-4.8 12.9-10.7 12.9-17.1 0-6.5-5-12.6-13.4-17.4 8.3-5.1 13.3-11.4 13.3-18.2 0-16.5-28.7-29.9-64-29.9zm22.8 14.2c-5.2.1-10.2 1.2-13.4 3.3-5.5 3.6-3.8 8.5 3.8 11.1 7.6 2.6 18.1 1.8 23.6-1.8s3.8-8.5-3.8-11c-3.1-1-6.7-1.5-10.2-1.5zm.3 1.7c7.4 0 13.3 2.8 13.3 6.2 0 3.4-5.9 6.2-13.3 6.2s-13.3-2.8-13.3-6.2c0-3.4 5.9-6.2 13.3-6.2zM45.3 34.4c-1.6.1-3.1.2-4.6.4l9.1 1.7a10.8 5 0 1 1-8.1 9.3l-8.9-1.7c1 .9 2.4 1.7 4.3 2.4 6.4 2.2 15.4 1.5 20-1.5s3.2-7.2-3.2-9.3c-2.6-.9-5.7-1.3-8.6-1.3zM109 51v9.3c0 11-20.2 19.9-45 19.9-24.9 0-45-8.9-45-19.9v-9.2c11.5 5.3 27.4 8.6 44.9 8.6 17.6 0 33.6-3.3 45.2-8.7zm0 34.6v8.8c0 11-20.2 19.9-45 19.9-24.9 0-45-8.9-45-19.9v-8.8c11.6 5.1 27.4 8.2 45 8.2s33.5-3.1 45-8.2z"></path></svg></a></li>
+<li class="header-search mobile-visible">
+<form id="js-header-form" method="GET" action="/search/" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" role="search">
+<input type="hidden" name="a" value="app">
+<meta itemprop="target" content="https://steamdb.info/search/?a=app&amp;q={q}">
+<input type="search" class="field" id="js-header-search" name="q" placeholder="Search…" itemprop="query-input" aria-label="Search">
+<button type="submit" class="submit" aria-label="Perform search"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-search" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg></button>
+</form>
+</li>
+<li><a href="/sales/">Sales</a></li>
+<li><a href="/calculator/">Calculator</a></li>
+<li><a href="/patchnotes/">Patch notes</a></li>
+<li><a href="/graph/">Charts</a></li>
+<li><a href="/upcoming/">Upcoming</a></li>
+<li class="header-hamburger" id="js-header-hamburger" tabindex="0"><span>More</span><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-chevron-down" aria-hidden="true"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg></li>
+<li class="header-hamburger mobile-visible"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-three-bars" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg></li>
+<li class="header-user">
+<a class="header-login" href="/login/?page=tag%2F1670">
+<svg version="1.1" width="20" height="20" viewBox="0 0 16 16" class="octicon octicon-steam" aria-hidden="true"><path d="M8 0a8 8 0 00-8 7.47c.07.1.13.21.18.32l4.15 1.67a2.2 2.2 0 011.31-.36l1.97-2.8v-.04c0-1.65 1.37-3 3.05-3a3.03 3.03 0 013.05 3 3.03 3.03 0 01-3.12 3l-2.81 1.97c0 .3-.05.6-.17.9a2.25 2.25 0 01-4.23-.37L.4 10.56A8.01 8.01 0 108 0zm2.66 4.27c-1.12 0-2.03.9-2.03 2s.91 1.99 2.03 1.99c1.12 0 2.03-.9 2.03-2s-.9-2-2.03-2zm0 .5c.85 0 1.53.66 1.53 1.49s-.68 1.5-1.53 1.5c-.84 0-1.52-.67-1.52-1.5s.68-1.5 1.52-1.5zM5.57 9.6c-.22 0-.43.04-.62.11l1.02.42c.65.26.95.99.68 1.62-.27.63-1 .93-1.65.67l-1-.4a1.73 1.73 0 003.13-.08c.18-.42.18-.88.01-1.3A1.69 1.69 0 005.57 9.6z"></path></svg> <span>Sign in</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="header-search-suggestions">
+<div class="container" id="js-search-suggestions">
+<p>Start typing to see game suggestions. This only suggests apps that are available on the Steam store.</p>
+<p>Shortcuts:</p>
+<ul>
+<li>Enter an appid to be redirected to the app page.</li>
+<li>Enter a steamid (765...) to be redirected to calculator.</li>
+<li>Paste a profile link (/id/ or /profiles/) to be redirected to calculator.</li>
+<li>Paste any url that contains app/, sub/, bundle/, or /depot to be redirected to the relevant page.</li>
+</ul>
+<p>Click anywhere outside the search field to close this popup.</p>
+<p>Search suggestions are powered by Algolia instant search.</p>
+</div>
+</div>
+<div class="header-menu">
+<div class="container">
+<ul>
+<li><a href="/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-home" aria-hidden="true"><path fill-rule="evenodd" d="M8.156 1.835a.25.25 0 00-.312 0l-5.25 4.2a.25.25 0 00-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 01.75-.75h3.5a.75.75 0 01.75.75v5.25h2.75a.25.25 0 00.25-.25V6.23a.25.25 0 00-.094-.195l-5.25-4.2zM6.906.664a1.75 1.75 0 012.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0113.25 15h-3.5a.75.75 0 01-.75-.75V9H7v5.25a.75.75 0 01-.75.75h-3.5A1.75 1.75 0 011 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2h-.001z"></path></svg> Homepage</a></li>
+<li><a href="/blog/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-megaphone" aria-hidden="true"><g fill-rule="evenodd"><path d="M3.25 9a.75.75 0 01.75.75c0 2.142.456 3.828.733 4.653a.121.121 0 00.05.064.207.207 0 00.117.033h1.31c.085 0 .18-.042.258-.152a.448.448 0 00.075-.366A16.74 16.74 0 016 9.75a.75.75 0 011.5 0c0 1.588.25 2.926.494 3.85.293 1.113-.504 2.4-1.783 2.4H4.9c-.686 0-1.35-.41-1.589-1.12A16.42 16.42 0 012.5 9.75.75.75 0 013.25 9z"></path><path d="M0 6a4 4 0 014-4h2.75a.75.75 0 01.75.75v6.5a.75.75 0 01-.75.75H4a4 4 0 01-4-4zm4-2.5a2.5 2.5 0 000 5h2v-5H4z"></path><path d="M15.59.082A.75.75 0 0116 .75v10.5a.75.75 0 01-1.189.608l-.002-.001h.001l-.014-.01a5.829 5.829 0 00-.422-.25 10.58 10.58 0 00-1.469-.64C11.576 10.484 9.536 10 6.75 10a.75.75 0 110-1.5c2.964 0 5.174.516 6.658 1.043.423.151.787.302 1.092.443V2.014c-.305.14-.669.292-1.092.443C11.924 2.984 9.713 3.5 6.75 3.5a.75.75 0 110-1.5c2.786 0 4.826-.484 6.155-.957.665-.236 1.154-.47 1.47-.64a5.82 5.82 0 00.421-.25l.014-.01a.75.75 0 01.78-.061zm-.78.06zm.44 11.108l-.44.607.44-.607z"></path></g></svg> Blog</a></li>
+<li class="mobile-visible"><a href="/discord/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-comment-discussion" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"></path></svg> Discord</a></li>
+<li><a href="/faq/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-question" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004a7.728 7.728 0 00-.313.195 2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.863-1.725A2.76 2.76 0 008 4c-.631 0-1.155.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 101.342.67z"></path></svg> FAQ &amp; Help</a></li>
+<li class="mobile-visible"><a href="/sales/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-credit-card" aria-hidden="true"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"></path><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"></path></svg> Sales</a></li>
+<li class="mobile-visible"><a href="/calculator/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-smiley" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path></svg> Calculator</a></li>
+<li class="mobile-visible"><a href="/patchnotes/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-megaphone" aria-hidden="true"><g fill-rule="evenodd"><path d="M3.25 9a.75.75 0 01.75.75c0 2.142.456 3.828.733 4.653a.121.121 0 00.05.064.207.207 0 00.117.033h1.31c.085 0 .18-.042.258-.152a.448.448 0 00.075-.366A16.74 16.74 0 016 9.75a.75.75 0 011.5 0c0 1.588.25 2.926.494 3.85.293 1.113-.504 2.4-1.783 2.4H4.9c-.686 0-1.35-.41-1.589-1.12A16.42 16.42 0 012.5 9.75.75.75 0 013.25 9z"></path><path d="M0 6a4 4 0 014-4h2.75a.75.75 0 01.75.75v6.5a.75.75 0 01-.75.75H4a4 4 0 01-4-4zm4-2.5a2.5 2.5 0 000 5h2v-5H4z"></path><path d="M15.59.082A.75.75 0 0116 .75v10.5a.75.75 0 01-1.189.608l-.002-.001h.001l-.014-.01a5.829 5.829 0 00-.422-.25 10.58 10.58 0 00-1.469-.64C11.576 10.484 9.536 10 6.75 10a.75.75 0 110-1.5c2.964 0 5.174.516 6.658 1.043.423.151.787.302 1.092.443V2.014c-.305.14-.669.292-1.092.443C11.924 2.984 9.713 3.5 6.75 3.5a.75.75 0 110-1.5c2.786 0 4.826-.484 6.155-.957.665-.236 1.154-.47 1.47-.64a5.82 5.82 0 00.421-.25l.014-.01a.75.75 0 01.78-.061zm-.78.06zm.44 11.108l-.44.607.44-.607z"></path></g></svg> Patch notes</a></li>
+<li class="mobile-visible"><a href="/graph/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-pulse" aria-hidden="true"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"></path></svg> Charts</a></li>
+<li><a href="/donate/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-key" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 5.5a4 4 0 112.731 3.795.75.75 0 00-.768.18L7.44 10.5H6.25a.75.75 0 00-.75.75v1.19l-.06.06H4.25a.75.75 0 00-.75.75v1.19l-.06.06H1.75a.25.25 0 01-.25-.25v-1.69l5.024-5.023a.75.75 0 00.181-.768A3.995 3.995 0 016.5 5.5zm4-5.5a5.5 5.5 0 00-5.348 6.788L.22 11.72a.75.75 0 00-.22.53v2C0 15.216.784 16 1.75 16h2a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V14h.75a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V12h.75a.75.75 0 00.53-.22l.932-.932A5.5 5.5 0 1010.5 0zm.5 6a1 1 0 100-2 1 1 0 000 2z"></path></svg> Donate</a></li>
+<li><a href="/extension/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-desktop-download" aria-hidden="true"><path d="M4.927 5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z"></path><path d="M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z"></path></svg> Browser extension</a></li>
+</ul>
+<ul>
+<li><a href="/apps/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-list-ordered" aria-hidden="true"><path fill-rule="evenodd" d="M2.003 2.5a.5.5 0 00-.723-.447l-1.003.5a.5.5 0 00.446.895l.28-.14V6H.5a.5.5 0 000 1h2.006a.5.5 0 100-1h-.503V2.5zM5 3.25a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5A.75.75 0 015 3.25zm0 5a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5A.75.75 0 015 8.25zm0 5a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5a.75.75 0 01-.75-.75zM.924 10.32l.003-.004a.851.851 0 01.144-.153A.66.66 0 011.5 10c.195 0 .306.068.374.146a.57.57 0 01.128.376c0 .453-.269.682-.8 1.078l-.035.025C.692 11.98 0 12.495 0 13.5a.5.5 0 00.5.5h2.003a.5.5 0 000-1H1.146c.132-.197.351-.372.654-.597l.047-.035c.47-.35 1.156-.858 1.156-1.845 0-.365-.118-.744-.377-1.038-.268-.303-.658-.484-1.126-.484-.48 0-.84.202-1.068.392a1.858 1.858 0 00-.348.384l-.007.011-.002.004-.001.002-.001.001a.5.5 0 00.851.525zM.5 10.055l-.427-.26.427.26z"></path></svg> Apps</a></li>
+<li><a href="/subs/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-package" aria-hidden="true"><path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"></path></svg> Packages</a></li>
+<li><a href="/bundles/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-package-dependents" aria-hidden="true"><path fill-rule="evenodd" d="M6.122.392a1.75 1.75 0 011.756 0l5.25 3.045c.54.313.872.89.872 1.514V7.25a.75.75 0 01-1.5 0V5.677L7.75 8.432v6.384a1 1 0 01-1.502.865L.872 12.563A1.75 1.75 0 010 11.049V4.951c0-.624.332-1.2.872-1.514L6.122.392zM7.125 1.69l4.63 2.685L7 7.133 2.245 4.375l4.63-2.685a.25.25 0 01.25 0zM1.5 11.049V5.677l4.75 2.755v5.516l-4.625-2.683a.25.25 0 01-.125-.216zm10.828 3.684a.75.75 0 101.087 1.034l2.378-2.5a.75.75 0 000-1.034l-2.378-2.5a.75.75 0 00-1.087 1.034L13.501 12H10.25a.75.75 0 000 1.5h3.251l-1.173 1.233z"></path></svg> Bundles</a></li>
+<li><a href="/history/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-history" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg> History</a></li>
+<li><a href="/instantsearch/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-search" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg> Instant Search</a></li>
+</ul>
+<ul>
+<li><a href="/realtime/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-hubot" aria-hidden="true"><path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"></path></svg> Realtime Updates</a></li>
+<li><a href="/pricechanges/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-mirror" aria-hidden="true"><path fill-rule="evenodd" d="M8.75 1.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 4a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 4zm.75 3.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 10a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 10zm0 3a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 13zm7.547-9.939A.75.75 0 0116 3.75v8.5a.75.75 0 01-1.265.545l-4.5-4.25a.75.75 0 010-1.09l4.5-4.25a.75.75 0 01.812-.144zM11.842 8l2.658 2.51V5.49L11.842 8zM0 12.25a.75.75 0 001.265.545l4.5-4.25a.75.75 0 000-1.09l-4.5-4.25A.75.75 0 000 3.75v8.5zm1.5-6.76L4.158 8 1.5 10.51V5.49z"></path></svg> Price Tracking</a></li>
+<li><a href="/tags/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-tag" aria-hidden="true"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"></path></svg> Tags</a></li>
+<li><a href="/upcoming/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-calendar" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"></path></svg> Upcoming</a></li>
+<li><a href="/upcoming/free/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gift" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"></path></svg> Free Promotions</a></li>
+</ul>
+<ul>
+<li><a href="/stats/gameratings/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-graph" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg> Top Rated Games</a></li>
+<li><a href="/badge/13/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-play" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg> Top Game Owners</a></li>
+<li><a href="/stats/toplevels/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-people" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg> Top Steam Levels</a></li>
+<li><a href="/topsellers/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-credit-card" aria-hidden="true"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"></path><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"></path></svg> Top Selling Games</a></li>
+<li><a href="/badges/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-bookmark" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 2.5a.25.25 0 00-.25.25v9.91l3.023-2.489a.75.75 0 01.954 0l3.023 2.49V2.75a.25.25 0 00-.25-.25h-6.5zM3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 01-1.227.579L8 11.722l-3.773 3.107A.75.75 0 013 14.25V2.75z"></path></svg> Badges</a></li>
+</ul>
+<ul>
+<li><a href="https://steamstat.us/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-sun" aria-hidden="true"><path fill-rule="evenodd" d="M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z"></path></svg> Steam Status</a></li>
+<li><a href="https://steamapi.xpaw.me/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-telescope" aria-hidden="true"><path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"></path></svg> Steam Web API</a></li>
+<li><a href="/freepackages/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gift" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"></path></svg> Free Packages</a></li>
+<li><a href="/login/?page=tag%2F1670"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-sign-in" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm6.56 4.5l1.97-1.97a.75.75 0 10-1.06-1.06L6.22 7.47a.75.75 0 000 1.06l3.25 3.25a.75.75 0 101.06-1.06L8.56 8.75h5.69a.75.75 0 000-1.5H8.56z"></path></svg> Sign in via Steam</a></li>
+</ul>
+<div class="header-disclaimer">SteamDB is a community website and is not affiliated with Valve or Steam. All times on the site are UTC.</div>
+</div>
+</div>
+<div id="main"></div>
+</div>
+<script nonce="" integrity="sha512-hGcJcuL6BXVeXUyeC90nvFx3g+euit8wR/QIGdS4r3UoMK46n5IikBrRQL0fETRbEsECastd7OsT+h5tN9tVww==" src="/static/js/vendor/bugsnag.js?v=84670972e2fa0575"></script><script nonce="" integrity="sha512-aBdMa8moF9A6LNKorjVrElDmqrqpqUZDizoF72DBRmYHTma5CzowbcebIKEUdJ0niuFtNCWJVvzJw84o8BTemQ==" src="/static/js/global.js?v=68174c6bc9a817d0"></script>
+<style>
+@media (max-width: 980px) {
+.header-wrapper .container {
+flex-direction: column;
+margin-bottom: 20px;
+}
+}
+</style>
+<div class="header-wrapper">
+<div class="container d-flex">
+<h1 class="header-title flex-grow"><span class="muted"><a href="/tags/">Tags</a> »</span> 4X</h1>
+<a href="/sales/?tagid=1670" class="btn btn-primary" style="align-self:center">View sales with this tag</a>
+</div>
+</div>
+<div class="container">
+<div class="table-responsive">
+<div class="pre-table-title">4X</div>
+<div id="table-apps_wrapper" class="dataTables_wrapper"><div class="row dataTable_display"><div class="span6"><div class="dataTables_length" id="table-apps_length"><label>Show <select name="table-apps_length" aria-controls="table-apps" class=""><option value="25">25</option><option value="50">50</option><option value="100">100</option><option value="250">250</option><option value="1000">1K</option><option value="5000">5K</option><option value="-1">All (slow)</option></select> entries</label></div></div><div class="span6"><div id="table-apps_filter" class="dataTables_filter"><label>Search:<input type="search" class="" placeholder="" aria-controls="table-apps"></label></div></div></div><table class="table-products text-center dataTable" id="table-apps" data-order="[[3,&quot;desc&quot;]]" role="grid" aria-describedby="table-apps_info">
+<thead>
+<tr role="row"><th style="width:119px" data-orderable="false" class="sorting_disabled" rowspan="1" colspan="1" aria-label=" "> </th><th class="text-left sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Name: activate to sort column ascending">Name</th><th style="width:100px" title="SteamDB Rating" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Rating: activate to sort column ascending">Rating</th><th style="width:100px" class="sorting sorting_desc" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-sort="descending" aria-label="Followers: activate to sort column ascending">Followers</th><th style="width:100px" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Online: activate to sort column ascending">Online</th><th style="width:100px" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Peak: activate to sort column ascending">Peak</th></tr>
+</thead>
+
+<tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="app" data-appid="289070" data-cache="1618981702">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1618981702" alt="">
+</td>
+<td class="text-left"><a href="/app/289070/">Sid Meier’s Civilization® VI</a></td>
+<td data-sort="82.01">82.01%</td>
+<td data-sort="603163">603,163</td>
+<td data-sort="28334">28,334</td>
+<td data-sort="162657">162,657</td>
+</tr><tr class="app" data-appid="281990" data-cache="1618919978">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/281990/capsule_sm_120.jpg?t=1618919978" alt="">
+</td>
+<td class="text-left"><a href="/app/281990/">Stellaris</a></td>
+<td data-sort="85.74">85.74%</td>
+<td data-sort="399058">399,058</td>
+<td data-sort="27891">27,891</td>
+<td data-sort="68602">68,602</td>
+</tr><tr class="app" data-appid="466560" data-cache="1618498905">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/466560/capsule_sm_120.jpg?t=1618498905" alt="">
+</td>
+<td class="text-left"><a href="/app/466560/">Northgard</a></td>
+<td data-sort="86.31">86.31%</td>
+<td data-sort="298813">298,813</td>
+<td data-sort="1695">1,695</td>
+<td data-sort="15592">15,592</td>
+</tr><tr class="app" data-appid="8930" data-cache="1616518468">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/8930/capsule_sm_120.jpg?t=1616518468" alt="">
+</td>
+<td class="text-left"><a href="/app/8930/">Sid Meier's Civilization® V</a></td>
+<td data-sort="94.93">94.93%</td>
+<td data-sort="178095">178,095</td>
+<td data-sort="15083">15,083</td>
+<td data-sort="91363">91,363</td>
+</tr><tr class="app" data-appid="392110" data-cache="1612783792">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/392110/capsule_sm_120.jpg?t=1612783792" alt="">
+</td>
+<td class="text-left"><a href="/app/392110/">Endless Space® 2</a></td>
+<td data-sort="80.91">80.91%</td>
+<td data-sort="171317">171,317</td>
+<td data-sort="607">607</td>
+<td data-sort="53435">53,435</td>
+</tr><tr class="app" data-appid="289130" data-cache="1612803211">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/289130/capsule_sm_120.jpg?t=1612803211" alt="">
+</td>
+<td class="text-left"><a href="/app/289130/">Endless Legend™</a></td>
+<td data-sort="82.61">82.61%</td>
+<td data-sort="147187">147,187</td>
+<td data-sort="197">197</td>
+<td data-sort="10468">10,468</td>
+</tr><tr class="app" data-appid="65980" data-cache="1616602409">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/65980/capsule_sm_120.jpg?t=1616602409" alt="">
+</td>
+<td class="text-left"><a href="/app/65980/">Sid Meier's Civilization®: Beyond Earth™</a></td>
+<td data-sort="56.92">56.92%</td>
+<td data-sort="144640">144,640</td>
+<td data-sort="329">329</td>
+<td data-sort="86892">86,892</td>
+</tr><tr class="app" data-appid="1124300" data-cache="1617195083">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1124300/capsule_sm_120.jpg?t=1617195083" alt="">
+</td>
+<td class="text-left"><a href="/app/1124300/">HUMANKIND™</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="119737">119,737</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="244160" data-cache="1613771018">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/244160/capsule_sm_120.jpg?t=1613771018" alt="">
+</td>
+<td class="text-left"><a href="/app/244160/">Homeworld Remastered Collection</a></td>
+<td data-sort="85.67">85.67%</td>
+<td data-sort="115182">115,182</td>
+<td data-sort="125">125</td>
+<td data-sort="17790">17,790</td>
+</tr><tr class="app" data-appid="226860" data-cache="1616001814">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/226860/capsule_sm_120.jpg?t=1616001814" alt="">
+</td>
+<td class="text-left"><a href="/app/226860/">Galactic Civilizations III</a></td>
+<td data-sort="75.10">75.10%</td>
+<td data-sort="87931">87,931</td>
+<td data-sort="236">236</td>
+<td data-sort="6297">6,297</td>
+</tr><tr class="app" data-appid="298050" data-cache="1612296546">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/298050/capsule_sm_120.jpg?t=1612296546" alt="">
+</td>
+<td class="text-left"><a href="/app/298050/">Master of Orion</a></td>
+<td data-sort="72.55">72.55%</td>
+<td data-sort="87002">87,002</td>
+<td data-sort="275">275</td>
+<td data-sort="4852">4,852</td>
+</tr><tr class="app" data-appid="375910" data-cache="1617125896">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/375910/capsule_sm_120.jpg?t=1617125896" alt="">
+</td>
+<td class="text-left"><a href="/app/375910/">Anno 2205™</a></td>
+<td data-sort="67.63">67.63%</td>
+<td data-sort="78458">78,458</td>
+<td data-sort="102">102</td>
+<td data-sort="7446">7,446</td>
+</tr><tr class="app" data-appid="718850" data-cache="1616386430">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/718850/capsule_sm_120.jpg?t=1616386430" alt="">
+</td>
+<td class="text-left"><a href="/app/718850/">Age of Wonders: Planetfall</a></td>
+<td data-sort="77.93">77.93%</td>
+<td data-sort="76536">76,536</td>
+<td data-sort="353">353</td>
+<td data-sort="10462">10,462</td>
+</tr><tr class="app" data-appid="419480" data-cache="1618135804">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/419480/capsule_sm_120.jpg?t=1618135804" alt="">
+</td>
+<td class="text-left"><a href="/app/419480/">Starpoint Gemini Warlords</a></td>
+<td data-sort="71.92">71.92%</td>
+<td data-sort="68015">68,015</td>
+<td data-sort="18">18</td>
+<td data-sort="1260">1,260</td>
+</tr><tr class="app" data-appid="226840" data-cache="1618940469">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/226840/capsule_sm_120.jpg?t=1618940469" alt="">
+</td>
+<td class="text-left"><a href="/app/226840/">Age of Wonders III</a></td>
+<td data-sort="78.03">78.03%</td>
+<td data-sort="65249">65,249</td>
+<td data-sort="379">379</td>
+<td data-sort="19469">19,469</td>
+</tr><tr class="app" data-appid="32470" data-cache="1613777700">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/32470/capsule_sm_120.jpg?t=1613777700" alt="">
+</td>
+<td class="text-left"><a href="/app/32470/">STAR WARS™ Empire at War - Gold Pack</a></td>
+<td data-sort="94.95">94.95%</td>
+<td data-sort="54802">54,802</td>
+<td data-sort="1167">1,167</td>
+<td data-sort="5716">5,716</td>
+</tr><tr class="app" data-appid="204880" data-cache="1618246086">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/204880/capsule_sm_120.jpg?t=1618246086" alt="">
+</td>
+<td class="text-left"><a href="/app/204880/">Sins of a Solar Empire®: Rebellion</a></td>
+<td data-sort="90.49">90.49%</td>
+<td data-sort="52591">52,591</td>
+<td data-sort="406">406</td>
+<td data-sort="93109">93,109</td>
+</tr><tr class="app" data-appid="499660" data-cache="1617928018">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/499660/capsule_sm_120.jpg?t=1617928018" alt="">
+</td>
+<td class="text-left"><a href="/app/499660/">Medieval Kingdom Wars</a></td>
+<td data-sort="75.77">75.77%</td>
+<td data-sort="52063">52,063</td>
+<td data-sort="11">11</td>
+<td data-sort="549">549</td>
+</tr><tr class="app" data-appid="427940" data-cache="1617850354">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/427940/capsule_sm_120.jpg?t=1617850354" alt="">
+</td>
+<td class="text-left"><a href="/app/427940/">Industries of Titan</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="51883">51,883</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="573100" data-cache="1616170429">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/573100/capsule_sm_120.jpg?t=1616170429" alt="">
+</td>
+<td class="text-left"><a href="/app/573100/">Battlefleet Gothic: Armada 2</a></td>
+<td data-sort="77.47">77.47%</td>
+<td data-sort="50757">50,757</td>
+<td data-sort="281">281</td>
+<td data-sort="8960">8,960</td>
+</tr><tr class="app" data-appid="357310" data-cache="1605090577">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/357310/capsule_sm_120.jpg?t=1605090577" alt="">
+</td>
+<td class="text-left"><a href="/app/357310/">Oriental Empires</a></td>
+<td data-sort="77.52">77.52%</td>
+<td data-sort="50364">50,364</td>
+<td data-sort="46">46</td>
+<td data-sort="896">896</td>
+</tr><tr class="app" data-appid="378720" data-cache="1605267050">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/378720/capsule_sm_120.jpg?t=1605267050" alt="">
+</td>
+<td class="text-left"><a href="/app/378720/">Thea: The Awakening</a></td>
+<td data-sort="87.11">87.11%</td>
+<td data-sort="47829">47,829</td>
+<td data-sort="39">39</td>
+<td data-sort="1742">1,742</td>
+</tr><tr class="app" data-appid="489630" data-cache="1619001845">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/489630/capsule_sm_120.jpg?t=1619001845" alt="">
+</td>
+<td class="text-left"><a href="/app/489630/">Warhammer 40,000: Gladius - Relics of War</a></td>
+<td data-sort="77.68">77.68%</td>
+<td data-sort="45916">45,916</td>
+<td data-sort="234">234</td>
+<td data-sort="3451">3,451</td>
+</tr><tr class="app" data-appid="544610" data-cache="1616415250">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/544610/capsule_sm_120.jpg?t=1616415250" alt="">
+</td>
+<td class="text-left"><a href="/app/544610/">Battlestar Galactica Deadlock</a></td>
+<td data-sort="81.33">81.33%</td>
+<td data-sort="38339">38,339</td>
+<td data-sort="74">74</td>
+<td data-sort="1242">1,242</td>
+</tr><tr class="app" data-appid="718650" data-cache="1611775975">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/718650/capsule_sm_120.jpg?t=1611775975" alt="">
+</td>
+<td class="text-left"><a href="/app/718650/">Driftland: The Magic Revival</a></td>
+<td data-sort="72.84">72.84%</td>
+<td data-sort="35202">35,202</td>
+<td data-sort="15">15</td>
+<td data-sort="456">456</td>
+</tr><tr class="app" data-appid="4700" data-cache="1611943904">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4700/capsule_sm_120.jpg?t=1611943904" alt="">
+</td>
+<td class="text-left"><a href="/app/4700/">Total War: MEDIEVAL II – Definitive Edition</a></td>
+<td data-sort="93.44">93.44%</td>
+<td data-sort="31487">31,487</td>
+<td data-sort="2967">2,967</td>
+<td data-sort="8453">8,453</td>
+</tr><tr class="app" data-appid="208140" data-cache="1611943904">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/208140/capsule_sm_120.jpg?t=1611943904" alt="">
+</td>
+<td class="text-left"><a href="/app/208140/">Endless Space® - Definitive Edition</a></td>
+<td data-sort="78.30">78.30%</td>
+<td data-sort="27640">27,640</td>
+<td data-sort="74">74</td>
+<td data-sort="31089">31,089</td>
+</tr><tr class="app" data-appid="342560" data-cache="1617190561">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/342560/capsule_sm_120.jpg?t=1617190561" alt="">
+</td>
+<td class="text-left"><a href="/app/342560/">Airships: Conquer the Skies</a></td>
+<td data-sort="91.83">91.83%</td>
+<td data-sort="27128">27,128</td>
+<td data-sort="58">58</td>
+<td data-sort="1030">1,030</td>
+</tr><tr class="app" data-appid="577230" data-cache="1618886017">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/577230/capsule_sm_120.jpg?t=1618886017" alt="">
+</td>
+<td class="text-left"><a href="/app/577230/">Three Kingdoms The Last Warlord</a></td>
+<td data-sort="69.61">69.61%</td>
+<td data-sort="26338">26,338</td>
+<td data-sort="134">134</td>
+<td data-sort="542">542</td>
+</tr><tr class="app" data-appid="718560" data-cache="1617973862">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/718560/capsule_sm_120.jpg?t=1617973862" alt="">
+</td>
+<td class="text-left"><a href="/app/718560/">Scythe: Digital Edition</a></td>
+<td data-sort="85.63">85.63%</td>
+<td data-sort="25816">25,816</td>
+<td data-sort="81">81</td>
+<td data-sort="1237">1,237</td>
+</tr><tr class="app" data-appid="261470" data-cache="1617733499">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261470/capsule_sm_120.jpg?t=1617733499" alt="">
+</td>
+<td class="text-left"><a href="/app/261470/">Distant Worlds: Universe</a></td>
+<td data-sort="74.05">74.05%</td>
+<td data-sort="24658">24,658</td>
+<td data-sort="25">25</td>
+<td data-sort="1254">1,254</td>
+</tr><tr class="app" data-appid="48240" data-cache="1617126045">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/48240/capsule_sm_120.jpg?t=1617126045" alt="">
+</td>
+<td class="text-left"><a href="/app/48240/">Anno 2070™</a></td>
+<td data-sort="59.80">59.80%</td>
+<td data-sort="23150">23,150</td>
+<td data-sort="90">90</td>
+<td data-sort="11217">11,217</td>
+</tr><tr class="app" data-appid="278910" data-cache="1608254408">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/278910/capsule_sm_120.jpg?t=1608254408" alt="">
+</td>
+<td class="text-left"><a href="/app/278910/">Interplanetary</a></td>
+<td data-sort="75.43">75.43%</td>
+<td data-sort="23108">23,108</td>
+<td data-sort="0">0</td>
+<td data-sort="364">364</td>
+</tr><tr class="app" data-appid="257170" data-cache="1613693984">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/257170/capsule_sm_120.jpg?t=1613693984" alt="">
+</td>
+<td class="text-left"><a href="/app/257170/">Rebuild 3: Gangs of Deadsville</a></td>
+<td data-sort="81.99">81.99%</td>
+<td data-sort="20450">20,450</td>
+<td data-sort="39">39</td>
+<td data-sort="1185">1,185</td>
+</tr><tr class="app" data-appid="282210" data-cache="1607901154">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/282210/capsule_sm_120.jpg?t=1607901154" alt="">
+</td>
+<td class="text-left"><a href="/app/282210/">Sid Meier's Starships</a></td>
+<td data-sort="47.81">47.81%</td>
+<td data-sort="19846">19,846</td>
+<td data-sort="13">13</td>
+<td data-sort="3404">3,404</td>
+</tr><tr class="app" data-appid="378360" data-cache="1616941394">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/378360/capsule_sm_120.jpg?t=1616941394" alt="">
+</td>
+<td class="text-left"><a href="/app/378360/">Ymir</a></td>
+<td data-sort="73.91">73.91%</td>
+<td data-sort="19515">19,515</td>
+<td data-sort="43">43</td>
+<td data-sort="564">564</td>
+</tr><tr class="app" data-appid="885970" data-cache="1619000045">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/885970/capsule_sm_120.jpg?t=1619000045" alt="">
+</td>
+<td class="text-left"><a href="/app/885970/">Total War: ROME REMASTERED</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="19174">19,174</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="977650" data-cache="1619000075">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/977650/capsule_sm_120.jpg?t=1619000075" alt="">
+</td>
+<td class="text-left"><a href="/app/977650/">DwarfHeim</a></td>
+<td data-sort="66.06">66.06%</td>
+<td data-sort="18850">18,850</td>
+<td data-sort="7">7</td>
+<td data-sort="410">410</td>
+</tr><tr class="app" data-appid="606230" data-cache="1612296567">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/606230/capsule_sm_120.jpg?t=1612296567" alt="">
+</td>
+<td class="text-left"><a href="/app/606230/">Thea 2: The Shattering</a></td>
+<td data-sort="78.13">78.13%</td>
+<td data-sort="18454">18,454</td>
+<td data-sort="61">61</td>
+<td data-sort="1349">1,349</td>
+</tr><tr class="app" data-appid="252450" data-cache="1618416777">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/252450/capsule_sm_120.jpg?t=1618416777" alt="">
+</td>
+<td class="text-left"><a href="/app/252450/">StarDrive 2</a></td>
+<td data-sort="56.28">56.28%</td>
+<td data-sort="18444">18,444</td>
+<td data-sort="11">11</td>
+<td data-sort="3609">3,609</td>
+</tr><tr class="app" data-appid="2820" data-cache="1617063402">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2820/capsule_sm_120.jpg?t=1617063402" alt="">
+</td>
+<td class="text-left"><a href="/app/2820/">X3: Terran Conflict</a></td>
+<td data-sort="82.49">82.49%</td>
+<td data-sort="18007">18,007</td>
+<td data-sort="81">81</td>
+<td data-sort="1442">1,442</td>
+</tr><tr class="app" data-appid="573410" data-cache="1618990488">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/573410/capsule_sm_120.jpg?t=1618990488" alt="">
+</td>
+<td class="text-left"><a href="/app/573410/">AI War 2</a></td>
+<td data-sort="84.58">84.58%</td>
+<td data-sort="17431">17,431</td>
+<td data-sort="36">36</td>
+<td data-sort="310">310</td>
+</tr><tr class="app" data-appid="1025440" data-cache="1617270686">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1025440/capsule_sm_120.jpg?t=1617270686" alt="">
+</td>
+<td class="text-left"><a href="/app/1025440/">Fantasy General II</a></td>
+<td data-sort="79.77">79.77%</td>
+<td data-sort="17120">17,120</td>
+<td data-sort="46">46</td>
+<td data-sort="634">634</td>
+</tr><tr class="app" data-appid="700820" data-cache="1618216020">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/700820/capsule_sm_120.jpg?t=1618216020" alt="">
+</td>
+<td class="text-left"><a href="/app/700820/">TFM: The First Men</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="16116">16,116</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="369530" data-cache="1616637544">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/369530/capsule_sm_120.jpg?t=1616637544" alt="">
+</td>
+<td class="text-left"><a href="/app/369530/">Void Destroyer 2</a></td>
+<td data-sort="80.14">80.14%</td>
+<td data-sort="15984">15,984</td>
+<td data-sort="5">5</td>
+<td data-sort="264">264</td>
+</tr><tr class="app" data-appid="259060" data-cache="1614008903">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/259060/capsule_sm_120.jpg?t=1614008903" alt="">
+</td>
+<td class="text-left"><a href="/app/259060/">Dominions 4: Thrones of Ascension</a></td>
+<td data-sort="86.71">86.71%</td>
+<td data-sort="14922">14,922</td>
+<td data-sort="10">10</td>
+<td data-sort="557">557</td>
+</tr><tr class="app" data-appid="279140" data-cache="1618634330">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/279140/capsule_sm_120.jpg?t=1618634330" alt="">
+</td>
+<td class="text-left"><a href="/app/279140/">Making History: The Great War</a></td>
+<td data-sort="71.78">71.78%</td>
+<td data-sort="14546">14,546</td>
+<td data-sort="17">17</td>
+<td data-sort="114">114</td>
+</tr><tr class="app" data-appid="1011390" data-cache="1619004001">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1011390/capsule_sm_120.jpg?t=1619004001" alt="">
+</td>
+<td class="text-left"><a href="/app/1011390/">Field of Glory: Empires</a></td>
+<td data-sort="78.13">78.13%</td>
+<td data-sort="13251">13,251</td>
+<td data-sort="33">33</td>
+<td data-sort="471">471</td>
+</tr><tr class="app" data-appid="4760" data-cache="1616686576">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4760/capsule_sm_120.jpg?t=1616686576" alt="">
+</td>
+<td class="text-left"><a href="/app/4760/">Rome: Total War™ - Collection</a></td>
+<td data-sort="91.83">91.83%</td>
+<td data-sort="13206">13,206</td>
+<td data-sort="1203">1,203</td>
+<td data-sort="4413">4,413</td>
+</tr><tr class="app" data-appid="427570" data-cache="1613569094">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/427570/capsule_sm_120.jpg?t=1613569094" alt="">
+</td>
+<td class="text-left"><a href="/app/427570/">Dawn of Andromeda</a></td>
+<td data-sort="48.45">48.45%</td>
+<td data-sort="13138">13,138</td>
+<td data-sort="0">0</td>
+<td data-sort="94">94</td>
+</tr><tr class="app" data-appid="1024480" data-cache="1616020726">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1024480/capsule_sm_120.jpg?t=1616020726" alt="">
+</td>
+<td class="text-left"><a href="/app/1024480/">Immortal Realms: Vampire Wars</a></td>
+<td data-sort="61.35">61.35%</td>
+<td data-sort="13057">13,057</td>
+<td data-sort="11">11</td>
+<td data-sort="547">547</td>
+</tr><tr class="app" data-appid="282590" data-cache="1588048125">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/282590/capsule_sm_120.jpg?t=1588048125" alt="">
+</td>
+<td class="text-left"><a href="/app/282590/">Star Ruler 2</a></td>
+<td data-sort="77.26">77.26%</td>
+<td data-sort="12379">12,379</td>
+<td data-sort="2">2</td>
+<td data-sort="370">370</td>
+</tr><tr class="app" data-appid="804850" data-cache="1617429927">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/804850/capsule_sm_120.jpg?t=1617429927" alt="">
+</td>
+<td class="text-left"><a href="/app/804850/">Pax Nova</a></td>
+<td data-sort="58.52">58.52%</td>
+<td data-sort="12142">12,142</td>
+<td data-sort="2">2</td>
+<td data-sort="201">201</td>
+</tr><tr class="app" data-appid="874390" data-cache="1619005596">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/874390/capsule_sm_120.jpg?t=1619005596" alt="">
+</td>
+<td class="text-left"><a href="/app/874390/">The Battle of Polytopia</a></td>
+<td data-sort="90.86">90.86%</td>
+<td data-sort="11917">11,917</td>
+<td data-sort="81">81</td>
+<td data-sort="966">966</td>
+</tr><tr class="app" data-appid="461620" data-cache="1610676111">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/461620/capsule_sm_120.jpg?t=1610676111" alt="">
+</td>
+<td class="text-left"><a href="/app/461620/">Predynastic Egypt</a></td>
+<td data-sort="87.06">87.06%</td>
+<td data-sort="11836">11,836</td>
+<td data-sort="11">11</td>
+<td data-sort="295">295</td>
+</tr><tr class="app" data-appid="646500" data-cache="1615408077">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/646500/capsule_sm_120.jpg?t=1615408077" alt="">
+</td>
+<td class="text-left"><a href="/app/646500/">Egypt: Old Kingdom</a></td>
+<td data-sort="81.63">81.63%</td>
+<td data-sort="11705">11,705</td>
+<td data-sort="17">17</td>
+<td data-sort="277">277</td>
+</tr><tr class="app" data-appid="228260" data-cache="1618591091">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/228260/capsule_sm_120.jpg?t=1618591091" alt="">
+</td>
+<td class="text-left"><a href="/app/228260/">Fallen Enchantress: Legendary Heroes</a></td>
+<td data-sort="70.72">70.72%</td>
+<td data-sort="11611">11,611</td>
+<td data-sort="35">35</td>
+<td data-sort="2682">2,682</td>
+</tr><tr class="app" data-appid="40400" data-cache="1605303035">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/40400/capsule_sm_120.jpg?t=1605303035" alt="">
+</td>
+<td class="text-left"><a href="/app/40400/">AI War: Fleet Command</a></td>
+<td data-sort="79.76">79.76%</td>
+<td data-sort="11396">11,396</td>
+<td data-sort="5">5</td>
+<td data-sort="5027">5,027</td>
+</tr><tr class="app" data-appid="672680" data-cache="1618319641">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/672680/capsule_sm_120.jpg?t=1618319641" alt="">
+</td>
+<td class="text-left"><a href="/app/672680/">Call of War: World War 2</a></td>
+<td data-sort="62.12">62.12%</td>
+<td data-sort="11297">11,297</td>
+<td data-sort="467">467</td>
+<td data-sort="773">773</td>
+</tr><tr class="app" data-appid="418250" data-cache="1605140960">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/418250/capsule_sm_120.jpg?t=1605140960" alt="">
+</td>
+<td class="text-left"><a href="/app/418250/">Polaris Sector</a></td>
+<td data-sort="68.26">68.26%</td>
+<td data-sort="11038">11,038</td>
+<td data-sort="9">9</td>
+<td data-sort="548">548</td>
+</tr><tr class="app" data-appid="722060" data-cache="1614945906">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/722060/capsule_sm_120.jpg?t=1614945906" alt="">
+</td>
+<td class="text-left"><a href="/app/722060/">Dominions 5 - Warriors of the Faith</a></td>
+<td data-sort="89.85">89.85%</td>
+<td data-sort="10924">10,924</td>
+<td data-sort="196">196</td>
+<td data-sort="1085">1,085</td>
+</tr><tr class="app" data-appid="287580" data-cache="1610399719">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/287580/capsule_sm_120.jpg?t=1610399719" alt="">
+</td>
+<td class="text-left"><a href="/app/287580/">Pandora: First Contact</a></td>
+<td data-sort="61.21">61.21%</td>
+<td data-sort="10782">10,782</td>
+<td data-sort="2">2</td>
+<td data-sort="295">295</td>
+</tr><tr class="app" data-appid="446000" data-cache="1615277414">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/446000/capsule_sm_120.jpg?t=1615277414" alt="">
+</td>
+<td class="text-left"><a href="/app/446000/">Stellar Monarch</a></td>
+<td data-sort="72.42">72.42%</td>
+<td data-sort="10519">10,519</td>
+<td data-sort="0">0</td>
+<td data-sort="50">50</td>
+</tr><tr class="app" data-appid="3900" data-cache="1600170685">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3900/capsule_sm_120.jpg?t=1600170685" alt="">
+</td>
+<td class="text-left"><a href="/app/3900/">Sid Meier's Civilization® IV</a></td>
+<td data-sort="88.34">88.34%</td>
+<td data-sort="10326">10,326</td>
+<td data-sort="524">524</td>
+<td data-sort="2314">2,314</td>
+</tr><tr class="app" data-appid="245370" data-cache="1605036767">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/245370/capsule_sm_120.jpg?t=1605036767" alt="">
+</td>
+<td class="text-left"><a href="/app/245370/">Etherium</a></td>
+<td data-sort="39.86">39.86%</td>
+<td data-sort="10211">10,211</td>
+<td data-sort="3">3</td>
+<td data-sort="1725">1,725</td>
+</tr><tr class="app" data-appid="464880" data-cache="1617034638">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/464880/capsule_sm_120.jpg?t=1617034638" alt="">
+</td>
+<td class="text-left"><a href="/app/464880/">Stars in Shadow</a></td>
+<td data-sort="75.64">75.64%</td>
+<td data-sort="10125">10,125</td>
+<td data-sort="6">6</td>
+<td data-sort="470">470</td>
+</tr><tr class="app" data-appid="1154840" data-cache="1618241878">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1154840/capsule_sm_120.jpg?t=1618241878" alt="">
+</td>
+<td class="text-left"><a href="/app/1154840/">Shadow Empire</a></td>
+<td data-sort="80.78">80.78%</td>
+<td data-sort="9770">9,770</td>
+<td data-sort="100">100</td>
+<td data-sort="608">608</td>
+</tr><tr class="app" data-appid="340210" data-cache="1614105511">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/340210/capsule_sm_120.jpg?t=1614105511" alt="">
+</td>
+<td class="text-left"><a href="/app/340210/">Predestination</a></td>
+<td data-sort="54.59">54.59%</td>
+<td data-sort="9754">9,754</td>
+<td data-sort="0">0</td>
+<td data-sort="17">17</td>
+</tr><tr class="app" data-appid="273070" data-cache="1608996871">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/273070/capsule_sm_120.jpg?t=1608996871" alt="">
+</td>
+<td class="text-left"><a href="/app/273070/">The Last Federation</a></td>
+<td data-sort="71.37">71.37%</td>
+<td data-sort="8795">8,795</td>
+<td data-sort="1">1</td>
+<td data-sort="650">650</td>
+</tr><tr class="app" data-appid="241000" data-cache="1610014509">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/241000/capsule_sm_120.jpg?t=1610014509" alt="">
+</td>
+<td class="text-left"><a href="/app/241000/">Jon Shafer's At the Gates</a></td>
+<td data-sort="46.93">46.93%</td>
+<td data-sort="8248">8,248</td>
+<td data-sort="2">2</td>
+<td data-sort="663">663</td>
+</tr><tr class="app" data-appid="474020" data-cache="1618814395">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/474020/capsule_sm_120.jpg?t=1618814395" alt="">
+</td>
+<td class="text-left"><a href="/app/474020/">Ragnorium</a></td>
+<td data-sort="73.36">73.36%</td>
+<td data-sort="8201">8,201</td>
+<td data-sort="6">6</td>
+<td data-sort="120">120</td>
+</tr><tr class="app" data-appid="3910" data-cache="1612146555">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3910/capsule_sm_120.jpg?t=1612146555" alt="">
+</td>
+<td class="text-left"><a href="/app/3910/">Sid Meier's Civilization® III Complete</a></td>
+<td data-sort="85.83">85.83%</td>
+<td data-sort="7810">7,810</td>
+<td data-sort="948">948</td>
+<td data-sort="4600">4,600</td>
+</tr><tr class="app" data-appid="305840" data-cache="1618214834">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/305840/capsule_sm_120.jpg?t=1618214834" alt="">
+</td>
+<td class="text-left"><a href="/app/305840/">Shallow Space</a></td>
+<td data-sort="36.05">36.05%</td>
+<td data-sort="7795">7,795</td>
+<td data-sort="0">0</td>
+<td data-sort="111">111</td>
+</tr><tr class="app" data-appid="376450" data-cache="1603567553">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/376450/capsule_sm_120.jpg?t=1603567553" alt="">
+</td>
+<td class="text-left"><a href="/app/376450/">Last Days of Old Earth</a></td>
+<td data-sort="57.02">57.02%</td>
+<td data-sort="7515">7,515</td>
+<td data-sort="0">0</td>
+<td data-sort="13">13</td>
+</tr><tr class="app" data-appid="1044720" data-cache="1618930073">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1044720/capsule_sm_120.jpg?t=1618930073" alt="">
+</td>
+<td class="text-left"><a href="/app/1044720/">Farthest Frontier</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="7081">7,081</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="232050" data-cache="1600077129">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/232050/capsule_sm_120.jpg?t=1600077129" alt="">
+</td>
+<td class="text-left"><a href="/app/232050/">Eador. Masters of the Broken World</a></td>
+<td data-sort="66.21">66.21%</td>
+<td data-sort="6903">6,903</td>
+<td data-sort="51">51</td>
+<td data-sort="118780">118,780</td>
+</tr><tr class="app" data-appid="984680" data-cache="1618334707">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/984680/capsule_sm_120.jpg?t=1618334707" alt="">
+</td>
+<td class="text-left"><a href="/app/984680/">Interstellar Space: Genesis</a></td>
+<td data-sort="76.27">76.27%</td>
+<td data-sort="6755">6,755</td>
+<td data-sort="14">14</td>
+<td data-sort="198">198</td>
+</tr><tr class="app" data-appid="265970" data-cache="1573154285">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/265970/capsule_sm_120.jpg?t=1573154285" alt="">
+</td>
+<td class="text-left"><a href="/app/265970/">Worlds of Magic</a></td>
+<td data-sort="47.14">47.14%</td>
+<td data-sort="6750">6,750</td>
+<td data-sort="1">1</td>
+<td data-sort="212">212</td>
+</tr><tr class="app" data-appid="236130" data-cache="1618324830">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/236130/capsule_sm_120.jpg?t=1618324830" alt="">
+</td>
+<td class="text-left"><a href="/app/236130/">Horizon</a></td>
+<td data-sort="56.46">56.46%</td>
+<td data-sort="6483">6,483</td>
+<td data-sort="3">3</td>
+<td data-sort="618">618</td>
+</tr><tr class="app" data-appid="295590" data-cache="1603614477">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/295590/capsule_sm_120.jpg?t=1603614477" alt="">
+</td>
+<td class="text-left"><a href="/app/295590/">Hero Generations</a></td>
+<td data-sort="54.40">54.40%</td>
+<td data-sort="6423">6,423</td>
+<td data-sort="0">0</td>
+<td data-sort="217">217</td>
+</tr><tr class="app" data-appid="755800" data-cache="1618996995">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/755800/capsule_sm_120.jpg?t=1618996995" alt="">
+</td>
+<td class="text-left"><a href="/app/755800/">Hades' Star</a></td>
+<td data-sort="76.83">76.83%</td>
+<td data-sort="6192">6,192</td>
+<td data-sort="558">558</td>
+<td data-sort="771">771</td>
+</tr><tr class="app" data-appid="203630" data-cache="1600001629">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/203630/capsule_sm_120.jpg?t=1600001629" alt="">
+</td>
+<td class="text-left"><a href="/app/203630/">Warlock - Master of the Arcane</a></td>
+<td data-sort="82.71">82.71%</td>
+<td data-sort="5961">5,961</td>
+<td data-sort="41">41</td>
+<td data-sort="3490">3,490</td>
+</tr><tr class="app" data-appid="872680" data-cache="1615393951">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/872680/capsule_sm_120.jpg?t=1615393951" alt="">
+</td>
+<td class="text-left"><a href="/app/872680/">Z Dawn</a></td>
+<td data-sort="72.47">72.47%</td>
+<td data-sort="5754">5,754</td>
+<td data-sort="2">2</td>
+<td data-sort="99">99</td>
+</tr><tr class="app" data-appid="205990" data-cache="1605404138">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/205990/capsule_sm_120.jpg?t=1605404138" alt="">
+</td>
+<td class="text-left"><a href="/app/205990/">Warlock 2: The Exiled</a></td>
+<td data-sort="66.47">66.47%</td>
+<td data-sort="5751">5,751</td>
+<td data-sort="26">26</td>
+<td data-sort="984">984</td>
+</tr><tr class="app" data-appid="1116880" data-cache="1618999857">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1116880/capsule_sm_120.jpg?t=1618999857" alt="">
+</td>
+<td class="text-left"><a href="/app/1116880/">The Heroic Legend of Eagarlnia</a></td>
+<td data-sort="78.71">78.71%</td>
+<td data-sort="5655">5,655</td>
+<td data-sort="58">58</td>
+<td data-sort="336">336</td>
+</tr><tr class="app" data-appid="1531540" data-cache="1618847977">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1531540/capsule_sm_120.jpg?t=1618847977" alt="">
+</td>
+<td class="text-left"><a href="/app/1531540/">Distant Worlds 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="5556">5,556</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="477730" data-cache="1600149116">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/477730/capsule_sm_120.jpg?t=1600149116" alt="">
+</td>
+<td class="text-left"><a href="/app/477730/">Eador. Imperium</a></td>
+<td data-sort="74.88">74.88%</td>
+<td data-sort="5439">5,439</td>
+<td data-sort="22">22</td>
+<td data-sort="238">238</td>
+</tr><tr class="app" data-appid="1183470" data-cache="1618343668">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1183470/capsule_sm_120.jpg?t=1618343668" alt="">
+</td>
+<td class="text-left"><a href="/app/1183470/">Imperiums: Greek Wars</a></td>
+<td data-sort="79.85">79.85%</td>
+<td data-sort="5407">5,407</td>
+<td data-sort="13">13</td>
+<td data-sort="155">155</td>
+</tr><tr class="app" data-appid="346810" data-cache="1601280146">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/346810/capsule_sm_120.jpg?t=1601280146" alt="">
+</td>
+<td class="text-left"><a href="/app/346810/">Marble Age</a></td>
+<td data-sort="79.21">79.21%</td>
+<td data-sort="5339">5,339</td>
+<td data-sort="9">9</td>
+<td data-sort="259">259</td>
+</tr><tr class="app" data-appid="449300" data-cache="1617542808">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/449300/capsule_sm_120.jpg?t=1617542808" alt="">
+</td>
+<td class="text-left"><a href="/app/449300/">Planar Conquest</a></td>
+<td data-sort="58.43">58.43%</td>
+<td data-sort="5316">5,316</td>
+<td data-sort="3">3</td>
+<td data-sort="212">212</td>
+</tr><tr class="app" data-appid="496730" data-cache="1613792380">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/496730/capsule_sm_120.jpg?t=1613792380" alt="">
+</td>
+<td class="text-left"><a href="/app/496730/">Sorcerer King: Rivals</a></td>
+<td data-sort="59.66">59.66%</td>
+<td data-sort="5218">5,218</td>
+<td data-sort="3">3</td>
+<td data-sort="188">188</td>
+</tr><tr class="app" data-appid="1213570" data-cache="1600799123">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1213570/capsule_sm_120.jpg?t=1600799123" alt="">
+</td>
+<td class="text-left"><a href="/app/1213570/">Cave Quest</a></td>
+<td data-sort="83.07">83.07%</td>
+<td data-sort="5199">5,199</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1248060" data-cache="1618932770">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1248060/capsule_sm_120.jpg?t=1618932770" alt="">
+</td>
+<td class="text-left"><a href="/app/1248060/">Realpolitiks II</a></td>
+<td data-sort="53.41">53.41%</td>
+<td data-sort="5108">5,108</td>
+<td data-sort="6">6</td>
+<td data-sort="305">305</td>
+</tr><tr class="app" data-appid="1145340" data-cache="1618926219">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1145340/capsule_sm_120.jpg?t=1618926219" alt="">
+</td>
+<td class="text-left"><a href="/app/1145340/">Rogue State Revolution</a></td>
+<td data-sort="76.73">76.73%</td>
+<td data-sort="5051">5,051</td>
+<td data-sort="23">23</td>
+<td data-sort="295">295</td>
+</tr><tr class="app" data-appid="462940" data-cache="1618336048">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/462940/capsule_sm_120.jpg?t=1618336048" alt="">
+</td>
+<td class="text-left"><a href="/app/462940/">Making History: The Second World War</a></td>
+<td data-sort="70.31">70.31%</td>
+<td data-sort="4851">4,851</td>
+<td data-sort="12">12</td>
+<td data-sort="68">68</td>
+</tr><tr class="app" data-appid="552600" data-cache="1605443845">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/552600/capsule_sm_120.jpg?t=1605443845" alt="">
+</td>
+<td class="text-left"><a href="/app/552600/">Outscape</a></td>
+<td data-sort="75.29">75.29%</td>
+<td data-sort="4810">4,810</td>
+<td data-sort="0">0</td>
+<td data-sort="260">260</td>
+</tr><tr class="app" data-appid="783210" data-cache="1614946137">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/783210/capsule_sm_120.jpg?t=1614946137" alt="">
+</td>
+<td class="text-left"><a href="/app/783210/">Aggressors: Ancient Rome</a></td>
+<td data-sort="75.26">75.26%</td>
+<td data-sort="4736">4,736</td>
+<td data-sort="3">3</td>
+<td data-sort="139">139</td>
+</tr><tr class="app" data-appid="25800" data-cache="1607112723">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/25800/capsule_sm_120.jpg?t=1607112723" alt="">
+</td>
+<td class="text-left"><a href="/app/25800/">Europa Universalis III Complete</a></td>
+<td data-sort="79.55">79.55%</td>
+<td data-sort="4500">4,500</td>
+<td data-sort="47">47</td>
+<td data-sort="1315">1,315</td>
+</tr><tr class="app" data-appid="354480" data-cache="1597068167">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/354480/capsule_sm_120.jpg?t=1597068167" alt="">
+</td>
+<td class="text-left"><a href="/app/354480/">Stars Beyond Reach</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="4275">4,275</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="975270" data-cache="1612768970">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/975270/capsule_sm_120.jpg?t=1612768970" alt="">
+</td>
+<td class="text-left"><a href="/app/975270/">Legion War</a></td>
+<td data-sort="86.53">86.53%</td>
+<td data-sort="4212">4,212</td>
+<td data-sort="21">21</td>
+<td data-sort="226">226</td>
+</tr><tr class="app" data-appid="720040" data-cache="1591461090">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/720040/capsule_sm_120.jpg?t=1591461090" alt="">
+</td>
+<td class="text-left"><a href="/app/720040/">Valknut</a></td>
+<td data-sort="25.22">25.22%</td>
+<td data-sort="4198">4,198</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="562230" data-cache="1604799187">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/562230/capsule_sm_120.jpg?t=1604799187" alt="">
+</td>
+<td class="text-left"><a href="/app/562230/">Space Tyrant</a></td>
+<td data-sort="80.73">80.73%</td>
+<td data-sort="4173">4,173</td>
+<td data-sort="6">6</td>
+<td data-sort="232">232</td>
+</tr><tr class="app" data-appid="8800" data-cache="1612807440">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/8800/capsule_sm_120.jpg?t=1612807440" alt="">
+</td>
+<td class="text-left"><a href="/app/8800/">Civilization IV: Beyond the Sword</a></td>
+<td data-sort="92.14">92.14%</td>
+<td data-sort="4000">4,000</td>
+<td data-sort="1057">1,057</td>
+<td data-sort="2636">2,636</td>
+</tr><tr class="app" data-appid="2810" data-cache="1614670465">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2810/capsule_sm_120.jpg?t=1614670465" alt="">
+</td>
+<td class="text-left"><a href="/app/2810/">X3: Reunion</a></td>
+<td data-sort="68.59">68.59%</td>
+<td data-sort="3982">3,982</td>
+<td data-sort="12">12</td>
+<td data-sort="315">315</td>
+</tr><tr class="app" data-appid="437440" data-cache="1616968680">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/437440/capsule_sm_120.jpg?t=1616968680" alt="">
+</td>
+<td class="text-left"><a href="/app/437440/">Lord of Rigel</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3914">3,914</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="201290" data-cache="1616818643">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/201290/capsule_sm_120.jpg?t=1616818643" alt="">
+</td>
+<td class="text-left"><a href="/app/201290/">Sins of a Solar Empire: Trinity®</a></td>
+<td data-sort="72.19">72.19%</td>
+<td data-sort="3810">3,810</td>
+<td data-sort="19">19</td>
+<td data-sort="957">957</td>
+</tr><tr class="app" data-appid="767660" data-cache="1617736415">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/767660/capsule_sm_120.jpg?t=1617736415" alt="">
+</td>
+<td class="text-left"><a href="/app/767660/">Orphan Age</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3736">3,736</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="410980" data-cache="1616544812">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/410980/capsule_sm_120.jpg?t=1616544812" alt="">
+</td>
+<td class="text-left"><a href="/app/410980/">Master of Orion 2</a></td>
+<td data-sort="90.16">90.16%</td>
+<td data-sort="3716">3,716</td>
+<td data-sort="100">100</td>
+<td data-sort="283">283</td>
+</tr><tr class="app" data-appid="42990" data-cache="1605288602">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/42990/capsule_sm_120.jpg?t=1605288602" alt="">
+</td>
+<td class="text-left"><a href="/app/42990/">Sword of the Stars II: Enhanced Edition</a></td>
+<td data-sort="44.72">44.72%</td>
+<td data-sort="3565">3,565</td>
+<td data-sort="3">3</td>
+<td data-sort="1379">1,379</td>
+</tr><tr class="app" data-appid="1300700" data-cache="1619000123">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1300700/capsule_sm_120.jpg?t=1619000123" alt="">
+</td>
+<td class="text-left"><a href="/app/1300700/">Kingdom Wars: The Plague</a></td>
+<td data-sort="69.97">69.97%</td>
+<td data-sort="3490">3,490</td>
+<td data-sort="0">0</td>
+<td data-sort="43">43</td>
+</tr><tr class="app" data-appid="70900" data-cache="1579917205">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/70900/capsule_sm_120.jpg?t=1579917205" alt="">
+</td>
+<td class="text-left"><a href="/app/70900/">Star Ruler</a></td>
+<td data-sort="78.31">78.31%</td>
+<td data-sort="3467">3,467</td>
+<td data-sort="0">0</td>
+<td data-sort="794">794</td>
+</tr><tr class="app" data-appid="202200" data-cache="1605112210">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/202200/capsule_sm_120.jpg?t=1605112210" alt="">
+</td>
+<td class="text-left"><a href="/app/202200/">Galactic Civilizations® II: Ultimate Edition</a></td>
+<td data-sort="72.55">72.55%</td>
+<td data-sort="3458">3,458</td>
+<td data-sort="26">26</td>
+<td data-sort="3946">3,946</td>
+</tr><tr class="app" data-appid="951670" data-cache="1614641643">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/951670/capsule_sm_120.jpg?t=1614641643" alt="">
+</td>
+<td class="text-left"><a href="/app/951670/">Precipice</a></td>
+<td data-sort="76.71">76.71%</td>
+<td data-sort="3321">3,321</td>
+<td data-sort="0">0</td>
+<td data-sort="61">61</td>
+</tr><tr class="app" data-appid="616780" data-cache="1617746158">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/616780/capsule_sm_120.jpg?t=1617746158" alt="">
+</td>
+<td class="text-left"><a href="/app/616780/">Age of Space</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3300">3,300</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1159420" data-cache="1618310857">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1159420/capsule_sm_120.jpg?t=1618310857" alt="">
+</td>
+<td class="text-left"><a href="/app/1159420/">Robin Hood - Sherwood Builders</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3243">3,243</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="420270" data-cache="1598472764">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420270/capsule_sm_120.jpg?t=1598472764" alt="">
+</td>
+<td class="text-left"><a href="/app/420270/">Into the Void</a></td>
+<td data-sort="59.41">59.41%</td>
+<td data-sort="3219">3,219</td>
+<td data-sort="0">0</td>
+<td data-sort="96">96</td>
+</tr><tr class="app" data-appid="559310" data-cache="1618427448">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/559310/capsule_sm_120.jpg?t=1618427448" alt="">
+</td>
+<td class="text-left"><a href="/app/559310/">Illyriad - Grand Strategy MMO</a></td>
+<td data-sort="62.18">62.18%</td>
+<td data-sort="3180">3,180</td>
+<td data-sort="3">3</td>
+<td data-sort="164">164</td>
+</tr><tr class="app" data-appid="651660" data-cache="1616416019">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/651660/capsule_sm_120.jpg?t=1616416019" alt="">
+</td>
+<td class="text-left"><a href="/app/651660/">Halcyon 6: Starbase Commander (LIGHTSPEED EDITION)</a></td>
+<td data-sort="75.54">75.54%</td>
+<td data-sort="3139">3,139</td>
+<td data-sort="5">5</td>
+<td data-sort="420">420</td>
+</tr><tr class="app" data-appid="403950" data-cache="1618402862">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/403950/capsule_sm_120.jpg?t=1618402862" alt="">
+</td>
+<td class="text-left"><a href="/app/403950/">Conquest of Elysium 4</a></td>
+<td data-sort="83.93">83.93%</td>
+<td data-sort="3135">3,135</td>
+<td data-sort="15">15</td>
+<td data-sort="234">234</td>
+</tr><tr class="app" data-appid="16810" data-cache="1609042171">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/16810/capsule_sm_120.jpg?t=1609042171" alt="">
+</td>
+<td class="text-left"><a href="/app/16810/">Sid Meier's Civilization IV: Colonization</a></td>
+<td data-sort="79.73">79.73%</td>
+<td data-sort="3090">3,090</td>
+<td data-sort="162">162</td>
+<td data-sort="729">729</td>
+</tr><tr class="app" data-appid="490370" data-cache="1606335708">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/490370/capsule_sm_120.jpg?t=1606335708" alt="">
+</td>
+<td class="text-left"><a href="/app/490370/">Imperium Galactica II</a></td>
+<td data-sort="79.76">79.76%</td>
+<td data-sort="2986">2,986</td>
+<td data-sort="12">12</td>
+<td data-sort="160">160</td>
+</tr><tr class="app" data-appid="334270" data-cache="1606537175">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/334270/capsule_sm_120.jpg?t=1606537175" alt="">
+</td>
+<td class="text-left"><a href="/app/334270/">Star Traders: 4X Empires</a></td>
+<td data-sort="59.20">59.20%</td>
+<td data-sort="2883">2,883</td>
+<td data-sort="0">0</td>
+<td data-sort="68">68</td>
+</tr><tr class="app" data-appid="894630" data-cache="1618753284">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/894630/capsule_sm_120.jpg?t=1618753284" alt="">
+</td>
+<td class="text-left"><a href="/app/894630/">Final Theory</a></td>
+<td data-sort="75.11">75.11%</td>
+<td data-sort="2831">2,831</td>
+<td data-sort="1">1</td>
+<td data-sort="56">56</td>
+</tr><tr class="app" data-appid="61520" data-cache="1616156025">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/61520/capsule_sm_120.jpg?t=1616156025" alt="">
+</td>
+<td class="text-left"><a href="/app/61520/">Age of Wonders Shadow Magic</a></td>
+<td data-sort="82.48">82.48%</td>
+<td data-sort="2734">2,734</td>
+<td data-sort="10">10</td>
+<td data-sort="123">123</td>
+</tr><tr class="app" data-appid="441550" data-cache="1616717616">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/441550/capsule_sm_120.jpg?t=1616717616" alt="">
+</td>
+<td class="text-left"><a href="/app/441550/">STAR WARS™ Rebellion</a></td>
+<td data-sort="81.84">81.84%</td>
+<td data-sort="2729">2,729</td>
+<td data-sort="33">33</td>
+<td data-sort="238">238</td>
+</tr><tr class="app" data-appid="61500" data-cache="1607440186">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/61500/capsule_sm_120.jpg?t=1607440186" alt="">
+</td>
+<td class="text-left"><a href="/app/61500/">Age of Wonders</a></td>
+<td data-sort="73.48">73.48%</td>
+<td data-sort="2715">2,715</td>
+<td data-sort="9">9</td>
+<td data-sort="75">75</td>
+</tr><tr class="app" data-appid="201310" data-cache="1617222059">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/201310/capsule_sm_120.jpg?t=1617222059" alt="">
+</td>
+<td class="text-left"><a href="/app/201310/">X3: Albion Prelude</a></td>
+<td data-sort="88.31">88.31%</td>
+<td data-sort="2667">2,667</td>
+<td data-sort="134">134</td>
+<td data-sort="1917">1,917</td>
+</tr><tr class="app" data-appid="889080" data-cache="1617308730">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/889080/capsule_sm_120.jpg?t=1617308730" alt="">
+</td>
+<td class="text-left"><a href="/app/889080/">Deity Empires</a></td>
+<td data-sort="82.75">82.75%</td>
+<td data-sort="2638">2,638</td>
+<td data-sort="14">14</td>
+<td data-sort="82">82</td>
+</tr><tr class="app" data-appid="1159150" data-cache="1618154387">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1159150/capsule_sm_120.jpg?t=1618154387" alt="">
+</td>
+<td class="text-left"><a href="/app/1159150/">BOC</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2570">2,570</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1036430" data-cache="1602832898">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1036430/capsule_sm_120.jpg?t=1602832898" alt="">
+</td>
+<td class="text-left"><a href="/app/1036430/">Neverdark</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2542">2,542</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1264280" data-cache="1618769349">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1264280/capsule_sm_120.jpg?t=1618769349" alt="">
+</td>
+<td class="text-left"><a href="/app/1264280/">Slipways</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2518">2,518</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="338810" data-cache="1615791739">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/338810/capsule_sm_120.jpg?t=1615791739" alt="">
+</td>
+<td class="text-left"><a href="/app/338810/">Demise of Nations</a></td>
+<td data-sort="74.62">74.62%</td>
+<td data-sort="2485">2,485</td>
+<td data-sort="7">7</td>
+<td data-sort="138">138</td>
+</tr><tr class="app" data-appid="567080" data-cache="1619007796">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/567080/capsule_sm_120.jpg?t=1619007796" alt="">
+</td>
+<td class="text-left"><a href="/app/567080/">Wizards and Warlords</a></td>
+<td data-sort="76.85">76.85%</td>
+<td data-sort="2476">2,476</td>
+<td data-sort="7">7</td>
+<td data-sort="83">83</td>
+</tr><tr class="app" data-appid="274480" data-cache="1611173820">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/274480/capsule_sm_120.jpg?t=1611173820" alt="">
+</td>
+<td class="text-left"><a href="/app/274480/">Drox Operative</a></td>
+<td data-sort="82.41">82.41%</td>
+<td data-sort="2414">2,414</td>
+<td data-sort="1">1</td>
+<td data-sort="386">386</td>
+</tr><tr class="app" data-appid="1184840" data-cache="1616380087">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1184840/capsule_sm_120.jpg?t=1616380087" alt="">
+</td>
+<td class="text-left"><a href="/app/1184840/">Chaos Galaxy</a></td>
+<td data-sort="79.22">79.22%</td>
+<td data-sort="2366">2,366</td>
+<td data-sort="7">7</td>
+<td data-sort="61">61</td>
+</tr><tr class="app" data-appid="791400" data-cache="1612984544">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/791400/capsule_sm_120.jpg?t=1612984544" alt="">
+</td>
+<td class="text-left"><a href="/app/791400/">From Village to Empire</a></td>
+<td data-sort="64.73">64.73%</td>
+<td data-sort="2366">2,366</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="42890" data-cache="1618558730">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/42890/capsule_sm_120.jpg?t=1618558730" alt="">
+</td>
+<td class="text-left"><a href="/app/42890/">Sword of the Stars: Complete Collection</a></td>
+<td data-sort="83.00">83.00%</td>
+<td data-sort="2330">2,330</td>
+<td data-sort="13">13</td>
+<td data-sort="1005">1,005</td>
+</tr><tr class="app" data-appid="833170" data-cache="1610615468">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/833170/capsule_sm_120.jpg?t=1610615468" alt="">
+</td>
+<td class="text-left"><a href="/app/833170/">Burned Land</a></td>
+<td data-sort="69.46">69.46%</td>
+<td data-sort="2273">2,273</td>
+<td data-sort="0">0</td>
+<td data-sort="12">12</td>
+</tr><tr class="app" data-appid="327400" data-cache="1610280953">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/327400/capsule_sm_120.jpg?t=1610280953" alt="">
+</td>
+<td class="text-left"><a href="/app/327400/">Sid Meier's Colonization (Classic)</a></td>
+<td data-sort="87.88">87.88%</td>
+<td data-sort="2202">2,202</td>
+<td data-sort="97">97</td>
+<td data-sort="238">238</td>
+</tr><tr class="app" data-appid="378760" data-cache="1618968440">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/378760/capsule_sm_120.jpg?t=1618968440" alt="">
+</td>
+<td class="text-left"><a href="/app/378760/">Pixel Starships</a></td>
+<td data-sort="67.86">67.86%</td>
+<td data-sort="2163">2,163</td>
+<td data-sort="145">145</td>
+<td data-sort="545">545</td>
+</tr><tr class="app" data-appid="1324270" data-cache="1618926968">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1324270/capsule_sm_120.jpg?t=1618926968" alt="">
+</td>
+<td class="text-left"><a href="/app/1324270/">Space Station Tycoon</a></td>
+<td data-sort="71.70">71.70%</td>
+<td data-sort="2149">2,149</td>
+<td data-sort="10">10</td>
+<td data-sort="38">38</td>
+</tr><tr class="app" data-appid="248510" data-cache="1607976799">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/248510/capsule_sm_120.jpg?t=1607976799" alt="">
+</td>
+<td class="text-left"><a href="/app/248510/">Dominions 3: The Awakening</a></td>
+<td data-sort="74.15">74.15%</td>
+<td data-sort="2139">2,139</td>
+<td data-sort="0">0</td>
+<td data-sort="109">109</td>
+</tr><tr class="app" data-appid="922450" data-cache="1611490650">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/922450/capsule_sm_120.jpg?t=1611490650" alt="">
+</td>
+<td class="text-left"><a href="/app/922450/">4X-Galaxy 无主之地：银河</a></td>
+<td data-sort="50.87">50.87%</td>
+<td data-sort="2119">2,119</td>
+<td data-sort="0">0</td>
+<td data-sort="147">147</td>
+</tr><tr class="app" data-appid="659540" data-cache="1617467687">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/659540/capsule_sm_120.jpg?t=1617467687" alt="">
+</td>
+<td class="text-left"><a href="/app/659540/">Warsim: The Realm of Aslona</a></td>
+<td data-sort="90.93">90.93%</td>
+<td data-sort="2114">2,114</td>
+<td data-sort="5">5</td>
+<td data-sort="263">263</td>
+</tr><tr class="app" data-appid="220660" data-cache="1618232047">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/220660/capsule_sm_120.jpg?t=1618232047" alt="">
+</td>
+<td class="text-left"><a href="/app/220660/">StarDrive</a></td>
+<td data-sort="44.79">44.79%</td>
+<td data-sort="2060">2,060</td>
+<td data-sort="5">5</td>
+<td data-sort="3106">3,106</td>
+</tr><tr class="app" data-appid="564950" data-cache="1605839368">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/564950/capsule_sm_120.jpg?t=1605839368" alt="">
+</td>
+<td class="text-left"><a href="/app/564950/">Starfighter Origins Remastered</a></td>
+<td data-sort="47.03">47.03%</td>
+<td data-sort="2055">2,055</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="522030" data-cache="1585339555">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/522030/capsule_sm_120.jpg?t=1585339555" alt="">
+</td>
+<td class="text-left"><a href="/app/522030/">Eclipse: New Dawn for the Galaxy</a></td>
+<td data-sort="62.24">62.24%</td>
+<td data-sort="2051">2,051</td>
+<td data-sort="0">0</td>
+<td data-sort="102">102</td>
+</tr><tr class="app" data-appid="1113400" data-cache="1618144032">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1113400/capsule_sm_120.jpg?t=1618144032" alt="">
+</td>
+<td class="text-left"><a href="/app/1113400/">Alliance of the Sacred Suns</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2007">2,007</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="880750" data-cache="1614924486">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/880750/capsule_sm_120.jpg?t=1614924486" alt="">
+</td>
+<td class="text-left"><a href="/app/880750/">Astra Exodus</a></td>
+<td data-sort="50.76">50.76%</td>
+<td data-sort="1951">1,951</td>
+<td data-sort="0">0</td>
+<td data-sort="49">49</td>
+</tr><tr class="app" data-appid="1042960" data-cache="1618953129">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1042960/capsule_sm_120.jpg?t=1618953129" alt="">
+</td>
+<td class="text-left"><a href="/app/1042960/">We Are The Caretakers</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="1942">1,942</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1229310" data-cache="1618168156">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1229310/capsule_sm_120.jpg?t=1618168156" alt="">
+</td>
+<td class="text-left"><a href="/app/1229310/">Godking: Master of Rituals</a></td>
+<td data-sort="66.14">66.14%</td>
+<td data-sort="1888">1,888</td>
+<td data-sort="0">0</td>
+<td data-sort="22">22</td>
+</tr><tr class="app" data-appid="443260" data-cache="1617059811">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/443260/capsule_sm_120.jpg?t=1617059811" alt="">
+</td>
+<td class="text-left"><a href="/app/443260/">Hero Generations: ReGen</a></td>
+<td data-sort="56.31">56.31%</td>
+<td data-sort="1877">1,877</td>
+<td data-sort="0">0</td>
+<td data-sort="40">40</td>
+</tr><tr class="app" data-appid="1305310" data-cache="1618589360">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1305310/capsule_sm_120.jpg?t=1618589360" alt="">
+</td>
+<td class="text-left"><a href="/app/1305310/">Drox Operative 2</a></td>
+<td data-sort="80.68">80.68%</td>
+<td data-sort="1869">1,869</td>
+<td data-sort="3">3</td>
+<td data-sort="58">58</td>
+</tr><tr class="app" data-appid="246940" data-cache="1596582634">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/246940/capsule_sm_120.jpg?t=1596582634" alt="">
+</td>
+<td class="text-left"><a href="/app/246940/">Lords of the Black Sun</a></td>
+<td data-sort="24.58">24.58%</td>
+<td data-sort="1795">1,795</td>
+<td data-sort="0">0</td>
+<td data-sort="143">143</td>
+</tr><tr class="app" data-appid="1610" data-cache="1605043964">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1610/capsule_sm_120.jpg?t=1605043964" alt="">
+</td>
+<td class="text-left"><a href="/app/1610/">Space Empires IV Deluxe</a></td>
+<td data-sort="76.51">76.51%</td>
+<td data-sort="1794">1,794</td>
+<td data-sort="15">15</td>
+<td data-sort="69">69</td>
+</tr><tr class="app" data-appid="734510" data-cache="1616293609">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/734510/capsule_sm_120.jpg?t=1616293609" alt="">
+</td>
+<td class="text-left"><a href="/app/734510/">Worshippers</a></td>
+<td data-sort="69.59">69.59%</td>
+<td data-sort="1693">1,693</td>
+<td data-sort="0">0</td>
+<td data-sort="22">22</td>
+</tr><tr class="app" data-appid="334290" data-cache="1611523304">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/334290/capsule_sm_120.jpg?t=1611523304" alt="">
+</td>
+<td class="text-left"><a href="/app/334290/">Gates of Horizon</a></td>
+<td data-sort="61.80">61.80%</td>
+<td data-sort="1644">1,644</td>
+<td data-sort="0">0</td>
+<td data-sort="97">97</td>
+</tr><tr class="app" data-appid="530110" data-cache="1591029182">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/530110/capsule_sm_120.jpg?t=1591029182" alt="">
+</td>
+<td class="text-left"><a href="/app/530110/">Tales of a Spymaster</a></td>
+<td data-sort="59.10">59.10%</td>
+<td data-sort="1612">1,612</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="263860" data-cache="1618349049">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/263860/capsule_sm_120.jpg?t=1618349049" alt="">
+</td>
+<td class="text-left"><a href="/app/263860/">SPACECOM</a></td>
+<td data-sort="68.46">68.46%</td>
+<td data-sort="1582">1,582</td>
+<td data-sort="10">10</td>
+<td data-sort="1223">1,223</td>
+</tr><tr class="app" data-appid="322540" data-cache="1611069844">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/322540/capsule_sm_120.jpg?t=1611069844" alt="">
+</td>
+<td class="text-left"><a href="/app/322540/">Galactic Inheritors</a></td>
+<td data-sort="47.19">47.19%</td>
+<td data-sort="1576">1,576</td>
+<td data-sort="0">0</td>
+<td data-sort="185">185</td>
+</tr><tr class="app" data-appid="211900" data-cache="1605140946">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/211900/capsule_sm_120.jpg?t=1605140946" alt="">
+</td>
+<td class="text-left"><a href="/app/211900/">Conquest of Elysium 3</a></td>
+<td data-sort="75.20">75.20%</td>
+<td data-sort="1498">1,498</td>
+<td data-sort="1">1</td>
+<td data-sort="235">235</td>
+</tr><tr class="app" data-appid="410970" data-cache="1613497935">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/410970/capsule_sm_120.jpg?t=1613497935" alt="">
+</td>
+<td class="text-left"><a href="/app/410970/">Master of Orion 1</a></td>
+<td data-sort="81.71">81.71%</td>
+<td data-sort="1402">1,402</td>
+<td data-sort="31">31</td>
+<td data-sort="82">82</td>
+</tr><tr class="app" data-appid="427970" data-cache="1610658642">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/427970/capsule_sm_120.jpg?t=1610658642" alt="">
+</td>
+<td class="text-left"><a href="/app/427970/">Heathen Engineering's Terran</a></td>
+<td data-sort="44.34">44.34%</td>
+<td data-sort="1367">1,367</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1146370" data-cache="1618576882">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1146370/capsule_sm_120.jpg?t=1618576882" alt="">
+</td>
+<td class="text-left"><a href="/app/1146370/">Master of Magic</a></td>
+<td data-sort="89.05">89.05%</td>
+<td data-sort="1234">1,234</td>
+<td data-sort="27">27</td>
+<td data-sort="156">156</td>
+</tr><tr class="app" data-appid="439720" data-cache="1605979778">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/439720/capsule_sm_120.jpg?t=1605979778" alt="">
+</td>
+<td class="text-left"><a href="/app/439720/">Unending Galaxy</a></td>
+<td data-sort="60.95">60.95%</td>
+<td data-sort="1214">1,214</td>
+<td data-sort="0">0</td>
+<td data-sort="141">141</td>
+</tr><tr class="app" data-appid="563390" data-cache="1587817763">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/563390/capsule_sm_120.jpg?t=1587817763" alt="">
+</td>
+<td class="text-left"><a href="/app/563390/">Children of the Galaxy</a></td>
+<td data-sort="69.91">69.91%</td>
+<td data-sort="1202">1,202</td>
+<td data-sort="1">1</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="3990" data-cache="1614820066">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3990/capsule_sm_120.jpg?t=1614820066" alt="">
+</td>
+<td class="text-left"><a href="/app/3990/">Civilization IV®: Warlords</a></td>
+<td data-sort="82.71">82.71%</td>
+<td data-sort="1176">1,176</td>
+<td data-sort="129">129</td>
+<td data-sort="402">402</td>
+</tr><tr class="app" data-appid="1138440" data-cache="1616699504">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1138440/capsule_sm_120.jpg?t=1616699504" alt="">
+</td>
+<td class="text-left"><a href="/app/1138440/">Galactic Ruler</a></td>
+<td data-sort="55.17">55.17%</td>
+<td data-sort="1153">1,153</td>
+<td data-sort="0">0</td>
+<td data-sort="38">38</td>
+</tr><tr class="app" data-appid="959150" data-cache="1617049047">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/959150/capsule_sm_120.jpg?t=1617049047" alt="">
+</td>
+<td class="text-left"><a href="/app/959150/">Making History: The First World War</a></td>
+<td data-sort="68.18">68.18%</td>
+<td data-sort="1131">1,131</td>
+<td data-sort="6">6</td>
+<td data-sort="22">22</td>
+</tr><tr class="app" data-appid="1256510" data-cache="1618812751">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1256510/capsule_sm_120.jpg?t=1618812751" alt="">
+</td>
+<td class="text-left"><a href="/app/1256510/">Dreadtides</a></td>
+<td data-sort="74.51">74.51%</td>
+<td data-sort="1114">1,114</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="61510" data-cache="1618229363">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/61510/capsule_sm_120.jpg?t=1618229363" alt="">
+</td>
+<td class="text-left"><a href="/app/61510/">Age of Wonders II: The Wizard's Throne</a></td>
+<td data-sort="74.93">74.93%</td>
+<td data-sort="1103">1,103</td>
+<td data-sort="6">6</td>
+<td data-sort="59">59</td>
+</tr><tr class="app" data-appid="382880" data-cache="1612099972">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/382880/capsule_sm_120.jpg?t=1612099972" alt="">
+</td>
+<td class="text-left"><a href="/app/382880/">Feudalism</a></td>
+<td data-sort="39.72">39.72%</td>
+<td data-sort="1099">1,099</td>
+<td data-sort="0">0</td>
+<td data-sort="19">19</td>
+</tr><tr class="app" data-appid="1173590" data-cache="1618793063">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1173590/capsule_sm_120.jpg?t=1618793063" alt="">
+</td>
+<td class="text-left"><a href="/app/1173590/">Dominus Galaxia: KS Edition</a></td>
+<td data-sort="80.51">80.51%</td>
+<td data-sort="1090">1,090</td>
+<td data-sort="2">2</td>
+<td data-sort="26">26</td>
+</tr><tr class="app" data-appid="493220" data-cache="1595912952">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/493220/capsule_sm_120.jpg?t=1595912952" alt="">
+</td>
+<td class="text-left"><a href="/app/493220/">After the Empire</a></td>
+<td data-sort="68.30">68.30%</td>
+<td data-sort="1038">1,038</td>
+<td data-sort="0">0</td>
+<td data-sort="40">40</td>
+</tr><tr class="app" data-appid="1690" data-cache="1604547124">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1690/capsule_sm_120.jpg?t=1604547124" alt="">
+</td>
+<td class="text-left"><a href="/app/1690/">Space Empires V</a></td>
+<td data-sort="66.23">66.23%</td>
+<td data-sort="1035">1,035</td>
+<td data-sort="9">9</td>
+<td data-sort="137">137</td>
+</tr><tr class="app" data-appid="1282080" data-cache="1613824790">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1282080/capsule_sm_120.jpg?t=1613824790" alt="">
+</td>
+<td class="text-left"><a href="/app/1282080/">Chang'an: The capital of Tang Dynasty</a></td>
+<td data-sort="71.63">71.63%</td>
+<td data-sort="960">960</td>
+<td data-sort="0">0</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="294790" data-cache="1614234752">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/294790/capsule_sm_120.jpg?t=1614234752" alt="">
+</td>
+<td class="text-left"><a href="/app/294790/">Haegemonia: The Solon Heritage</a></td>
+<td data-sort="62.63">62.63%</td>
+<td data-sort="921">921</td>
+<td data-sort="0">0</td>
+<td data-sort="33">33</td>
+</tr><tr class="app" data-appid="383740" data-cache="1618200396">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/383740/capsule_sm_120.jpg?t=1618200396" alt="">
+</td>
+<td class="text-left"><a href="/app/383740/">Marble Age: Remastered</a></td>
+<td data-sort="79.44">79.44%</td>
+<td data-sort="903">903</td>
+<td data-sort="4">4</td>
+<td data-sort="87">87</td>
+</tr><tr class="app" data-appid="214150" data-cache="1605537366">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/214150/capsule_sm_120.jpg?t=1605537366" alt="">
+</td>
+<td class="text-left"><a href="/app/214150/">Galactic Civilizations® I: Ultimate Edition</a></td>
+<td data-sort="47.15">47.15%</td>
+<td data-sort="901">901</td>
+<td data-sort="4">4</td>
+<td data-sort="191">191</td>
+</tr><tr class="app" data-appid="686900" data-cache="1616527582">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/686900/capsule_sm_120.jpg?t=1616527582" alt="">
+</td>
+<td class="text-left"><a href="/app/686900/">Bronze Age - HD Edition</a></td>
+<td data-sort="69.53">69.53%</td>
+<td data-sort="890">890</td>
+<td data-sort="3">3</td>
+<td data-sort="22">22</td>
+</tr><tr class="app" data-appid="1204230" data-cache="1616405359">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1204230/capsule_sm_120.jpg?t=1616405359" alt="">
+</td>
+<td class="text-left"><a href="/app/1204230/">4th Generation Warfare</a></td>
+<td data-sort="53.68">53.68%</td>
+<td data-sort="880">880</td>
+<td data-sort="2">2</td>
+<td data-sort="32">32</td>
+</tr><tr class="app" data-appid="365420" data-cache="1601406317">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/365420/capsule_sm_120.jpg?t=1601406317" alt="">
+</td>
+<td class="text-left"><a href="/app/365420/">Apollo4x</a></td>
+<td data-sort="35.68">35.68%</td>
+<td data-sort="839">839</td>
+<td data-sort="0">0</td>
+<td data-sort="275">275</td>
+</tr><tr class="app" data-appid="1330960" data-cache="1618951581">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1330960/capsule_sm_120.jpg?t=1618951581" alt="">
+</td>
+<td class="text-left"><a href="/app/1330960/">The Commission 1920: Organized Crime Grand Strategy</a></td>
+<td data-sort="72.21">72.21%</td>
+<td data-sort="816">816</td>
+<td data-sort="1">1</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="849790" data-cache="1609843360">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/849790/capsule_sm_120.jpg?t=1609843360" alt="">
+</td>
+<td class="text-left"><a href="/app/849790/">Firmament Wars</a></td>
+<td data-sort="68.77">68.77%</td>
+<td data-sort="791">791</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="458030" data-cache="1608696588">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/458030/capsule_sm_120.jpg?t=1608696588" alt="">
+</td>
+<td class="text-left"><a href="/app/458030/">StarFringe: Adversus</a></td>
+<td data-sort="52.51">52.51%</td>
+<td data-sort="749">749</td>
+<td data-sort="0">0</td>
+<td data-sort="3017">3,017</td>
+</tr><tr class="app" data-appid="410990" data-cache="1616836635">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/410990/capsule_sm_120.jpg?t=1616836635" alt="">
+</td>
+<td class="text-left"><a href="/app/410990/">Master of Orion 3</a></td>
+<td data-sort="46.59">46.59%</td>
+<td data-sort="742">742</td>
+<td data-sort="13">13</td>
+<td data-sort="91">91</td>
+</tr><tr class="app" data-appid="690370" data-cache="1618342673">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/690370/capsule_sm_120.jpg?t=1618342673" alt="">
+</td>
+<td class="text-left"><a href="/app/690370/">Cantata</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="719">719</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="573790" data-cache="1613476355">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/573790/capsule_sm_120.jpg?t=1613476355" alt="">
+</td>
+<td class="text-left"><a href="/app/573790/">Imperium Galactica</a></td>
+<td data-sort="81.50">81.50%</td>
+<td data-sort="661">661</td>
+<td data-sort="2">2</td>
+<td data-sort="52">52</td>
+</tr><tr class="app" data-appid="229970" data-cache="1610756627">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/229970/capsule_sm_120.jpg?t=1610756627" alt="">
+</td>
+<td class="text-left"><a href="/app/229970/">Armada 2526 Gold Edition</a></td>
+<td data-sort="59.12">59.12%</td>
+<td data-sort="661">661</td>
+<td data-sort="2">2</td>
+<td data-sort="183">183</td>
+</tr><tr class="app" data-appid="871710" data-cache="1589773277">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/871710/capsule_sm_120.jpg?t=1589773277" alt="">
+</td>
+<td class="text-left"><a href="/app/871710/">Galactic Dominion</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="605">605</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1407180" data-cache="1618910410">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1407180/capsule_sm_120.jpg?t=1618910410" alt="">
+</td>
+<td class="text-left"><a href="/app/1407180/">Lawgivers II</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="601">601</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="742700" data-cache="1617495896">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/742700/capsule_sm_120.jpg?t=1617495896" alt="">
+</td>
+<td class="text-left"><a href="/app/742700/">Empire Deluxe Combined Edition</a></td>
+<td data-sort="77.36">77.36%</td>
+<td data-sort="593">593</td>
+<td data-sort="27">27</td>
+<td data-sort="57">57</td>
+</tr><tr class="app" data-appid="1077880" data-cache="1595246654">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1077880/capsule_sm_120.jpg?t=1595246654" alt="">
+</td>
+<td class="text-left"><a href="/app/1077880/">Hex Kingdoms</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="527">527</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1056350" data-cache="1616184125">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1056350/capsule_sm_120.jpg?t=1616184125" alt="">
+</td>
+<td class="text-left"><a href="/app/1056350/">Wizard Warfare</a></td>
+<td data-sort="83.27">83.27%</td>
+<td data-sort="518">518</td>
+<td data-sort="2">2</td>
+<td data-sort="10">10</td>
+</tr><tr class="app" data-appid="1192700" data-cache="1616818426">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1192700/capsule_sm_120.jpg?t=1616818426" alt="">
+</td>
+<td class="text-left"><a href="/app/1192700/">Void Eclipse</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="477">477</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="568370" data-cache="1618366362">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/568370/capsule_sm_120.jpg?t=1618366362" alt="">
+</td>
+<td class="text-left"><a href="/app/568370/">Castle Battles</a></td>
+<td data-sort="77.06">77.06%</td>
+<td data-sort="461">461</td>
+<td data-sort="0">0</td>
+<td data-sort="11">11</td>
+</tr><tr class="app" data-appid="1087810" data-cache="1606674045">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1087810/capsule_sm_120.jpg?t=1606674045" alt="">
+</td>
+<td class="text-left"><a href="/app/1087810/">Forgetful Dictator</a></td>
+<td data-sort="78.34">78.34%</td>
+<td data-sort="448">448</td>
+<td data-sort="0">0</td>
+<td data-sort="21">21</td>
+</tr><tr class="app" data-appid="1170980" data-cache="1614707590">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1170980/capsule_sm_120.jpg?t=1614707590" alt="">
+</td>
+<td class="text-left"><a href="/app/1170980/">A Planet of Mine</a></td>
+<td data-sort="68.75">68.75%</td>
+<td data-sort="442">442</td>
+<td data-sort="0">0</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="1120580" data-cache="1618981882">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1120580/capsule_sm_120.jpg?t=1618981882" alt="">
+</td>
+<td class="text-left"><a href="/app/1120580/">Clans to Kingdoms</a></td>
+<td data-sort="42.82">42.82%</td>
+<td data-sort="435">435</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="406160" data-cache="1618488471">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/406160/capsule_sm_120.jpg?t=1618488471" alt="">
+</td>
+<td class="text-left"><a href="/app/406160/">Dust Fleet</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="421">421</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1306770" data-cache="1617370613">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1306770/capsule_sm_120.jpg?t=1617370613" alt="">
+</td>
+<td class="text-left"><a href="/app/1306770/">Revival: Recolonization</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="417">417</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="674190" data-cache="1618594873">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/674190/capsule_sm_120.jpg?t=1618594873" alt="">
+</td>
+<td class="text-left"><a href="/app/674190/">Conquest of the New World</a></td>
+<td data-sort="82.55">82.55%</td>
+<td data-sort="415">415</td>
+<td data-sort="8">8</td>
+<td data-sort="23">23</td>
+</tr><tr class="app" data-appid="1393660" data-cache="1618851138">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1393660/capsule_sm_120.jpg?t=1618851138" alt="">
+</td>
+<td class="text-left"><a href="/app/1393660/">Rising Constellation</a></td>
+<td data-sort="69.44">69.44%</td>
+<td data-sort="406">406</td>
+<td data-sort="0">0</td>
+<td data-sort="24">24</td>
+</tr><tr class="app" data-appid="949710" data-cache="1593664715">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/949710/capsule_sm_120.jpg?t=1593664715" alt="">
+</td>
+<td class="text-left"><a href="/app/949710/">Exiled to the Void</a></td>
+<td data-sort="36.55">36.55%</td>
+<td data-sort="404">404</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="572050" data-cache="1619007349">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/572050/capsule_sm_120.jpg?t=1619007349" alt="">
+</td>
+<td class="text-left"><a href="/app/572050/">Call to Power II</a></td>
+<td data-sort="56.49">56.49%</td>
+<td data-sort="400">400</td>
+<td data-sort="8">8</td>
+<td data-sort="26">26</td>
+</tr><tr class="app" data-appid="1196030" data-cache="1618962641">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1196030/capsule_sm_120.jpg?t=1618962641" alt="">
+</td>
+<td class="text-left"><a href="/app/1196030/">The Mystic</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="395">395</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="645650" data-cache="1613354931">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/645650/capsule_sm_120.jpg?t=1613354931" alt="">
+</td>
+<td class="text-left"><a href="/app/645650/">Chickens Madness</a></td>
+<td data-sort="47.00">47.00%</td>
+<td data-sort="388">388</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="216130" data-cache="1609285303">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/216130/capsule_sm_120.jpg?t=1609285303" alt="">
+</td>
+<td class="text-left"><a href="/app/216130/">Gemini Wars</a></td>
+<td data-sort="30.34">30.34%</td>
+<td data-sort="380">380</td>
+<td data-sort="0">0</td>
+<td data-sort="145">145</td>
+</tr><tr class="app" data-appid="1309610" data-cache="1618905766">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1309610/capsule_sm_120.jpg?t=1618905766" alt="">
+</td>
+<td class="text-left"><a href="/app/1309610/">Line War</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="373">373</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1395760" data-cache="1617275555">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1395760/capsule_sm_120.jpg?t=1617275555" alt="">
+</td>
+<td class="text-left"><a href="/app/1395760/">Reshaping Mars</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="372">372</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="397870" data-cache="1609731705">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/397870/capsule_sm_120.jpg?t=1609731705" alt="">
+</td>
+<td class="text-left"><a href="/app/397870/">Arcane Sorcery</a></td>
+<td data-sort="53.89">53.89%</td>
+<td data-sort="365">365</td>
+<td data-sort="0">0</td>
+<td data-sort="207">207</td>
+</tr><tr class="app" data-appid="585820" data-cache="1588708242">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/585820/capsule_sm_120.jpg?t=1588708242" alt="">
+</td>
+<td class="text-left"><a href="/app/585820/">Leylines</a></td>
+<td data-sort="41.67">41.67%</td>
+<td data-sort="354">354</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="992210" data-cache="1578192185">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/992210/capsule_sm_120.jpg?t=1578192185" alt="">
+</td>
+<td class="text-left"><a href="/app/992210/">Waves of the Atlantide</a></td>
+<td data-sort="72.79">72.79%</td>
+<td data-sort="350">350</td>
+<td data-sort="0">0</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="1203490" data-cache="1615927565">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1203490/capsule_sm_120.jpg?t=1615927565" alt="">
+</td>
+<td class="text-left"><a href="/app/1203490/">Planet Colonization</a></td>
+<td data-sort="55.69">55.69%</td>
+<td data-sort="347">347</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="369040" data-cache="1600048342">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/369040/capsule_sm_120.jpg?t=1600048342" alt="">
+</td>
+<td class="text-left"><a href="/app/369040/">Yargis - Space Melee</a></td>
+<td data-sort="55.12">55.12%</td>
+<td data-sort="344">344</td>
+<td data-sort="0">0</td>
+<td data-sort="1790">1,790</td>
+</tr><tr class="app" data-appid="365240" data-cache="1615661422">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/365240/capsule_sm_120.jpg?t=1615661422" alt="">
+</td>
+<td class="text-left"><a href="/app/365240/">Galaxy Union</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="332">332</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1284080" data-cache="1616347762">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1284080/capsule_sm_120.jpg?t=1616347762" alt="">
+</td>
+<td class="text-left"><a href="/app/1284080/">Legion Gold</a></td>
+<td data-sort="77.92">77.92%</td>
+<td data-sort="314">314</td>
+<td data-sort="1">1</td>
+<td data-sort="20">20</td>
+</tr><tr class="app" data-appid="1437750" data-cache="1618382442">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1437750/capsule_sm_120.jpg?t=1618382442" alt="">
+</td>
+<td class="text-left"><a href="/app/1437750/">Stellar Monarch 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="280">280</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1002440" data-cache="1614648872">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1002440/capsule_sm_120.jpg?t=1614648872" alt="">
+</td>
+<td class="text-left"><a href="/app/1002440/">Fantastic Creatures</a></td>
+<td data-sort="65.93">65.93%</td>
+<td data-sort="279">279</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="863280" data-cache="1573580344">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/863280/capsule_sm_120.jpg?t=1573580344" alt="">
+</td>
+<td class="text-left"><a href="/app/863280/">Astraeus</a></td>
+<td data-sort="68.15">68.15%</td>
+<td data-sort="267">267</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="805520" data-cache="1617560083">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/805520/capsule_sm_120.jpg?t=1617560083" alt="">
+</td>
+<td class="text-left"><a href="/app/805520/">The Dwarves of Glistenveld</a></td>
+<td data-sort="69.20">69.20%</td>
+<td data-sort="260">260</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="996050" data-cache="1598561486">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/996050/capsule_sm_120.jpg?t=1598561486" alt="">
+</td>
+<td class="text-left"><a href="/app/996050/">Chieftain</a></td>
+<td data-sort="56.53">56.53%</td>
+<td data-sort="239">239</td>
+<td data-sort="0">0</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="1486140" data-cache="1615057992">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1486140/capsule_sm_120.jpg?t=1615057992" alt="">
+</td>
+<td class="text-left"><a href="/app/1486140/">Microcosmum 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="236">236</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1557040" data-cache="1617452491">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1557040/capsule_sm_120.jpg?t=1617452491" alt="">
+</td>
+<td class="text-left"><a href="/app/1557040/">Terraformers: First Steps on Mars</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="235">235</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1356810" data-cache="1618548796">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1356810/capsule_sm_120.jpg?t=1618548796" alt="">
+</td>
+<td class="text-left"><a href="/app/1356810/">Hexarchy</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="228">228</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="338820" data-cache="1615983460">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/338820/capsule_sm_120.jpg?t=1615983460" alt="">
+</td>
+<td class="text-left"><a href="/app/338820/">Retro Commander</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="227">227</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1477050" data-cache="1618356238">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1477050/capsule_sm_120.jpg?t=1618356238" alt="">
+</td>
+<td class="text-left"><a href="/app/1477050/">Grim wanderings 2</a></td>
+<td data-sort="69.91">69.91%</td>
+<td data-sort="223">223</td>
+<td data-sort="0">0</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="1099780" data-cache="1618753028">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1099780/capsule_sm_120.jpg?t=1618753028" alt="">
+</td>
+<td class="text-left"><a href="/app/1099780/">Translunar Enterprises</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="209">209</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="312960" data-cache="1603646857">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/312960/capsule_sm_120.jpg?t=1603646857" alt="">
+</td>
+<td class="text-left"><a href="/app/312960/">Starion Tactics</a></td>
+<td data-sort="44.24">44.24%</td>
+<td data-sort="208">208</td>
+<td data-sort="0">0</td>
+<td data-sort="342">342</td>
+</tr><tr class="app" data-appid="1035010" data-cache="1613002657">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1035010/capsule_sm_120.jpg?t=1613002657" alt="">
+</td>
+<td class="text-left"><a href="/app/1035010/">Mini Gal4Xy</a></td>
+<td data-sort="72.79">72.79%</td>
+<td data-sort="205">205</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1567980" data-cache="1618398240">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1567980/capsule_sm_120.jpg?t=1618398240" alt="">
+</td>
+<td class="text-left"><a href="/app/1567980/">Tachyon Wars</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="202">202</td>
+<td data-sort="1">1</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="944640" data-cache="1616597232">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/944640/capsule_sm_120.jpg?t=1616597232" alt="">
+</td>
+<td class="text-left"><a href="/app/944640/">Xenia's Ark</a></td>
+<td data-sort="64.78">64.78%</td>
+<td data-sort="195">195</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1537910" data-cache="1615955676">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1537910/capsule_sm_120.jpg?t=1615955676" alt="">
+</td>
+<td class="text-left"><a href="/app/1537910/">Chaos Galaxy 2</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="189">189</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1494960" data-cache="1619000128">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1494960/capsule_sm_120.jpg?t=1619000128" alt="">
+</td>
+<td class="text-left"><a href="/app/1494960/">NationWar:Annals</a></td>
+<td data-sort="65.51">65.51%</td>
+<td data-sort="188">188</td>
+<td data-sort="35">35</td>
+<td data-sort="77">77</td>
+</tr><tr class="app" data-appid="45200" data-cache="1614787664">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/45200/capsule_sm_120.jpg?t=1614787664" alt="">
+</td>
+<td class="text-left"><a href="/app/45200/">Defense of the Oasis</a></td>
+<td data-sort="72.21">72.21%</td>
+<td data-sort="187">187</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="1333480" data-cache="1599921053">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1333480/capsule_sm_120.jpg?t=1599921053" alt="">
+</td>
+<td class="text-left"><a href="/app/1333480/">Dominus - Multiplayer Sim Turn Based Strategy</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="180">180</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="46790" data-cache="1617384276">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/46790/capsule_sm_120.jpg?t=1617384276" alt="">
+</td>
+<td class="text-left"><a href="/app/46790/">Armada 2526</a></td>
+<td data-sort="55.80">55.80%</td>
+<td data-sort="180">180</td>
+<td data-sort="0">0</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="1031860" data-cache="1616505681">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1031860/capsule_sm_120.jpg?t=1616505681" alt="">
+</td>
+<td class="text-left"><a href="/app/1031860/">Zenith Frontier</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="163">163</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="340920" data-cache="1577846629">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/340920/capsule_sm_120.jpg?t=1577846629" alt="">
+</td>
+<td class="text-left"><a href="/app/340920/">Siege of Turtle Enclave</a></td>
+<td data-sort="43.68">43.68%</td>
+<td data-sort="162">162</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1120280" data-cache="1613306448">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1120280/capsule_sm_120.jpg?t=1613306448" alt="">
+</td>
+<td class="text-left"><a href="/app/1120280/">Treasure Fleet</a></td>
+<td data-sort="61.95">61.95%</td>
+<td data-sort="158">158</td>
+<td data-sort="1">1</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="1541790" data-cache="1617885161">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1541790/capsule_sm_120.jpg?t=1617885161" alt="">
+</td>
+<td class="text-left"><a href="/app/1541790/">Punk Wars</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="156">156</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1439220" data-cache="1616391275">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1439220/capsule_sm_120.jpg?t=1616391275" alt="">
+</td>
+<td class="text-left"><a href="/app/1439220/">Conquest: Medieval Kingdoms</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="149">149</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1422180" data-cache="1618437912">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1422180/capsule_sm_120.jpg?t=1618437912" alt="">
+</td>
+<td class="text-left"><a href="/app/1422180/">Galactic Crew II</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="145">145</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1391730" data-cache="1614553026">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1391730/capsule_sm_120.jpg?t=1614553026" alt="">
+</td>
+<td class="text-left"><a href="/app/1391730/">Space One</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="145">145</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1362350" data-cache="1614370246">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1362350/capsule_sm_120.jpg?t=1614370246" alt="">
+</td>
+<td class="text-left"><a href="/app/1362350/">Empis</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="136">136</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1521070" data-cache="1614007876">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1521070/capsule_sm_120.jpg?t=1614007876" alt="">
+</td>
+<td class="text-left"><a href="/app/1521070/">The Pegasus Expedition</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="123">123</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1148750" data-cache="1601422224">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1148750/capsule_sm_120.jpg?t=1601422224" alt="">
+</td>
+<td class="text-left"><a href="/app/1148750/">Advisors at the End of the Universe</a></td>
+<td data-sort="69.20">69.20%</td>
+<td data-sort="117">117</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1430200" data-cache="1618457870">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1430200/capsule_sm_120.jpg?t=1618457870" alt="">
+</td>
+<td class="text-left"><a href="/app/1430200/">Space Empires III</a></td>
+<td data-sort="71.55">71.55%</td>
+<td data-sort="105">105</td>
+<td data-sort="0">0</td>
+<td data-sort="10">10</td>
+</tr><tr class="app" data-appid="1297570" data-cache="1602015905">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1297570/capsule_sm_120.jpg?t=1602015905" alt="">
+</td>
+<td class="text-left"><a href="/app/1297570/">Machiavelli the Prince</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="97">97</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1234580" data-cache="1598982441">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1234580/capsule_sm_120.jpg?t=1598982441" alt="">
+</td>
+<td class="text-left"><a href="/app/1234580/">fullybroKEN - A Unique Mix of 4X / Post-Apocalypse / RPG / Roguelike</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="93">93</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1368240" data-cache="1612986202">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1368240/capsule_sm_120.jpg?t=1612986202" alt="">
+</td>
+<td class="text-left"><a href="/app/1368240/">Isle of the Crown</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="89">89</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1452110" data-cache="1607169982">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1452110/capsule_sm_120.jpg?t=1607169982" alt="">
+</td>
+<td class="text-left"><a href="/app/1452110/">Dominium Mundi</a></td>
+<td data-sort="45.83">45.83%</td>
+<td data-sort="79">79</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1567450" data-cache="1615433429">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1567450/capsule_sm_120.jpg?t=1615433429" alt="">
+</td>
+<td class="text-left"><a href="/app/1567450/">Rise of Hegemony</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="78">78</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1515980" data-cache="1617884335">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1515980/capsule_sm_120.jpg?t=1617884335" alt="">
+</td>
+<td class="text-left"><a href="/app/1515980/">Kill Demons</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="70">70</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="658480" data-cache="1617677803">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/658480/capsule_sm_120.jpg?t=1617677803" alt="">
+</td>
+<td class="text-left"><a href="/app/658480/">Starfighter General</a></td>
+<td data-sort="62.51">62.51%</td>
+<td data-sort="68">68</td>
+<td data-sort="1">1</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1388290" data-cache="1610346151">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1388290/capsule_sm_120.jpg?t=1610346151" alt="">
+</td>
+<td class="text-left"><a href="/app/1388290/">Colony Antares</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="66">66</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1376320" data-cache="1611154562">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1376320/capsule_sm_120.jpg?t=1611154562" alt="">
+</td>
+<td class="text-left"><a href="/app/1376320/">Askara</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="60">60</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1524490" data-cache="1618934877">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524490/capsule_sm_120.jpg?t=1618934877" alt="">
+</td>
+<td class="text-left"><a href="/app/1524490/">Cosmos Imperius</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="59">59</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1430140" data-cache="1602633688">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1430140/capsule_sm_120.jpg?t=1602633688" alt="">
+</td>
+<td class="text-left"><a href="/app/1430140/">Space Empires II</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="59">59</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1076810" data-cache="1611164254">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1076810/capsule_sm_120.jpg?t=1611164254" alt="">
+</td>
+<td class="text-left"><a href="/app/1076810/">DwarfHeim: Friend-pass</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="57">57</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1379460" data-cache="1615281637">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1379460/capsule_sm_120.jpg?t=1615281637" alt="">
+</td>
+<td class="text-left"><a href="/app/1379460/">TerraMartis4x</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="56">56</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1282710" data-cache="1606939798">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1282710/capsule_sm_120.jpg?t=1606939798" alt="">
+</td>
+<td class="text-left"><a href="/app/1282710/">Sakura Stars</a></td>
+<td data-sort="64.78">64.78%</td>
+<td data-sort="56">56</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1358970" data-cache="1618724476">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1358970/capsule_sm_120.jpg?t=1618724476" alt="">
+</td>
+<td class="text-left"><a href="/app/1358970/">Cyber Factories</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="54">54</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="951040" data-cache="1601868203">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/951040/capsule_sm_120.jpg?t=1601868203" alt="">
+</td>
+<td class="text-left"><a href="/app/951040/">Solar Command</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="51">51</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1109310" data-cache="1607177572">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1109310/capsule_sm_120.jpg?t=1607177572" alt="">
+</td>
+<td class="text-left"><a href="/app/1109310/">Expansion</a></td>
+<td data-sort="48.11">48.11%</td>
+<td data-sort="49">49</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1561960" data-cache="1618950696">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1561960/capsule_sm_120.jpg?t=1618950696" alt="">
+</td>
+<td class="text-left"><a href="/app/1561960/">Billionworlds : Kingdoms</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="45">45</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1254770" data-cache="1614960972">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1254770/capsule_sm_120.jpg?t=1614960972" alt="">
+</td>
+<td class="text-left"><a href="/app/1254770/">Haulin' Oats</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="45">45</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1425110" data-cache="1602186606">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1425110/capsule_sm_120.jpg?t=1602186606" alt="">
+</td>
+<td class="text-left"><a href="/app/1425110/">Space Empires I</a></td>
+<td data-sort="44.31">44.31%</td>
+<td data-sort="43">43</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1291610" data-cache="1609140890">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1291610/capsule_sm_120.jpg?t=1609140890" alt="">
+</td>
+<td class="text-left"><a href="/app/1291610/">Space Trains</a></td>
+<td data-sort="67.06">67.06%</td>
+<td data-sort="43">43</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1422980" data-cache="1616360697">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1422980/capsule_sm_120.jpg?t=1616360697" alt="">
+</td>
+<td class="text-left"><a href="/app/1422980/">Structura</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="41">41</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1502140" data-cache="1612406941">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1502140/capsule_sm_120.jpg?t=1612406941" alt="">
+</td>
+<td class="text-left"><a href="/app/1502140/">Shadows of the Sengoku</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="37">37</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1434160" data-cache="1609695788">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1434160/capsule_sm_120.jpg?t=1609695788" alt="">
+</td>
+<td class="text-left"><a href="/app/1434160/">My Empire</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="36">36</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1435610" data-cache="1618653178">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1435610/capsule_sm_120.jpg?t=1618653178" alt="">
+</td>
+<td class="text-left"><a href="/app/1435610/">奇迹领主</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="31">31</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1537940" data-cache="1613045302">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1537940/capsule_sm_120.jpg?t=1613045302" alt="">
+</td>
+<td class="text-left"><a href="/app/1537940/">Bow &amp; Crystal Tower Defense</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="30">30</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1472810" data-cache="1616026437">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1472810/capsule_sm_120.jpg?t=1616026437" alt="">
+</td>
+<td class="text-left"><a href="/app/1472810/">Slime Fantasy: the search for the lost sword</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="28">28</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1378750" data-cache="1606574180">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1378750/capsule_sm_120.jpg?t=1606574180" alt="">
+</td>
+<td class="text-left"><a href="/app/1378750/">World of Asgabas</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="24">24</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1600580" data-cache="1618335905">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1600580/capsule_sm_120.jpg?t=1618335905" alt="">
+</td>
+<td class="text-left"><a href="/app/1600580/">Kingdoms of Myth</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="12">12</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1540340" data-cache="1617810639">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1540340/capsule_sm_120.jpg?t=1617810639" alt="">
+</td>
+<td class="text-left"><a href="/app/1540340/">SAND CASTLES</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="12">12</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1537960" data-cache="1613161086">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1537960/capsule_sm_120.jpg?t=1613161086" alt="">
+</td>
+<td class="text-left"><a href="/app/1537960/">Click and Relax</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="10">10</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1607860" data-cache="1618725303">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1607860/capsule_sm_120.jpg?t=1618725303" alt="">
+</td>
+<td class="text-left"><a href="/app/1607860/">Water Drift</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="4">4</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1552950" data-cache="1617452108">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1552950/capsule_sm_120.jpg?t=1617452108" alt="">
+</td>
+<td class="text-left"><a href="/app/1552950/">Pollute &amp; Conquer</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="4">4</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1078100" data-cache="1591262880">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1078100/capsule_sm_120.jpg?t=1591262880" alt="">
+</td>
+<td class="text-left"><a href="/app/1078100/">Driftland: The Magic Revival - Soundtrack</a></td>
+<td data-sort="74.19">74.19%</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1522090" data-cache="1618945071">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1522090/capsule_sm_120.jpg?t=1618945071" alt="">
+</td>
+<td class="text-left"><a href="/app/1522090/">Stellaris: Nemesis</a></td>
+<td data-sort="47.09">47.09%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1520480" data-cache="1618942479">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1520480/capsule_sm_120.jpg?t=1618942479" alt="">
+</td>
+<td class="text-left"><a href="/app/1520480/">Imperiums: Age of Alexander</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1441460" data-cache="1618753301">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1441460/capsule_sm_120.jpg?t=1618753301" alt="">
+</td>
+<td class="text-left"><a href="/app/1441460/">Final Theory: Royal Navy</a></td>
+<td data-sort="70.84">70.84%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1419960" data-cache="1605718894">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1419960/capsule_sm_120.jpg?t=1605718894" alt="">
+</td>
+<td class="text-left"><a href="/app/1419960/">Interstellar Space: Genesis - Natural Law</a></td>
+<td data-sort="73.26">73.26%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1308090" data-cache="1615629102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1308090/capsule_sm_120.jpg?t=1615629102" alt="">
+</td>
+<td class="text-left"><a href="/app/1308090/">Sid Meier's Civilization® VI: New Frontier Pass</a></td>
+<td data-sort="57.92">57.92%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1196420" data-cache="1617741374">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1196420/capsule_sm_120.jpg?t=1617741374" alt="">
+</td>
+<td class="text-left"><a href="/app/1196420/">AI War 2: The Spire Rises</a></td>
+<td data-sort="82.70">82.70%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1148180" data-cache="1611433293">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1148180/capsule_sm_120.jpg?t=1611433293" alt="">
+</td>
+<td class="text-left"><a href="/app/1148180/">Stellar Monarch: The Age of Technology</a></td>
+<td data-sort="75.71">75.71%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1140001" data-cache="1618475901">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1140001/capsule_sm_120.jpg?t=1618475901" alt="">
+</td>
+<td class="text-left"><a href="/app/1140001/">Stellaris: Federations</a></td>
+<td data-sort="68.94">68.94%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1137802" data-cache="1614404070">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1137802/capsule_sm_120.jpg?t=1614404070" alt="">
+</td>
+<td class="text-left"><a href="/app/1137802/">Age of Wonders: Planetfall - Star Kings</a></td>
+<td data-sort="78.28">78.28%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1128540" data-cache="1618315756">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1128540/capsule_sm_120.jpg?t=1618315756" alt="">
+</td>
+<td class="text-left"><a href="/app/1128540/">Endless Space® 2 - Awakening</a></td>
+<td data-sort="35.15">35.15%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1128391" data-cache="1611245854">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1128391/capsule_sm_120.jpg?t=1611245854" alt="">
+</td>
+<td class="text-left"><a href="/app/1128391/">Immortal Realms: Vampire Wars - Fangs and Bones</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1045980" data-cache="1614184495">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1045980/capsule_sm_120.jpg?t=1614184495" alt="">
+</td>
+<td class="text-left"><a href="/app/1045980/">Stellaris: Ancient Relics Story Pack</a></td>
+<td data-sort="72.81">72.81%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="988450" data-cache="1615672257">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/988450/capsule_sm_120.jpg?t=1615672257" alt="">
+</td>
+<td class="text-left"><a href="/app/988450/">Endless Legend™ - Symbiosis</a></td>
+<td data-sort="64.20">64.20%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="988440" data-cache="1611943904">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/988440/capsule_sm_120.jpg?t=1611943904" alt="">
+</td>
+<td class="text-left"><a href="/app/988440/">Endless Space® 2 - Penumbra</a></td>
+<td data-sort="51.01">51.01%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="947510" data-cache="1613788335">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/947510/capsule_sm_120.jpg?t=1613788335" alt="">
+</td>
+<td class="text-left"><a href="/app/947510/">Sid Meier's Civilization® VI: Gathering Storm</a></td>
+<td data-sort="69.05">69.05%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="944290" data-cache="1618699107">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/944290/capsule_sm_120.jpg?t=1618699107" alt="">
+</td>
+<td class="text-left"><a href="/app/944290/">Stellaris: MegaCorp</a></td>
+<td data-sort="57.87">57.87%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="932780" data-cache="1615043299">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/932780/capsule_sm_120.jpg?t=1615043299" alt="">
+</td>
+<td class="text-left"><a href="/app/932780/">Egypt: Old Kingdom - Master of History</a></td>
+<td data-sort="76.90">76.90%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="888650" data-cache="1615295240">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/888650/capsule_sm_120.jpg?t=1615295240" alt="">
+</td>
+<td class="text-left"><a href="/app/888650/">Northgard - Sváfnir, Clan of the Snake</a></td>
+<td data-sort="70.55">70.55%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="854750" data-cache="1613350378">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/854750/capsule_sm_120.jpg?t=1613350378" alt="">
+</td>
+<td class="text-left"><a href="/app/854750/">Endless Legend™ - Inferno</a></td>
+<td data-sort="68.94">68.94%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="844810" data-cache="1618964121">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/844810/capsule_sm_120.jpg?t=1618964121" alt="">
+</td>
+<td class="text-left"><a href="/app/844810/">Stellaris: Distant Stars Story Pack</a></td>
+<td data-sort="65.93">65.93%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="806780" data-cache="1618189721">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/806780/capsule_sm_120.jpg?t=1618189721" alt="">
+</td>
+<td class="text-left"><a href="/app/806780/">Endless Space® 2 - Supremacy</a></td>
+<td data-sort="70.13">70.13%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="747060" data-cache="1608490612">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/747060/capsule_sm_120.jpg?t=1608490612" alt="">
+</td>
+<td class="text-left"><a href="/app/747060/">Galactic Civilizations III: Intrigue Expansion</a></td>
+<td data-sort="70.65">70.65%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="733140" data-cache="1615010879">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/733140/capsule_sm_120.jpg?t=1615010879" alt="">
+</td>
+<td class="text-left"><a href="/app/733140/">Endless Space® 2 - Vaulters</a></td>
+<td data-sort="84.23">84.23%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="716670" data-cache="1605641798">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/716670/capsule_sm_120.jpg?t=1605641798" alt="">
+</td>
+<td class="text-left"><a href="/app/716670/">Stellaris: Apocalypse</a></td>
+<td data-sort="63.91">63.91%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="645402" data-cache="1616518468">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/645402/capsule_sm_120.jpg?t=1616518468" alt="">
+</td>
+<td class="text-left"><a href="/app/645402/">Sid Meier’s Civilization® VI: Rise and Fall</a></td>
+<td data-sort="58.54">58.54%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="642750" data-cache="1605628043">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/642750/capsule_sm_120.jpg?t=1605628043" alt="">
+</td>
+<td class="text-left"><a href="/app/642750/">Stellaris: Synthetic Dawn Story Pack</a></td>
+<td data-sort="70.06">70.06%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="553280" data-cache="1612634656">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/553280/capsule_sm_120.jpg?t=1612634656" alt="">
+</td>
+<td class="text-left"><a href="/app/553280/">Stellaris: Utopia</a></td>
+<td data-sort="75.90">75.90%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="527070" data-cache="1598620694">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/527070/capsule_sm_120.jpg?t=1598620694" alt="">
+</td>
+<td class="text-left"><a href="/app/527070/">Galactic Civilizations III: Crusade Expansion Pack</a></td>
+<td data-sort="81.55">81.55%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="521220" data-cache="1611943904">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/521220/capsule_sm_120.jpg?t=1611943904" alt="">
+</td>
+<td class="text-left"><a href="/app/521220/">Endless Legend™ - Tempest</a></td>
+<td data-sort="75.79">75.79%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="518910" data-cache="1618562296">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/518910/capsule_sm_120.jpg?t=1618562296" alt="">
+</td>
+<td class="text-left"><a href="/app/518910/">Stellaris: Leviathans Story Pack</a></td>
+<td data-sort="70.15">70.15%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="513520" data-cache="1603758348">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/513520/capsule_sm_120.jpg?t=1603758348" alt="">
+</td>
+<td class="text-left"><a href="/app/513520/">Galactic Civilizations III - Mech Parts Kit DLC</a></td>
+<td data-sort="59.43">59.43%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="495371" data-cache="1598381017">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/495371/capsule_sm_120.jpg?t=1598381017" alt="">
+</td>
+<td class="text-left"><a href="/app/495371/">Galactic Civilizations III - Altarian Prophecy DLC</a></td>
+<td data-sort="46.73">46.73%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="495370" data-cache="1600887984">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/495370/capsule_sm_120.jpg?t=1600887984" alt="">
+</td>
+<td class="text-left"><a href="/app/495370/">Galactic Civilizations III - Lost Treasures DLC</a></td>
+<td data-sort="68.00">68.00%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="484860" data-cache="1601114681">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/484860/capsule_sm_120.jpg?t=1601114681" alt="">
+</td>
+<td class="text-left"><a href="/app/484860/">Galactic Civilizations III - Rise of the Terrans DLC</a></td>
+<td data-sort="60.34">60.34%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="460420" data-cache="1533728534">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/460420/capsule_sm_120.jpg?t=1533728534" alt="">
+</td>
+<td class="text-left"><a href="/app/460420/">Star Ruler 2 - Wake of the Heralds</a></td>
+<td data-sort="81.86">81.86%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="451050" data-cache="1611943904">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/451050/capsule_sm_120.jpg?t=1611943904" alt="">
+</td>
+<td class="text-left"><a href="/app/451050/">Endless Legend™ - Shifters</a></td>
+<td data-sort="81.15">81.15%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="420030" data-cache="1598380993">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420030/capsule_sm_120.jpg?t=1598380993" alt="">
+</td>
+<td class="text-left"><a href="/app/420030/">Galactic Civilizations III - Precursor Worlds DLC</a></td>
+<td data-sort="74.63">74.63%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="411650" data-cache="1598380988">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/411650/capsule_sm_120.jpg?t=1598380988" alt="">
+</td>
+<td class="text-left"><a href="/app/411650/">Galactic Civilizations III - Mercenaries Expansion Pack</a></td>
+<td data-sort="64.46">64.46%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="395990" data-cache="1598380981">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/395990/capsule_sm_120.jpg?t=1598380981" alt="">
+</td>
+<td class="text-left"><a href="/app/395990/">Galactic Civilizations III - Revenge of the Snathi DLC</a></td>
+<td data-sort="73.63">73.63%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="389930" data-cache="1617905202">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/389930/capsule_sm_120.jpg?t=1617905202" alt="">
+</td>
+<td class="text-left"><a href="/app/389930/">Galactic Civilizations III - Mega Events DLC</a></td>
+<td data-sort="58.79">58.79%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="374500" data-cache="1615740682">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/374500/capsule_sm_120.jpg?t=1615740682" alt="">
+</td>
+<td class="text-left"><a href="/app/374500/">Endless Legend™ - Shadows</a></td>
+<td data-sort="68.39">68.39%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="357360" data-cache="1616833057">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/357360/capsule_sm_120.jpg?t=1616833057" alt="">
+</td>
+<td class="text-left"><a href="/app/357360/">Endless Legend™ - Guardians</a></td>
+<td data-sort="72.01">72.01%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="353830" data-cache="1607606021">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/353830/capsule_sm_120.jpg?t=1607606021" alt="">
+</td>
+<td class="text-left"><a href="/app/353830/">Sid Meier's Civilization: Beyond Earth - Rising Tide</a></td>
+<td data-sort="75.79">75.79%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="333040" data-cache="1592589411">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/333040/capsule_sm_120.jpg?t=1592589411" alt="">
+</td>
+<td class="text-left"><a href="/app/333040/">Fallen Enchantress: Legendary Heroes - Battlegrounds DLC</a></td>
+<td data-sort="53.32">53.32%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="329530" data-cache="1605628043">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/329530/capsule_sm_120.jpg?t=1605628043" alt="">
+</td>
+<td class="text-left"><a href="/app/329530/">Age of Wonders III - Eternal Lords Expansion</a></td>
+<td data-sort="84.41">84.41%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="304480" data-cache="1581234911">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/304480/capsule_sm_120.jpg?t=1581234911" alt="">
+</td>
+<td class="text-left"><a href="/app/304480/">The Last Federation - Betrayed Hope</a></td>
+<td data-sort="69.91">69.91%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="299230" data-cache="1611772326">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/299230/capsule_sm_120.jpg?t=1611772326" alt="">
+</td>
+<td class="text-left"><a href="/app/299230/">Age of Wonders III - Golden Realms Expansion</a></td>
+<td data-sort="80.73">80.73%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="292900" data-cache="1592589408">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/292900/capsule_sm_120.jpg?t=1592589408" alt="">
+</td>
+<td class="text-left"><a href="/app/292900/">Fallen Enchantress: Legendary Heroes - Leader Pack DLC</a></td>
+<td data-sort="40.03">40.03%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="257320" data-cache="1592589408">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/257320/capsule_sm_120.jpg?t=1592589408" alt="">
+</td>
+<td class="text-left"><a href="/app/257320/">Fallen Enchantress: Legendary Heroes - The Dead World DLC</a></td>
+<td data-sort="55.14">55.14%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="241430" data-cache="1611943904">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/241430/capsule_sm_120.jpg?t=1611943904" alt="">
+</td>
+<td class="text-left"><a href="/app/241430/">Endless Space® - Disharmony</a></td>
+<td data-sort="74.17">74.17%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="235580" data-cache="1599661339">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/235580/capsule_sm_120.jpg?t=1599661339" alt="">
+</td>
+<td class="text-left"><a href="/app/235580/">Sid Meier's Civilization V: Brave New World</a></td>
+<td data-sort="90.23">90.23%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="233592" data-cache="1596649434">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/233592/capsule_sm_120.jpg?t=1596649434" alt="">
+</td>
+<td class="text-left"><a href="/app/233592/">Fallen Enchantress: Legendary Heroes - Loot Pack DLC</a></td>
+<td data-sort="55.69">55.69%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="233591" data-cache="1592589406">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/233591/capsule_sm_120.jpg?t=1592589406" alt="">
+</td>
+<td class="text-left"><a href="/app/233591/">Fallen Enchantress: Legendary Heroes - Quest Pack DLC</a></td>
+<td data-sort="59.60">59.60%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="233590" data-cache="1592589406">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/233590/capsule_sm_120.jpg?t=1592589406" alt="">
+</td>
+<td class="text-left"><a href="/app/233590/">Fallen Enchantress: Legendary Heroes - Map Pack DLC</a></td>
+<td data-sort="46.68">46.68%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="16870" data-cache="1597968509">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/16870/capsule_sm_120.jpg?t=1597968509" alt="">
+</td>
+<td class="text-left"><a href="/app/16870/">Sid Meier's Civilization V: Gods and Kings</a></td>
+<td data-sort="84.35">84.35%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr></tbody>
+</table><div class="dataTables_info_container text-center"><div class="dataTables_info" id="table-apps_info" role="status" aria-live="polite">Showing 1 to 337 of 337 entries</div></div><div class="dataTables_paginate paging_simple_numbers" id="table-apps_paginate"><nav class="pagination" aria-label="Pagination"><a class="paginate_button previous disabled" id="table-apps_previous" href="#" aria-controls="table-apps" data-dt-idx="0" tabindex="0">Previous</a><a class="paginate_button active" href="#" aria-controls="table-apps" data-dt-idx="1" tabindex="0">1</a><a class="paginate_button next disabled" id="table-apps_next" href="#" aria-controls="table-apps" data-dt-idx="2" tabindex="0">Next</a></nav></div></div>
+</div>
+<a href="/tag/1670/?all">View all apps without limiting</a> <i>(requires to be signed in)</i><script nonce="" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" src="/static/js/vendor/jquery.js?v=f3de1813a4160f92"></script><script nonce="" integrity="sha512-1ldJgrhlWJ6exKxNHUerSVIPmf3O9LShj8j9haz0y6qy7G88aJg8Iu+RWXf9MZ9s3zhh2cFdjY/S8Ov6+fWmrw==" src="/static/js/vendor/dataTables.js?v=d6574982b865589e"></script>
+<script nonce="">(function()
+{
+var cdnUrl = $( document.body ).data( 'steam-cdn' );
+$( '#table-apps' ).DataTable({
+orderClasses: false,
+autoWidth: false,
+pageLength: 100,
+stripeClasses: [],
+lengthMenu:
+[
+[ 25, 50, 100, 250, 1000, 5000, -1 ],
+[ 25, 50, 100, 250, '1K', '5K', 'All (slow)' ]
+],
+initComplete: function( )
+{
+$( this )
+.find( 'tfoot' ).remove().end()
+.find( 'tbody' ).prop( 'hidden', false );
+},
+rowCallback: function( row )
+{
+row = $( row );
+if( row.data( 'loaded' ) )
+{
+return;
+}
+row
+.data( 'loaded', true )
+.find( '.applogo img' )
+.one( 'error', function()
+{
+$( this ).attr( 'src', '/static/img/applogo.svg' );
+} )
+.attr( 'src', cdnUrl + 'steam/apps/' + row.data( 'appid' ) + '/capsule_sm_120.jpg?t=' + row.data( 'cache' ) );
+}
+});
+}());
+</script>
+</div>
+</div>
+<div class="footer" role="contentinfo" id="steamdb-org" itemscope="" itemtype="http://schema.org/Organization" itemprop="publisher">
+<meta itemprop="name" content="Steam Database">
+<meta itemprop="alternateName" content="SteamDB">
+<meta itemprop="url" content="https://steamdb.info/">
+<span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://steamdb.info/static/logos/512px.png">
+<meta itemprop="width" content="512">
+<meta itemprop="height" content="512">
+</span>
+<div class="container">
+<div class="row">
+<div class="span9 footer-attribution">
+<div class="footer-steamdb">Steam Database</div>
+<div>By <a href="https://xpaw.me">xPaw</a> and <a href="https://marlamin.com/">Marlamin</a></div>
+<div class="footer-third-party">SteamDB is a community website and is not affiliated with Valve or Steam.<br>All times on the site are UTC.</div>
+<a href="/?dark=0" id="dark-mode-toggle" rel="nofollow"><span class="dark-mode-slider"></span> <span class="dark-mode-disabled">Enable dark mode</span><span class="dark-mode-enabled">Disable dark mode</span></a>
+</div>
+<div class="span3">
+<a class="btn-social" href="https://twitter.com/intent/follow?screen_name=SteamDB" itemprop="sameAs">
+<svg viewBox="0 0 32 32" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path d="M31.993 6.077c-1.177.523-2.44.876-3.77 1.033 1.355-.812 2.396-2.098 2.887-3.63-1.27.75-2.673 1.3-4.168 1.592C25.744 3.797 24.038 3 22.15 3c-3.626 0-6.563 2.938-6.563 6.563 0 .514.057 1.016.17 1.496C10.3 10.784 5.464 8.17 2.226 4.2c-.564.97-.888 2.098-.888 3.3 0 2.28 1.158 4.287 2.918 5.465-1.075-.035-2.087-.33-2.972-.82v.08c0 3.182 2.26 5.835 5.264 6.438-.55.15-1.13.23-1.73.23-.423 0-.833-.04-1.233-.117.834 2.606 3.26 4.504 6.13 4.558-2.245 1.76-5.075 2.81-8.15 2.81-.53 0-1.053-.03-1.566-.09C2.906 27.913 6.356 29 10.063 29c12.072 0 18.675-10 18.675-18.675 0-.284-.008-.568-.02-.85 1.283-.925 2.395-2.08 3.276-3.398z"></path>
+</svg>
+<span class="btn-social-title">Follow @SteamDB</span>
+</a>
+<a class="btn-social" href="https://twitter.com/intent/follow?screen_name=thexpaw">
+<svg viewBox="0 0 32 32" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path d="M31.993 6.077c-1.177.523-2.44.876-3.77 1.033 1.355-.812 2.396-2.098 2.887-3.63-1.27.75-2.673 1.3-4.168 1.592C25.744 3.797 24.038 3 22.15 3c-3.626 0-6.563 2.938-6.563 6.563 0 .514.057 1.016.17 1.496C10.3 10.784 5.464 8.17 2.226 4.2c-.564.97-.888 2.098-.888 3.3 0 2.28 1.158 4.287 2.918 5.465-1.075-.035-2.087-.33-2.972-.82v.08c0 3.182 2.26 5.835 5.264 6.438-.55.15-1.13.23-1.73.23-.423 0-.833-.04-1.233-.117.834 2.606 3.26 4.504 6.13 4.558-2.245 1.76-5.075 2.81-8.15 2.81-.53 0-1.053-.03-1.566-.09C2.906 27.913 6.356 29 10.063 29c12.072 0 18.675-10 18.675-18.675 0-.284-.008-.568-.02-.85 1.283-.925 2.395-2.08 3.276-3.398z"></path>
+</svg>
+<span class="btn-social-title">Follow @thexpaw</span>
+</a>
+<a class="btn-social" href="/discord/" rel="nofollow">
+<svg viewBox="0 0 24 24" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path d="M20.222 0c1.406 0 2.54 1.137 2.607 2.475V24l-2.677-2.273-1.47-1.338-1.604-1.398.67 2.205H3.71c-1.402 0-2.54-1.065-2.54-2.476V2.48C1.17 1.142 2.31.003 3.715.003h16.5L20.222 0zm-6.118 5.683h-.03l-.202.2c2.073.6 3.076 1.537 3.076 1.537-1.336-.668-2.54-1.002-3.744-1.137-.87-.135-1.74-.064-2.475 0h-.2c-.47 0-1.47.2-2.81.735-.467.203-.735.336-.735.336s1.002-1.002 3.21-1.537l-.135-.135s-1.672-.064-3.477 1.27c0 0-1.805 3.144-1.805 7.02 0 0 1 1.74 3.743 1.806 0 0 .4-.533.805-1.002-1.54-.468-2.14-1.404-2.14-1.404s.134.066.335.2h.06c.03 0 .044.015.06.03v.006c.016.016.03.03.06.03.33.136.66.27.93.4.466.202 1.065.403 1.8.536.93.135 1.996.2 3.21 0 .6-.135 1.2-.267 1.8-.535.39-.2.87-.4 1.397-.737 0 0-.6.936-2.205 1.404.33.466.795 1 .795 1 2.744-.06 3.81-1.8 3.87-1.726 0-3.87-1.815-7.02-1.815-7.02-1.635-1.214-3.165-1.26-3.435-1.26l.056-.02zm.168 4.413c.703 0 1.27.6 1.27 1.335 0 .74-.57 1.34-1.27 1.34-.7 0-1.27-.6-1.27-1.334.002-.74.573-1.338 1.27-1.338zm-4.543 0c.7 0 1.266.6 1.266 1.335 0 .74-.57 1.34-1.27 1.34-.7 0-1.27-.6-1.27-1.334 0-.74.57-1.338 1.27-1.338z"></path>
+</svg>
+<span class="btn-social-title">Join our Discord</span>
+</a>
+<a class="btn-social" href="https://steamcommunity.com/groups/steamdb" itemprop="sameAs">
+<svg viewBox="0 0 16 16" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path d="M8 0a8 8 0 00-8 7.47c.07.1.13.21.18.32l4.15 1.67a2.2 2.2 0 011.31-.36l1.97-2.8v-.04c0-1.65 1.37-3 3.05-3a3.03 3.03 0 013.05 3 3.03 3.03 0 01-3.12 3l-2.81 1.97c0 .3-.05.6-.17.9a2.25 2.25 0 01-4.23-.37L.4 10.56A8.01 8.01 0 108 0zm2.66 4.27c-1.12 0-2.03.9-2.03 2s.91 1.99 2.03 1.99c1.12 0 2.03-.9 2.03-2s-.9-2-2.03-2zm0 .5c.85 0 1.53.66 1.53 1.49s-.68 1.5-1.53 1.5c-.84 0-1.52-.67-1.52-1.5s.68-1.5 1.52-1.5zM5.57 9.6c-.22 0-.43.04-.62.11l1.02.42c.65.26.95.99.68 1.62-.27.63-1 .93-1.65.67l-1-.4a1.73 1.73 0 003.13-.08c.18-.42.18-.88.01-1.3A1.69 1.69 0 005.57 9.6z"></path>
+</svg>
+<span class="btn-social-title">Join our Steam Group</span>
+</a>
+<a class="btn-social" href="https://github.com/SteamDatabase" itemprop="sameAs">
+<svg viewBox="0 0 16 16" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+<span class="btn-social-title">View our GitHub</span>
+</a>
+<a class="btn-social" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2143864906" rel="nofollow" style="color:#ffc83d">
+<svg viewBox="0 0 13 21" xmlns="http://www.w3.org/2000/svg" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.8.2l-.6.42c-.24.15-.5.23-.81.2L3.93.73c-.5-.04-.97.19-1.2.65l-.3.65c-.16.27-.35.47-.62.58l-.42.2c-.46.19-.73.65-.7 1.15l.05.73c.03.3-.04.54-.24.77l-.26.39c-.31.38-.31.92-.04 1.34l.42.62c.15.23.2.5.2.8l-.08.47c-.04.5.19.96.65 1.2l.65.3c.27.15.46.35.58.62l.15.42c.23.46.66.73 1.2.7l.72-.05c.27-.04.54.04.77.23l.39.27c.38.31.92.31 1.34.04l.62-.42c.23-.16.5-.2.77-.2l.46.08c.5.04 1-.19 1.19-.65l.34-.66c.12-.27.31-.46.58-.57l.42-.16c.46-.23.77-.65.73-1.19l-.04-.73a.97.97 0 01.24-.77l.26-.39c.31-.38.31-.92.04-1.34l-.42-.62a1.1 1.1 0 01-.2-.77l.08-.46c.04-.5-.19-1-.65-1.2l-.65-.34c-.27-.12-.46-.3-.58-.58l-.2-.42C10 .97 9.55.66 9.05.7L8.3.74A.93.93 0 017.54.5L7.15.24C6.77-.07 6.23-.07 5.81.2zm.7 2.5a3.82 3.82 0 10-.04 7.65A3.82 3.82 0 006.5 2.7z"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.04 12.78v7.32l3.46-2.47 3.46 2.47v-7.32c-.3.12-.65.2-1 .16l-.42-.08a.65.65 0 00-.39.12l-.61.38c-.66.42-1.46.42-2.12-.04l-.34-.3c-.12-.08-.23-.08-.35-.08l-.73.04c-.34 0-.69-.04-.96-.2z"></path>
+</svg>
+<span class="btn-social-title">Give a Steam Award</span>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="span12 footer-menu hide-small">
+<ul>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/faq/">FAQ &amp; Help</a></li>
+<li><a href="/sales/">Sales</a></li>
+<li><a href="/calculator/">Calculator</a></li>
+<li><a href="/donate/">Donate</a></li>
+<li><a href="/graph/">Charts</a></li>
+</ul>
+<ul>
+<li><a href="/apps/">Apps</a></li>
+<li><a href="/subs/">Packages</a></li>
+<li><a href="/bundles/">Bundles</a></li>
+<li><a href="/history/">History</a></li>
+<li><a href="/instantsearch/">Instant Search</a></li>
+<li><a href="/servers/">Valve MM Servers</a></li>
+</ul>
+<ul>
+<li><a href="/realtime/">Realtime Updates</a></li>
+<li><a href="/pricechanges/">Price Tracking</a></li>
+<li><a href="/tags/">Tags</a></li>
+<li><a href="/upcoming/">Upcoming</a></li>
+<li><a href="/upcoming/mostfollowed/">Most Followed Upcoming</a></li>
+<li><a href="/calendar/">Release Calendar</a></li>
+</ul>
+<ul>
+<li><a href="/stats/gameratings/">Top Rated Games</a></li>
+<li><a href="/badge/13/">Top Game Owners</a></li>
+<li><a href="/stats/toplevels/">Top Steam Levels</a></li>
+<li><a href="/topsellers/">Top Selling Games</a></li>
+<li><a href="/stats/mostfollowed/">Most Followed Games</a></li>
+<li><a href="/badges/">Badges</a></li>
+</ul>
+<ul>
+<li><a href="/sales/history/">When is next sale?</a></li>
+<li><a href="/patchnotes/">Patch notes</a></li>
+<li><a href="/upcoming/free/">Free Promotions</a></li>
+<li><a href="/freepackages/">Free Packages</a></li>
+<li><a href="https://steamstat.us/">Steam Status</a></li>
+<li><a href="https://steamapi.xpaw.me/">Steam Web API</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-copyright">
+<div class="container">Steam and the Steam logo are trademarks of Valve Corporation. All other trademarks are property of their respective owners. <a href="/faq/#what-steamdb-is-not">Fair use disclaimer</a></div>
+</div>
+</div>
+<div class="hover" id="js-hover" hidden=""></div>
+<script nonce="" integrity="sha512-qAFfbfGmF7m39gd3Ot1xaQ3VqZoDCeGQyeX/19ntvAojZtDc10C6v/UyX54MlRwo7oKNfGq6BTPbFpn6oehdPQ==" src="/static/js/footer.js?v=a8015f6df1a617b9" defer=""></script><script nonce="" integrity="sha512-35WB2glFrhhc/0w/rM/WzEyehnIjcC6G+rf26F5wK+Vg9HAY0neIBsxySUSxctUOW/oOfb08i0LaZwX3HvZ7iQ==" src="/static/js/hover.js?v=df9581da0945ae18" defer=""></script>
+<noscript class="extension-warning"><svg version="1.1" width="32" height="32" viewBox="0 0 16 16" class="octicon octicon-alert" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg> For SteamDB to function correctly you must enable JavaScript.</noscript>
+
+</body></html>

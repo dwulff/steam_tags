@@ -1,0 +1,3318 @@
+<html lang="en" class="dark-mode"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Tags · Satire · SteamDB</title>
+<link rel="stylesheet" integrity="sha512-tta00Bk2HL1Hx60SdWe0C4WKi1cVP3EZeDJczFX0HjST5wFfnxmbGUNSPPG9PGwJ2kWQmoeTUkOnoakeQc1qNw==" href="/static/css/headcrab.css?v=b6d6b4d019361cbd">
+<link rel="alternate" type="application/rss+xml" title="SteamDB Blog" href="https://steamdb.info/api/BlogRSS/">
+<link rel="canonical" href="https://steamdb.info/tag/1651/">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@SteamDB">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SteamDB">
+<meta property="og:title" content="User Tags · Satire">
+<meta name="description" content="A list of products on Steam: Satire">
+<meta property="og:description" content="A list of products on Steam: Satire">
+<meta property="og:image" content="https://steamdb.info/static/logos/512px.png">
+<link rel="image_src" href="https://steamdb.info/static/logos/512px.png">
+<meta name="theme-color" content="#000000">
+<meta name="application-name" content="SteamDB">
+<meta name="apple-mobile-web-app-title" content="SteamDB">
+<link rel="manifest" href="/steamdb.webmanifest">
+<link rel="icon" type="image/png" href="/static/logos/32px.png">
+<link rel="icon" type="image/svg+xml" href="/static/logos/vector_prefers_schema.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/logos/512px_maskable.png">
+<link rel="mask-icon" href="/static/logos/vector_16px.svg" color="#000000">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="SteamDB">
+<link rel="preconnect" href="https://cdn.cloudflare.steamstatic.com/">
+</head>
+<body class="page-tags" itemscope="" itemtype="http://schema.org/WebSite" data-steam-cdn="https://cdn.cloudflare.steamstatic.com/">
+<a class="skip-main" href="#main" id="js-skip-main">Skip to content</a>
+<div class="footer-wrap">
+<div class="body-content">
+<div class="global-announcement" role="banner">
+<style>
+.global-announcement {
+    color: #66c0f4;
+    background-color: #111;
+    text-align:center;
+}
+
+.global-announcement a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.global-announcement a:hover {
+    text-decoration: underline;
+}
+
+.page-tokendumper .global-announcement {
+    display: none;
+}
+
+@media (max-width: 980px) {
+    .global-announcement {
+        display: none;
+    }
+}
+</style>
+<div class="container">
+<svg class="octicon" style="width:25px;height:20px;margin-left:5px;margin-right:14px" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M436 17.5c-30.8-26.7-76.7-21.9-104.9 7.7L320 36.9l-11.1-11.6C280.7-4.4 234.8-9.2 204 17.5c-35.3 30.6-37.2 85.6-5.6 118.8l108.9 114.2c7 7.4 18.4 7.4 25.5 0l108.9-114.2c31.5-33.2 29.7-88.2-5.7-118.8zM204.8 230.4c-10.6-14.1-30.7-17-44.8-6.4-14.1 10.6-17 30.7-6.4 44.8l38.1 50.8c4.8 6.4 4.1 15.3-1.5 20.9l-12.8 12.8c-6.7 6.7-17.6 6.2-23.6-1.1L64 244.4V96c0-17.7-14.3-32-32-32S0 78.3 0 96v218.4c0 10.9 3.7 21.5 10.5 30l104.1 134.3c5 6.5 8.4 13.9 10.4 21.7 1.8 6.9 8.1 11.6 15.3 11.6H272c8.8 0 16-7.2 16-16V384c0-27.7-9-54.6-25.6-76.8l-57.6-76.8zM608 64c-17.7 0-32 14.3-32 32v148.4l-89.8 107.8c-6 7.2-17 7.7-23.6 1.1l-12.8-12.8c-5.6-5.6-6.3-14.5-1.5-20.9l38.1-50.8c10.6-14.1 7.7-34.2-6.4-44.8-14.1-10.6-34.2-7.7-44.8 6.4l-57.6 76.8C361 329.4 352 356.3 352 384v112c0 8.8 7.2 16 16 16h131.7c7.1 0 13.5-4.7 15.3-11.6 2-7.8 5.4-15.2 10.4-21.7l104.1-134.3c6.8-8.5 10.5-19.1 10.5-30V96c0-17.7-14.3-32-32-32z"></path></svg><a href="/tokendumper/"><i>Contribute to SteamDB:</i> Use our token dumper program to help us track hidden games</a>
+</div>
+</div>
+<div class="header" role="banner">
+<div class="container">
+<ul class="header-navbar">
+<li class="header-brand mobile-visible"><a href="/" itemprop="url" aria-label="Homepage"><svg version="1.1" width="30" height="30" viewBox="0 0 128 128" class="octicon octicon-steamdb" aria-hidden="true"><path fill-rule="evenodd" d="M63.9 0C30.5 0 3.1 11.9.1 27.1l35.6 6.7c2.9-.9 6.2-1.3 9.6-1.3l16.7-10c-.2-2.5 1.3-5.1 4.7-7.2 4.8-3.1 12.3-4.8 19.9-4.8 5.2-.1 10.5.7 15 2.2 11.2 3.8 13.7 11.1 5.7 16.3-5.1 3.3-13.3 5-21.4 4.8l-22 7.9c-.2 1.6-1.3 3.1-3.4 4.5-5.9 3.8-17.4 4.7-25.6 1.9-3.6-1.2-6-3-7-4.8L2.5 38.4c2.3 3.6 6 6.9 10.8 9.8C5 53 0 59 0 65.5c0 6.4 4.8 12.3 12.9 17.1C4.8 87.3 0 93.2 0 99.6 0 115.3 28.6 128 64 128c35.3 0 64-12.7 64-28.4 0-6.4-4.8-12.3-12.9-17 8.1-4.8 12.9-10.7 12.9-17.1 0-6.5-5-12.6-13.4-17.4 8.3-5.1 13.3-11.4 13.3-18.2 0-16.5-28.7-29.9-64-29.9zm22.8 14.2c-5.2.1-10.2 1.2-13.4 3.3-5.5 3.6-3.8 8.5 3.8 11.1 7.6 2.6 18.1 1.8 23.6-1.8s3.8-8.5-3.8-11c-3.1-1-6.7-1.5-10.2-1.5zm.3 1.7c7.4 0 13.3 2.8 13.3 6.2 0 3.4-5.9 6.2-13.3 6.2s-13.3-2.8-13.3-6.2c0-3.4 5.9-6.2 13.3-6.2zM45.3 34.4c-1.6.1-3.1.2-4.6.4l9.1 1.7a10.8 5 0 1 1-8.1 9.3l-8.9-1.7c1 .9 2.4 1.7 4.3 2.4 6.4 2.2 15.4 1.5 20-1.5s3.2-7.2-3.2-9.3c-2.6-.9-5.7-1.3-8.6-1.3zM109 51v9.3c0 11-20.2 19.9-45 19.9-24.9 0-45-8.9-45-19.9v-9.2c11.5 5.3 27.4 8.6 44.9 8.6 17.6 0 33.6-3.3 45.2-8.7zm0 34.6v8.8c0 11-20.2 19.9-45 19.9-24.9 0-45-8.9-45-19.9v-8.8c11.6 5.1 27.4 8.2 45 8.2s33.5-3.1 45-8.2z"></path></svg></a></li>
+<li class="header-search mobile-visible">
+<form id="js-header-form" method="GET" action="/search/" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" role="search">
+<input type="hidden" name="a" value="app">
+<meta itemprop="target" content="https://steamdb.info/search/?a=app&amp;q={q}">
+<input type="search" class="field" id="js-header-search" name="q" placeholder="Search…" itemprop="query-input" aria-label="Search">
+<button type="submit" class="submit" aria-label="Perform search"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-search" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg></button>
+</form>
+</li>
+<li><a href="/sales/">Sales</a></li>
+<li><a href="/calculator/">Calculator</a></li>
+<li><a href="/patchnotes/">Patch notes</a></li>
+<li><a href="/graph/">Charts</a></li>
+<li><a href="/upcoming/">Upcoming</a></li>
+<li class="header-hamburger" id="js-header-hamburger" tabindex="0"><span>More</span><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-chevron-down" aria-hidden="true"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg></li>
+<li class="header-hamburger mobile-visible"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-three-bars" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg></li>
+<li class="header-user">
+<a class="header-login" href="/login/?page=tag%2F1651">
+<svg version="1.1" width="20" height="20" viewBox="0 0 16 16" class="octicon octicon-steam" aria-hidden="true"><path d="M8 0a8 8 0 00-8 7.47c.07.1.13.21.18.32l4.15 1.67a2.2 2.2 0 011.31-.36l1.97-2.8v-.04c0-1.65 1.37-3 3.05-3a3.03 3.03 0 013.05 3 3.03 3.03 0 01-3.12 3l-2.81 1.97c0 .3-.05.6-.17.9a2.25 2.25 0 01-4.23-.37L.4 10.56A8.01 8.01 0 108 0zm2.66 4.27c-1.12 0-2.03.9-2.03 2s.91 1.99 2.03 1.99c1.12 0 2.03-.9 2.03-2s-.9-2-2.03-2zm0 .5c.85 0 1.53.66 1.53 1.49s-.68 1.5-1.53 1.5c-.84 0-1.52-.67-1.52-1.5s.68-1.5 1.52-1.5zM5.57 9.6c-.22 0-.43.04-.62.11l1.02.42c.65.26.95.99.68 1.62-.27.63-1 .93-1.65.67l-1-.4a1.73 1.73 0 003.13-.08c.18-.42.18-.88.01-1.3A1.69 1.69 0 005.57 9.6z"></path></svg> <span>Sign in</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="header-search-suggestions">
+<div class="container" id="js-search-suggestions">
+<p>Start typing to see game suggestions. This only suggests apps that are available on the Steam store.</p>
+<p>Shortcuts:</p>
+<ul>
+<li>Enter an appid to be redirected to the app page.</li>
+<li>Enter a steamid (765...) to be redirected to calculator.</li>
+<li>Paste a profile link (/id/ or /profiles/) to be redirected to calculator.</li>
+<li>Paste any url that contains app/, sub/, bundle/, or /depot to be redirected to the relevant page.</li>
+</ul>
+<p>Click anywhere outside the search field to close this popup.</p>
+<p>Search suggestions are powered by Algolia instant search.</p>
+</div>
+</div>
+<div class="header-menu">
+<div class="container">
+<ul>
+<li><a href="/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-home" aria-hidden="true"><path fill-rule="evenodd" d="M8.156 1.835a.25.25 0 00-.312 0l-5.25 4.2a.25.25 0 00-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 01.75-.75h3.5a.75.75 0 01.75.75v5.25h2.75a.25.25 0 00.25-.25V6.23a.25.25 0 00-.094-.195l-5.25-4.2zM6.906.664a1.75 1.75 0 012.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0113.25 15h-3.5a.75.75 0 01-.75-.75V9H7v5.25a.75.75 0 01-.75.75h-3.5A1.75 1.75 0 011 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2h-.001z"></path></svg> Homepage</a></li>
+<li><a href="/blog/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-megaphone" aria-hidden="true"><g fill-rule="evenodd"><path d="M3.25 9a.75.75 0 01.75.75c0 2.142.456 3.828.733 4.653a.121.121 0 00.05.064.207.207 0 00.117.033h1.31c.085 0 .18-.042.258-.152a.448.448 0 00.075-.366A16.74 16.74 0 016 9.75a.75.75 0 011.5 0c0 1.588.25 2.926.494 3.85.293 1.113-.504 2.4-1.783 2.4H4.9c-.686 0-1.35-.41-1.589-1.12A16.42 16.42 0 012.5 9.75.75.75 0 013.25 9z"></path><path d="M0 6a4 4 0 014-4h2.75a.75.75 0 01.75.75v6.5a.75.75 0 01-.75.75H4a4 4 0 01-4-4zm4-2.5a2.5 2.5 0 000 5h2v-5H4z"></path><path d="M15.59.082A.75.75 0 0116 .75v10.5a.75.75 0 01-1.189.608l-.002-.001h.001l-.014-.01a5.829 5.829 0 00-.422-.25 10.58 10.58 0 00-1.469-.64C11.576 10.484 9.536 10 6.75 10a.75.75 0 110-1.5c2.964 0 5.174.516 6.658 1.043.423.151.787.302 1.092.443V2.014c-.305.14-.669.292-1.092.443C11.924 2.984 9.713 3.5 6.75 3.5a.75.75 0 110-1.5c2.786 0 4.826-.484 6.155-.957.665-.236 1.154-.47 1.47-.64a5.82 5.82 0 00.421-.25l.014-.01a.75.75 0 01.78-.061zm-.78.06zm.44 11.108l-.44.607.44-.607z"></path></g></svg> Blog</a></li>
+<li class="mobile-visible"><a href="/discord/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-comment-discussion" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"></path></svg> Discord</a></li>
+<li><a href="/faq/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-question" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004a7.728 7.728 0 00-.313.195 2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.863-1.725A2.76 2.76 0 008 4c-.631 0-1.155.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 101.342.67z"></path></svg> FAQ &amp; Help</a></li>
+<li class="mobile-visible"><a href="/sales/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-credit-card" aria-hidden="true"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"></path><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"></path></svg> Sales</a></li>
+<li class="mobile-visible"><a href="/calculator/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-smiley" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM5 8a1 1 0 100-2 1 1 0 000 2zm7-1a1 1 0 11-2 0 1 1 0 012 0zM5.32 9.636a.75.75 0 011.038.175l.007.009c.103.118.22.222.35.31.264.178.683.37 1.285.37.602 0 1.02-.192 1.285-.371.13-.088.247-.192.35-.31l.007-.008a.75.75 0 111.222.87l-.614-.431c.614.43.614.431.613.431v.001l-.001.002-.002.003-.005.007-.014.019a1.984 1.984 0 01-.184.213c-.16.166-.338.316-.53.445-.63.418-1.37.638-2.127.629-.946 0-1.652-.308-2.126-.63a3.32 3.32 0 01-.715-.657l-.014-.02-.005-.006-.002-.003v-.002h-.001l.613-.432-.614.43a.75.75 0 01.183-1.044h.001z"></path></svg> Calculator</a></li>
+<li class="mobile-visible"><a href="/patchnotes/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-megaphone" aria-hidden="true"><g fill-rule="evenodd"><path d="M3.25 9a.75.75 0 01.75.75c0 2.142.456 3.828.733 4.653a.121.121 0 00.05.064.207.207 0 00.117.033h1.31c.085 0 .18-.042.258-.152a.448.448 0 00.075-.366A16.74 16.74 0 016 9.75a.75.75 0 011.5 0c0 1.588.25 2.926.494 3.85.293 1.113-.504 2.4-1.783 2.4H4.9c-.686 0-1.35-.41-1.589-1.12A16.42 16.42 0 012.5 9.75.75.75 0 013.25 9z"></path><path d="M0 6a4 4 0 014-4h2.75a.75.75 0 01.75.75v6.5a.75.75 0 01-.75.75H4a4 4 0 01-4-4zm4-2.5a2.5 2.5 0 000 5h2v-5H4z"></path><path d="M15.59.082A.75.75 0 0116 .75v10.5a.75.75 0 01-1.189.608l-.002-.001h.001l-.014-.01a5.829 5.829 0 00-.422-.25 10.58 10.58 0 00-1.469-.64C11.576 10.484 9.536 10 6.75 10a.75.75 0 110-1.5c2.964 0 5.174.516 6.658 1.043.423.151.787.302 1.092.443V2.014c-.305.14-.669.292-1.092.443C11.924 2.984 9.713 3.5 6.75 3.5a.75.75 0 110-1.5c2.786 0 4.826-.484 6.155-.957.665-.236 1.154-.47 1.47-.64a5.82 5.82 0 00.421-.25l.014-.01a.75.75 0 01.78-.061zm-.78.06zm.44 11.108l-.44.607.44-.607z"></path></g></svg> Patch notes</a></li>
+<li class="mobile-visible"><a href="/graph/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-pulse" aria-hidden="true"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"></path></svg> Charts</a></li>
+<li><a href="/donate/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-key" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 5.5a4 4 0 112.731 3.795.75.75 0 00-.768.18L7.44 10.5H6.25a.75.75 0 00-.75.75v1.19l-.06.06H4.25a.75.75 0 00-.75.75v1.19l-.06.06H1.75a.25.25 0 01-.25-.25v-1.69l5.024-5.023a.75.75 0 00.181-.768A3.995 3.995 0 016.5 5.5zm4-5.5a5.5 5.5 0 00-5.348 6.788L.22 11.72a.75.75 0 00-.22.53v2C0 15.216.784 16 1.75 16h2a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V14h.75a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V12h.75a.75.75 0 00.53-.22l.932-.932A5.5 5.5 0 1010.5 0zm.5 6a1 1 0 100-2 1 1 0 000 2z"></path></svg> Donate</a></li>
+<li><a href="/extension/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-desktop-download" aria-hidden="true"><path d="M4.927 5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z"></path><path d="M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z"></path></svg> Browser extension</a></li>
+</ul>
+<ul>
+<li><a href="/apps/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-list-ordered" aria-hidden="true"><path fill-rule="evenodd" d="M2.003 2.5a.5.5 0 00-.723-.447l-1.003.5a.5.5 0 00.446.895l.28-.14V6H.5a.5.5 0 000 1h2.006a.5.5 0 100-1h-.503V2.5zM5 3.25a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5A.75.75 0 015 3.25zm0 5a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5A.75.75 0 015 8.25zm0 5a.75.75 0 01.75-.75h8.5a.75.75 0 010 1.5h-8.5a.75.75 0 01-.75-.75zM.924 10.32l.003-.004a.851.851 0 01.144-.153A.66.66 0 011.5 10c.195 0 .306.068.374.146a.57.57 0 01.128.376c0 .453-.269.682-.8 1.078l-.035.025C.692 11.98 0 12.495 0 13.5a.5.5 0 00.5.5h2.003a.5.5 0 000-1H1.146c.132-.197.351-.372.654-.597l.047-.035c.47-.35 1.156-.858 1.156-1.845 0-.365-.118-.744-.377-1.038-.268-.303-.658-.484-1.126-.484-.48 0-.84.202-1.068.392a1.858 1.858 0 00-.348.384l-.007.011-.002.004-.001.002-.001.001a.5.5 0 00.851.525zM.5 10.055l-.427-.26.427.26z"></path></svg> Apps</a></li>
+<li><a href="/subs/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-package" aria-hidden="true"><path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"></path></svg> Packages</a></li>
+<li><a href="/bundles/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-package-dependents" aria-hidden="true"><path fill-rule="evenodd" d="M6.122.392a1.75 1.75 0 011.756 0l5.25 3.045c.54.313.872.89.872 1.514V7.25a.75.75 0 01-1.5 0V5.677L7.75 8.432v6.384a1 1 0 01-1.502.865L.872 12.563A1.75 1.75 0 010 11.049V4.951c0-.624.332-1.2.872-1.514L6.122.392zM7.125 1.69l4.63 2.685L7 7.133 2.245 4.375l4.63-2.685a.25.25 0 01.25 0zM1.5 11.049V5.677l4.75 2.755v5.516l-4.625-2.683a.25.25 0 01-.125-.216zm10.828 3.684a.75.75 0 101.087 1.034l2.378-2.5a.75.75 0 000-1.034l-2.378-2.5a.75.75 0 00-1.087 1.034L13.501 12H10.25a.75.75 0 000 1.5h3.251l-1.173 1.233z"></path></svg> Bundles</a></li>
+<li><a href="/history/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-history" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg> History</a></li>
+<li><a href="/instantsearch/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-search" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg> Instant Search</a></li>
+</ul>
+<ul>
+<li><a href="/realtime/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-hubot" aria-hidden="true"><path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"></path></svg> Realtime Updates</a></li>
+<li><a href="/pricechanges/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-mirror" aria-hidden="true"><path fill-rule="evenodd" d="M8.75 1.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 4a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 4zm.75 3.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 10a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 10zm0 3a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 13zm7.547-9.939A.75.75 0 0116 3.75v8.5a.75.75 0 01-1.265.545l-4.5-4.25a.75.75 0 010-1.09l4.5-4.25a.75.75 0 01.812-.144zM11.842 8l2.658 2.51V5.49L11.842 8zM0 12.25a.75.75 0 001.265.545l4.5-4.25a.75.75 0 000-1.09l-4.5-4.25A.75.75 0 000 3.75v8.5zm1.5-6.76L4.158 8 1.5 10.51V5.49z"></path></svg> Price Tracking</a></li>
+<li><a href="/tags/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-tag" aria-hidden="true"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"></path></svg> Tags</a></li>
+<li><a href="/upcoming/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-calendar" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"></path></svg> Upcoming</a></li>
+<li><a href="/upcoming/free/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gift" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"></path></svg> Free Promotions</a></li>
+</ul>
+<ul>
+<li><a href="/stats/gameratings/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-graph" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg> Top Rated Games</a></li>
+<li><a href="/badge/13/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-play" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg> Top Game Owners</a></li>
+<li><a href="/stats/toplevels/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-people" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg> Top Steam Levels</a></li>
+<li><a href="/topsellers/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-credit-card" aria-hidden="true"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"></path><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"></path></svg> Top Selling Games</a></li>
+<li><a href="/badges/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-bookmark" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 2.5a.25.25 0 00-.25.25v9.91l3.023-2.489a.75.75 0 01.954 0l3.023 2.49V2.75a.25.25 0 00-.25-.25h-6.5zM3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 01-1.227.579L8 11.722l-3.773 3.107A.75.75 0 013 14.25V2.75z"></path></svg> Badges</a></li>
+</ul>
+<ul>
+<li><a href="https://steamstat.us/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-sun" aria-hidden="true"><path fill-rule="evenodd" d="M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z"></path></svg> Steam Status</a></li>
+<li><a href="https://steamapi.xpaw.me/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-telescope" aria-hidden="true"><path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"></path></svg> Steam Web API</a></li>
+<li><a href="/freepackages/"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gift" aria-hidden="true"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"></path></svg> Free Packages</a></li>
+<li><a href="/login/?page=tag%2F1651"><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-sign-in" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm6.56 4.5l1.97-1.97a.75.75 0 10-1.06-1.06L6.22 7.47a.75.75 0 000 1.06l3.25 3.25a.75.75 0 101.06-1.06L8.56 8.75h5.69a.75.75 0 000-1.5H8.56z"></path></svg> Sign in via Steam</a></li>
+</ul>
+<div class="header-disclaimer">SteamDB is a community website and is not affiliated with Valve or Steam. All times on the site are UTC.</div>
+</div>
+</div>
+<div id="main"></div>
+</div>
+<script nonce="" integrity="sha512-hGcJcuL6BXVeXUyeC90nvFx3g+euit8wR/QIGdS4r3UoMK46n5IikBrRQL0fETRbEsECastd7OsT+h5tN9tVww==" src="/static/js/vendor/bugsnag.js?v=84670972e2fa0575"></script><script nonce="" integrity="sha512-aBdMa8moF9A6LNKorjVrElDmqrqpqUZDizoF72DBRmYHTma5CzowbcebIKEUdJ0niuFtNCWJVvzJw84o8BTemQ==" src="/static/js/global.js?v=68174c6bc9a817d0"></script>
+<style>
+@media (max-width: 980px) {
+.header-wrapper .container {
+flex-direction: column;
+margin-bottom: 20px;
+}
+}
+</style>
+<div class="header-wrapper">
+<div class="container d-flex">
+<h1 class="header-title flex-grow"><span class="muted"><a href="/tags/">Tags</a> »</span> Satire</h1>
+<a href="/sales/?tagid=1651" class="btn btn-primary" style="align-self:center">View sales with this tag</a>
+</div>
+</div>
+<div class="container">
+<div class="table-responsive">
+<div class="pre-table-title">Satire</div>
+<div id="table-apps_wrapper" class="dataTables_wrapper"><div class="row dataTable_display"><div class="span6"><div class="dataTables_length" id="table-apps_length"><label>Show <select name="table-apps_length" aria-controls="table-apps" class=""><option value="25">25</option><option value="50">50</option><option value="100">100</option><option value="250">250</option><option value="1000">1K</option><option value="5000">5K</option><option value="-1">All (slow)</option></select> entries</label></div></div><div class="span6"><div id="table-apps_filter" class="dataTables_filter"><label>Search:<input type="search" class="" placeholder="" aria-controls="table-apps"></label></div></div></div><table class="table-products text-center dataTable" id="table-apps" data-order="[[3,&quot;desc&quot;]]" role="grid" aria-describedby="table-apps_info">
+<thead>
+<tr role="row"><th style="width:119px" data-orderable="false" class="sorting_disabled" rowspan="1" colspan="1" aria-label=" "> </th><th class="text-left sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Name: activate to sort column ascending">Name</th><th style="width:100px" title="SteamDB Rating" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Rating: activate to sort column ascending">Rating</th><th style="width:100px" class="sorting sorting_desc" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-sort="descending" aria-label="Followers: activate to sort column ascending">Followers</th><th style="width:100px" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Online: activate to sort column ascending">Online</th><th style="width:100px" class="sorting" tabindex="0" aria-controls="table-apps" rowspan="1" colspan="1" aria-label="Peak: activate to sort column ascending">Peak</th></tr>
+</thead>
+
+<tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="app" data-appid="213670" data-cache="1611584792">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/213670/capsule_sm_120.jpg?t=1611584792" alt="">
+</td>
+<td class="text-left"><a href="/app/213670/">South Park™: The Stick of Truth™</a></td>
+<td data-sort="95.67">95.67%</td>
+<td data-sort="107873">107,873</td>
+<td data-sort="159">159</td>
+<td data-sort="34811">34,811</td>
+</tr><tr class="app" data-appid="488790" data-cache="1611670308">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/488790/capsule_sm_120.jpg?t=1611670308" alt="">
+</td>
+<td class="text-left"><a href="/app/488790/">South Park™: The Fractured But Whole™</a></td>
+<td data-sort="78.13">78.13%</td>
+<td data-sort="100493">100,493</td>
+<td data-sort="120">120</td>
+<td data-sort="21609">21,609</td>
+</tr><tr class="app" data-appid="12210" data-cache="1618853515">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/12210/capsule_sm_120.jpg?t=1618853515" alt="">
+</td>
+<td class="text-left"><a href="/app/12210/">Grand Theft Auto IV: The Complete Edition</a></td>
+<td data-sort="72.56">72.56%</td>
+<td data-sort="97606">97,606</td>
+<td data-sort="1509">1,509</td>
+<td data-sort="11696">11,696</td>
+</tr><tr class="app" data-appid="55230" data-cache="1607425784">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/55230/capsule_sm_120.jpg?t=1607425784" alt="">
+</td>
+<td class="text-left"><a href="/app/55230/">Saints Row: The Third</a></td>
+<td data-sort="94.38">94.38%</td>
+<td data-sort="66820">66,820</td>
+<td data-sort="333">333</td>
+<td data-sort="34371">34,371</td>
+</tr><tr class="app" data-appid="221910" data-cache="1618782065">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/221910/capsule_sm_120.jpg?t=1618782065" alt="">
+</td>
+<td class="text-left"><a href="/app/221910/">The Stanley Parable</a></td>
+<td data-sort="90.40">90.40%</td>
+<td data-sort="64142">64,142</td>
+<td data-sort="37">37</td>
+<td data-sort="4818">4,818</td>
+</tr><tr class="app" data-appid="369990" data-cache="1618938247">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/369990/capsule_sm_120.jpg?t=1618938247" alt="">
+</td>
+<td class="text-left"><a href="/app/369990/">Gremlins, Inc.</a></td>
+<td data-sort="83.59">83.59%</td>
+<td data-sort="41321">41,321</td>
+<td data-sort="152">152</td>
+<td data-sort="1716">1,716</td>
+</tr><tr class="app" data-appid="223470" data-cache="1618882872">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/223470/capsule_sm_120.jpg?t=1618882872" alt="">
+</td>
+<td class="text-left"><a href="/app/223470/">POSTAL 2</a></td>
+<td data-sort="93.98">93.98%</td>
+<td data-sort="38644">38,644</td>
+<td data-sort="193">193</td>
+<td data-sort="4636">4,636</td>
+</tr><tr class="app" data-appid="629820" data-cache="1618927893">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/629820/capsule_sm_120.jpg?t=1618927893" alt="">
+</td>
+<td class="text-left"><a href="/app/629820/">Maneater</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="31459">31,459</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="12200" data-cache="1618853398">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/12200/capsule_sm_120.jpg?t=1618853398" alt="">
+</td>
+<td class="text-left"><a href="/app/12200/">Bully: Scholarship Edition</a></td>
+<td data-sort="82.03">82.03%</td>
+<td data-sort="29419">29,419</td>
+<td data-sort="121">121</td>
+<td data-sort="2010">2,010</td>
+</tr><tr class="app" data-appid="375820" data-cache="1609212872">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/375820/capsule_sm_120.jpg?t=1609212872" alt="">
+</td>
+<td class="text-left"><a href="/app/375820/">Human Resource Machine</a></td>
+<td data-sort="90.08">90.08%</td>
+<td data-sort="21179">21,179</td>
+<td data-sort="17">17</td>
+<td data-sort="778">778</td>
+</tr><tr class="app" data-appid="669950" data-cache="1615176276">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/669950/capsule_sm_120.jpg?t=1615176276" alt="">
+</td>
+<td class="text-left"><a href="/app/669950/">BDSM: Big Drunk Satanic Massacre</a></td>
+<td data-sort="84.84">84.84%</td>
+<td data-sort="15945">15,945</td>
+<td data-sort="0">0</td>
+<td data-sort="78">78</td>
+</tr><tr class="app" data-appid="323380" data-cache="1609400075">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/323380/capsule_sm_120.jpg?t=1609400075" alt="">
+</td>
+<td class="text-left"><a href="/app/323380/">The Magic Circle</a></td>
+<td data-sort="87.35">87.35%</td>
+<td data-sort="15570">15,570</td>
+<td data-sort="0">0</td>
+<td data-sort="270">270</td>
+</tr><tr class="app" data-appid="486690" data-cache="1604766647">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/486690/capsule_sm_120.jpg?t=1604766647" alt="">
+</td>
+<td class="text-left"><a href="/app/486690/">Pastelia Stories</a></td>
+<td data-sort="65.13">65.13%</td>
+<td data-sort="14213">14,213</td>
+<td data-sort="2">2</td>
+<td data-sort="296">296</td>
+</tr><tr class="app" data-appid="792100" data-cache="1613921732">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/792100/capsule_sm_120.jpg?t=1613921732" alt="">
+</td>
+<td class="text-left"><a href="/app/792100/">7 Billion Humans</a></td>
+<td data-sort="88.60">88.60%</td>
+<td data-sort="13015">13,015</td>
+<td data-sort="2">2</td>
+<td data-sort="715">715</td>
+</tr><tr class="app" data-appid="785790" data-cache="1618574239">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/785790/capsule_sm_120.jpg?t=1618574239" alt="">
+</td>
+<td class="text-left"><a href="/app/785790/">WHAT THE GOLF?</a></td>
+<td data-sort="90.17">90.17%</td>
+<td data-sort="11730">11,730</td>
+<td data-sort="23">23</td>
+<td data-sort="317">317</td>
+</tr><tr class="app" data-appid="409160" data-cache="1613907311">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/409160/capsule_sm_120.jpg?t=1613907311" alt="">
+</td>
+<td class="text-left"><a href="/app/409160/">Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist</a></td>
+<td data-sort="90.74">90.74%</td>
+<td data-sort="11590">11,590</td>
+<td data-sort="2">2</td>
+<td data-sort="815">815</td>
+</tr><tr class="app" data-appid="353700" data-cache="1610961039">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/353700/capsule_sm_120.jpg?t=1610961039" alt="">
+</td>
+<td class="text-left"><a href="/app/353700/">The Deadly Tower of Monsters</a></td>
+<td data-sort="83.82">83.82%</td>
+<td data-sort="11456">11,456</td>
+<td data-sort="2">2</td>
+<td data-sort="140">140</td>
+</tr><tr class="app" data-appid="1494440" data-cache="1616653065">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1494440/capsule_sm_120.jpg?t=1616653065" alt="">
+</td>
+<td class="text-left"><a href="/app/1494440/">Garbage: Hobo Prophecy</a></td>
+<td data-sort="75.61">75.61%</td>
+<td data-sort="10445">10,445</td>
+<td data-sort="17">17</td>
+<td data-sort="888">888</td>
+</tr><tr class="app" data-appid="221260" data-cache="1618839669">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/221260/capsule_sm_120.jpg?t=1618839669" alt="">
+</td>
+<td class="text-left"><a href="/app/221260/">Little Inferno</a></td>
+<td data-sort="91.08">91.08%</td>
+<td data-sort="9739">9,739</td>
+<td data-sort="12">12</td>
+<td data-sort="2129">2,129</td>
+</tr><tr class="app" data-appid="279940" data-cache="1610352954">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/279940/capsule_sm_120.jpg?t=1610352954" alt="">
+</td>
+<td class="text-left"><a href="/app/279940/">The Book of Unwritten Tales 2</a></td>
+<td data-sort="85.98">85.98%</td>
+<td data-sort="8049">8,049</td>
+<td data-sort="6">6</td>
+<td data-sort="419">419</td>
+</tr><tr class="app" data-appid="574560" data-cache="1616588278">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/574560/capsule_sm_120.jpg?t=1616588278" alt="">
+</td>
+<td class="text-left"><a href="/app/574560/">Dude, Stop</a></td>
+<td data-sort="80.05">80.05%</td>
+<td data-sort="7601">7,601</td>
+<td data-sort="4">4</td>
+<td data-sort="158">158</td>
+</tr><tr class="app" data-appid="22000" data-cache="1616518468">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/22000/capsule_sm_120.jpg?t=1616518468" alt="">
+</td>
+<td class="text-left"><a href="/app/22000/">World of Goo</a></td>
+<td data-sort="90.60">90.60%</td>
+<td data-sort="6790">6,790</td>
+<td data-sort="6">6</td>
+<td data-sort="2045">2,045</td>
+</tr><tr class="app" data-appid="204630" data-cache="1612735435">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/204630/capsule_sm_120.jpg?t=1612735435" alt="">
+</td>
+<td class="text-left"><a href="/app/204630/">Retro City Rampage™ DX</a></td>
+<td data-sort="84.53">84.53%</td>
+<td data-sort="6725">6,725</td>
+<td data-sort="1">1</td>
+<td data-sort="1035">1,035</td>
+</tr><tr class="app" data-appid="237740" data-cache="1612053139">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/237740/capsule_sm_120.jpg?t=1612053139" alt="">
+</td>
+<td class="text-left"><a href="/app/237740/">Angry Video Game Nerd Adventures</a></td>
+<td data-sort="85.41">85.41%</td>
+<td data-sort="5871">5,871</td>
+<td data-sort="3">3</td>
+<td data-sort="420">420</td>
+</tr><tr class="app" data-appid="292500" data-cache="1617164461">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/292500/capsule_sm_120.jpg?t=1617164461" alt="">
+</td>
+<td class="text-left"><a href="/app/292500/">Kero Blaster</a></td>
+<td data-sort="87.87">87.87%</td>
+<td data-sort="5693">5,693</td>
+<td data-sort="1">1</td>
+<td data-sort="211">211</td>
+</tr><tr class="app" data-appid="1408680" data-cache="1618225168">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1408680/capsule_sm_120.jpg?t=1618225168" alt="">
+</td>
+<td class="text-left"><a href="/app/1408680/">Nine to Five</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="5678">5,678</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="404620" data-cache="1613604902">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/404620/capsule_sm_120.jpg?t=1613604902" alt="">
+</td>
+<td class="text-left"><a href="/app/404620/">The Political Machine 2016</a></td>
+<td data-sort="72.57">72.57%</td>
+<td data-sort="5040">5,040</td>
+<td data-sort="0">0</td>
+<td data-sort="193">193</td>
+</tr><tr class="app" data-appid="231910" data-cache="1600815568">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/231910/capsule_sm_120.jpg?t=1600815568" alt="">
+</td>
+<td class="text-left"><a href="/app/231910/">Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded</a></td>
+<td data-sort="75.76">75.76%</td>
+<td data-sort="5009">5,009</td>
+<td data-sort="1">1</td>
+<td data-sort="350">350</td>
+</tr><tr class="app" data-appid="369580" data-cache="1608996873">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/369580/capsule_sm_120.jpg?t=1608996873" alt="">
+</td>
+<td class="text-left"><a href="/app/369580/">NotTheNameWeWanted</a></td>
+<td data-sort="83.95">83.95%</td>
+<td data-sort="4694">4,694</td>
+<td data-sort="0">0</td>
+<td data-sort="383">383</td>
+</tr><tr class="app" data-appid="230050" data-cache="1599871916">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/230050/capsule_sm_120.jpg?t=1599871916" alt="">
+</td>
+<td class="text-left"><a href="/app/230050/">DLC Quest</a></td>
+<td data-sort="85.64">85.64%</td>
+<td data-sort="4291">4,291</td>
+<td data-sort="1">1</td>
+<td data-sort="1032">1,032</td>
+</tr><tr class="app" data-appid="724490" data-cache="1615754845">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/724490/capsule_sm_120.jpg?t=1615754845" alt="">
+</td>
+<td class="text-left"><a href="/app/724490/">Protocol</a></td>
+<td data-sort="66.51">66.51%</td>
+<td data-sort="4259">4,259</td>
+<td data-sort="0">0</td>
+<td data-sort="70">70</td>
+</tr><tr class="app" data-appid="371300" data-cache="1602062608">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/371300/capsule_sm_120.jpg?t=1602062608" alt="">
+</td>
+<td class="text-left"><a href="/app/371300/">Knee Deep</a></td>
+<td data-sort="73.01">73.01%</td>
+<td data-sort="3928">3,928</td>
+<td data-sort="0">0</td>
+<td data-sort="66">66</td>
+</tr><tr class="app" data-appid="23490" data-cache="1606752681">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/23490/capsule_sm_120.jpg?t=1606752681" alt="">
+</td>
+<td class="text-left"><a href="/app/23490/">Tropico 3</a></td>
+<td data-sort="84.10">84.10%</td>
+<td data-sort="3860">3,860</td>
+<td data-sort="9">9</td>
+<td data-sort="5784">5,784</td>
+</tr><tr class="app" data-appid="235620" data-cache="1617839058">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/235620/capsule_sm_120.jpg?t=1617839058" alt="">
+</td>
+<td class="text-left"><a href="/app/235620/">Small World</a></td>
+<td data-sort="69.59">69.59%</td>
+<td data-sort="3707">3,707</td>
+<td data-sort="19">19</td>
+<td data-sort="462">462</td>
+</tr><tr class="app" data-appid="759940" data-cache="1606968705">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/759940/capsule_sm_120.jpg?t=1606968705" alt="">
+</td>
+<td class="text-left"><a href="/app/759940/">前程似锦 Excellent Expectations</a></td>
+<td data-sort="82.75">82.75%</td>
+<td data-sort="3138">3,138</td>
+<td data-sort="0">0</td>
+<td data-sort="64">64</td>
+</tr><tr class="app" data-appid="331200" data-cache="1617416825">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/331200/capsule_sm_120.jpg?t=1617416825" alt="">
+</td>
+<td class="text-left"><a href="/app/331200/">Grass Simulator</a></td>
+<td data-sort="57.01">57.01%</td>
+<td data-sort="3039">3,039</td>
+<td data-sort="1">1</td>
+<td data-sort="572">572</td>
+</tr><tr class="app" data-appid="488770" data-cache="1599124272">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/488770/capsule_sm_120.jpg?t=1599124272" alt="">
+</td>
+<td class="text-left"><a href="/app/488770/">Her Majesty's SPIFFING</a></td>
+<td data-sort="73.12">73.12%</td>
+<td data-sort="2962">2,962</td>
+<td data-sort="2">2</td>
+<td data-sort="39">39</td>
+</tr><tr class="app" data-appid="1275890" data-cache="1618259232">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1275890/capsule_sm_120.jpg?t=1618259232" alt="">
+</td>
+<td class="text-left"><a href="/app/1275890/">Baldi's Basics Plus</a></td>
+<td data-sort="89.74">89.74%</td>
+<td data-sort="2931">2,931</td>
+<td data-sort="11">11</td>
+<td data-sort="228">228</td>
+</tr><tr class="app" data-appid="933940" data-cache="1599926008">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/933940/capsule_sm_120.jpg?t=1599926008" alt="">
+</td>
+<td class="text-left"><a href="/app/933940/">假如我是人工智能 Big Brother Is Shaping You</a></td>
+<td data-sort="81.69">81.69%</td>
+<td data-sort="2869">2,869</td>
+<td data-sort="0">0</td>
+<td data-sort="91">91</td>
+</tr><tr class="app" data-appid="458630" data-cache="1617762694">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/458630/capsule_sm_120.jpg?t=1617762694" alt="">
+</td>
+<td class="text-left"><a href="/app/458630/">Political Animals</a></td>
+<td data-sort="66.53">66.53%</td>
+<td data-sort="2855">2,855</td>
+<td data-sort="0">0</td>
+<td data-sort="53">53</td>
+</tr><tr class="app" data-appid="579110" data-cache="1610392519">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/579110/capsule_sm_120.jpg?t=1610392519" alt="">
+</td>
+<td class="text-left"><a href="/app/579110/">Interkosmos</a></td>
+<td data-sort="81.30">81.30%</td>
+<td data-sort="2672">2,672</td>
+<td data-sort="0">0</td>
+<td data-sort="183">183</td>
+</tr><tr class="app" data-appid="389190" data-cache="1612732117">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/389190/capsule_sm_120.jpg?t=1612732117" alt="">
+</td>
+<td class="text-left"><a href="/app/389190/">Goblins and Grottos</a></td>
+<td data-sort="63.45">63.45%</td>
+<td data-sort="2658">2,658</td>
+<td data-sort="0">0</td>
+<td data-sort="44">44</td>
+</tr><tr class="app" data-appid="744260" data-cache="1618471952">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/744260/capsule_sm_120.jpg?t=1618471952" alt="">
+</td>
+<td class="text-left"><a href="/app/744260/">Legend of Homebody</a></td>
+<td data-sort="77.12">77.12%</td>
+<td data-sort="2614">2,614</td>
+<td data-sort="4">4</td>
+<td data-sort="385">385</td>
+</tr><tr class="app" data-appid="1201400" data-cache="1618611446">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1201400/capsule_sm_120.jpg?t=1618611446" alt="">
+</td>
+<td class="text-left"><a href="/app/1201400/">Not For Broadcast: Prologue</a></td>
+<td data-sort="87.02">87.02%</td>
+<td data-sort="2574">2,574</td>
+<td data-sort="3">3</td>
+<td data-sort="31">31</td>
+</tr><tr class="app" data-appid="866190" data-cache="1617629182">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/866190/capsule_sm_120.jpg?t=1617629182" alt="">
+</td>
+<td class="text-left"><a href="/app/866190/">Irony Curtain: From Matryoshka with Love</a></td>
+<td data-sort="82.82">82.82%</td>
+<td data-sort="2396">2,396</td>
+<td data-sort="0">0</td>
+<td data-sort="63">63</td>
+</tr><tr class="app" data-appid="307640" data-cache="1616271226">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/307640/capsule_sm_120.jpg?t=1616271226" alt="">
+</td>
+<td class="text-left"><a href="/app/307640/">Stick RPG 2: Director's Cut</a></td>
+<td data-sort="77.31">77.31%</td>
+<td data-sort="2351">2,351</td>
+<td data-sort="5">5</td>
+<td data-sort="130">130</td>
+</tr><tr class="app" data-appid="471810" data-cache="1618983844">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/471810/capsule_sm_120.jpg?t=1618983844" alt="">
+</td>
+<td class="text-left"><a href="/app/471810/">Death Squared</a></td>
+<td data-sort="85.30">85.30%</td>
+<td data-sort="2348">2,348</td>
+<td data-sort="1">1</td>
+<td data-sort="66">66</td>
+</tr><tr class="app" data-appid="287020" data-cache="1617538870">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/287020/capsule_sm_120.jpg?t=1617538870" alt="">
+</td>
+<td class="text-left"><a href="/app/287020/">Harvester</a></td>
+<td data-sort="85.94">85.94%</td>
+<td data-sort="2286">2,286</td>
+<td data-sort="0">0</td>
+<td data-sort="132">132</td>
+</tr><tr class="app" data-appid="1460830" data-cache="1613440402">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1460830/capsule_sm_120.jpg?t=1613440402" alt="">
+</td>
+<td class="text-left"><a href="/app/1460830/">6 Seasons and a Game</a></td>
+<td data-sort="84.19">84.19%</td>
+<td data-sort="2195">2,195</td>
+<td data-sort="1">1</td>
+<td data-sort="128">128</td>
+</tr><tr class="app" data-appid="1437790" data-cache="1617120844">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1437790/capsule_sm_120.jpg?t=1617120844" alt="">
+</td>
+<td class="text-left"><a href="/app/1437790/">Farmer Wars</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2180">2,180</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1203710" data-cache="1618938396">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1203710/capsule_sm_120.jpg?t=1618938396" alt="">
+</td>
+<td class="text-left"><a href="/app/1203710/">UnMetal</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="1941">1,941</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1507420" data-cache="1618846730">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1507420/capsule_sm_120.jpg?t=1618846730" alt="">
+</td>
+<td class="text-left"><a href="/app/1507420/">WanderLust</a></td>
+<td data-sort="76.08">76.08%</td>
+<td data-sort="1765">1,765</td>
+<td data-sort="1">1</td>
+<td data-sort="26">26</td>
+</tr><tr class="app" data-appid="1191900" data-cache="1618598323">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1191900/capsule_sm_120.jpg?t=1618598323" alt="">
+</td>
+<td class="text-left"><a href="/app/1191900/">Say No! More</a></td>
+<td data-sort="85.37">85.37%</td>
+<td data-sort="1730">1,730</td>
+<td data-sort="11">11</td>
+<td data-sort="67">67</td>
+</tr><tr class="app" data-appid="1046460" data-cache="1586167028">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1046460/capsule_sm_120.jpg?t=1586167028" alt="">
+</td>
+<td class="text-left"><a href="/app/1046460/">Quartermaster</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="1719">1,719</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="813540" data-cache="1618067254">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/813540/capsule_sm_120.jpg?t=1618067254" alt="">
+</td>
+<td class="text-left"><a href="/app/813540/">Scheming Through The Zombie Apocalypse: The Beginning</a></td>
+<td data-sort="81.32">81.32%</td>
+<td data-sort="1642">1,642</td>
+<td data-sort="0">0</td>
+<td data-sort="24">24</td>
+</tr><tr class="app" data-appid="1144110" data-cache="1616890425">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1144110/capsule_sm_120.jpg?t=1616890425" alt="">
+</td>
+<td class="text-left"><a href="/app/1144110/">Open World Game: the Open World Game</a></td>
+<td data-sort="88.91">88.91%</td>
+<td data-sort="1596">1,596</td>
+<td data-sort="1">1</td>
+<td data-sort="133">133</td>
+</tr><tr class="app" data-appid="931310" data-cache="1617283660">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/931310/capsule_sm_120.jpg?t=1617283660" alt="">
+</td>
+<td class="text-left"><a href="/app/931310/">Airplane Mode</a></td>
+<td data-sort="55.15">55.15%</td>
+<td data-sort="1545">1,545</td>
+<td data-sort="1">1</td>
+<td data-sort="62">62</td>
+</tr><tr class="app" data-appid="733990" data-cache="1617055027">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/733990/capsule_sm_120.jpg?t=1617055027" alt="">
+</td>
+<td class="text-left"><a href="/app/733990/">I Can't Believe It's Not Gambling</a></td>
+<td data-sort="87.67">87.67%</td>
+<td data-sort="1539">1,539</td>
+<td data-sort="7">7</td>
+<td data-sort="350">350</td>
+</tr><tr class="app" data-appid="456180" data-cache="1614399102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/456180/capsule_sm_120.jpg?t=1614399102" alt="">
+</td>
+<td class="text-left"><a href="/app/456180/">The American Dream</a></td>
+<td data-sort="62.28">62.28%</td>
+<td data-sort="1305">1,305</td>
+<td data-sort="0">0</td>
+<td data-sort="14">14</td>
+</tr><tr class="app" data-appid="380140" data-cache="1618901313">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/380140/capsule_sm_120.jpg?t=1618901313" alt="">
+</td>
+<td class="text-left"><a href="/app/380140/">The Secret of Tremendous Corporation</a></td>
+<td data-sort="76.15">76.15%</td>
+<td data-sort="1221">1,221</td>
+<td data-sort="0">0</td>
+<td data-sort="127">127</td>
+</tr><tr class="app" data-appid="1395560" data-cache="1617265279">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1395560/capsule_sm_120.jpg?t=1617265279" alt="">
+</td>
+<td class="text-left"><a href="/app/1395560/">Kandidatos</a></td>
+<td data-sort="87.26">87.26%</td>
+<td data-sort="1214">1,214</td>
+<td data-sort="0">0</td>
+<td data-sort="92">92</td>
+</tr><tr class="app" data-appid="839080" data-cache="1617099451">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/839080/capsule_sm_120.jpg?t=1617099451" alt="">
+</td>
+<td class="text-left"><a href="/app/839080/">DRAW CHILLY</a></td>
+<td data-sort="78.01">78.01%</td>
+<td data-sort="1123">1,123</td>
+<td data-sort="0">0</td>
+<td data-sort="33">33</td>
+</tr><tr class="app" data-appid="1229570" data-cache="1617301640">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1229570/capsule_sm_120.jpg?t=1617301640" alt="">
+</td>
+<td class="text-left"><a href="/app/1229570/">Imagine Lifetimes</a></td>
+<td data-sort="63.77">63.77%</td>
+<td data-sort="1082">1,082</td>
+<td data-sort="0">0</td>
+<td data-sort="35">35</td>
+</tr><tr class="app" data-appid="348270" data-cache="1603991654">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/348270/capsule_sm_120.jpg?t=1603991654" alt="">
+</td>
+<td class="text-left"><a href="/app/348270/">Social Justice Warriors</a></td>
+<td data-sort="49.67">49.67%</td>
+<td data-sort="1039">1,039</td>
+<td data-sort="0">0</td>
+<td data-sort="43">43</td>
+</tr><tr class="app" data-appid="650120" data-cache="1610582931">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/650120/capsule_sm_120.jpg?t=1610582931" alt="">
+</td>
+<td class="text-left"><a href="/app/650120/">Shots Fired</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="1020">1,020</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1529810" data-cache="1618955869">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1529810/capsule_sm_120.jpg?t=1618955869" alt="">
+</td>
+<td class="text-left"><a href="/app/1529810/">Psycholonials</a></td>
+<td data-sort="81.38">81.38%</td>
+<td data-sort="990">990</td>
+<td data-sort="33">33</td>
+<td data-sort="303">303</td>
+</tr><tr class="app" data-appid="1364130" data-cache="1617236690">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1364130/capsule_sm_120.jpg?t=1617236690" alt="">
+</td>
+<td class="text-left"><a href="/app/1364130/">Chaotic Airport Construction Manager</a></td>
+<td data-sort="81.64">81.64%</td>
+<td data-sort="943">943</td>
+<td data-sort="0">0</td>
+<td data-sort="90">90</td>
+</tr><tr class="app" data-appid="567010" data-cache="1616696258">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/567010/capsule_sm_120.jpg?t=1616696258" alt="">
+</td>
+<td class="text-left"><a href="/app/567010/">Game Royale 2 - The Secret of Jannis Island</a></td>
+<td data-sort="73.27">73.27%</td>
+<td data-sort="934">934</td>
+<td data-sort="0">0</td>
+<td data-sort="128">128</td>
+</tr><tr class="app" data-appid="474980" data-cache="1606395670">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/474980/capsule_sm_120.jpg?t=1606395670" alt="">
+</td>
+<td class="text-left"><a href="/app/474980/">Cat President ~A More Purrfect Union~</a></td>
+<td data-sort="81.52">81.52%</td>
+<td data-sort="910">910</td>
+<td data-sort="0">0</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="1094250" data-cache="1616300771">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1094250/capsule_sm_120.jpg?t=1616300771" alt="">
+</td>
+<td class="text-left"><a href="/app/1094250/">It Stares Back</a></td>
+<td data-sort="83.99">83.99%</td>
+<td data-sort="825">825</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1158190" data-cache="1618839683">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1158190/capsule_sm_120.jpg?t=1618839683" alt="">
+</td>
+<td class="text-left"><a href="/app/1158190/">Do Not Buy This Game</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="766">766</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1040940" data-cache="1618522875">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1040940/capsule_sm_120.jpg?t=1618522875" alt="">
+</td>
+<td class="text-left"><a href="/app/1040940/">Protocol VR</a></td>
+<td data-sort="54.50">54.50%</td>
+<td data-sort="759">759</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1206700" data-cache="1613487193">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1206700/capsule_sm_120.jpg?t=1613487193" alt="">
+</td>
+<td class="text-left"><a href="/app/1206700/">ВЗЛОМ ЖОПЫ</a></td>
+<td data-sort="83.43">83.43%</td>
+<td data-sort="743">743</td>
+<td data-sort="4">4</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="973240" data-cache="1614263678">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/973240/capsule_sm_120.jpg?t=1614263678" alt="">
+</td>
+<td class="text-left"><a href="/app/973240/">Anime And Your Life</a></td>
+<td data-sort="63.15">63.15%</td>
+<td data-sort="713">713</td>
+<td data-sort="0">0</td>
+<td data-sort="15">15</td>
+</tr><tr class="app" data-appid="1464670" data-cache="1616845292">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1464670/capsule_sm_120.jpg?t=1616845292" alt="">
+</td>
+<td class="text-left"><a href="/app/1464670/">Megacraft Hentai Edition</a></td>
+<td data-sort="76.80">76.80%</td>
+<td data-sort="703">703</td>
+<td data-sort="0">0</td>
+<td data-sort="12">12</td>
+</tr><tr class="app" data-appid="331210" data-cache="1604586802">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/331210/capsule_sm_120.jpg?t=1604586802" alt="">
+</td>
+<td class="text-left"><a href="/app/331210/">Bolt Riley, A Reggae Adventure</a></td>
+<td data-sort="49.24">49.24%</td>
+<td data-sort="668">668</td>
+<td data-sort="0">0</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="976030" data-cache="1617930437">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/976030/capsule_sm_120.jpg?t=1617930437" alt="">
+</td>
+<td class="text-left"><a href="/app/976030/">Drafting Tales</a></td>
+<td data-sort="71.30">71.30%</td>
+<td data-sort="655">655</td>
+<td data-sort="0">0</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="363500" data-cache="1613524011">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/363500/capsule_sm_120.jpg?t=1613524011" alt="">
+</td>
+<td class="text-left"><a href="/app/363500/">Ossuary</a></td>
+<td data-sort="76.45">76.45%</td>
+<td data-sort="612">612</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="816220" data-cache="1609875688">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/816220/capsule_sm_120.jpg?t=1609875688" alt="">
+</td>
+<td class="text-left"><a href="/app/816220/">Analistica Academy</a></td>
+<td data-sort="46.02">46.02%</td>
+<td data-sort="606">606</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="628200" data-cache="1618935123">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/628200/capsule_sm_120.jpg?t=1618935123" alt="">
+</td>
+<td class="text-left"><a href="/app/628200/">The Invisible Hand</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="602">602</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="416760" data-cache="1613590682">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/416760/capsule_sm_120.jpg?t=1613590682" alt="">
+</td>
+<td class="text-left"><a href="/app/416760/">Pay2Win: The Tricks Exposed</a></td>
+<td data-sort="59.61">59.61%</td>
+<td data-sort="596">596</td>
+<td data-sort="0">0</td>
+<td data-sort="26">26</td>
+</tr><tr class="app" data-appid="1360530" data-cache="1613364914">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1360530/capsule_sm_120.jpg?t=1613364914" alt="">
+</td>
+<td class="text-left"><a href="/app/1360530/">Sex Poker</a></td>
+<td data-sort="48.66">48.66%</td>
+<td data-sort="565">565</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="595440" data-cache="1614390059">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/595440/capsule_sm_120.jpg?t=1614390059" alt="">
+</td>
+<td class="text-left"><a href="/app/595440/">CPU Invaders</a></td>
+<td data-sort="78.90">78.90%</td>
+<td data-sort="537">537</td>
+<td data-sort="0">0</td>
+<td data-sort="1811">1,811</td>
+</tr><tr class="app" data-appid="435460" data-cache="1609573385">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/435460/capsule_sm_120.jpg?t=1609573385" alt="">
+</td>
+<td class="text-left"><a href="/app/435460/">NotCoD™</a></td>
+<td data-sort="77.52">77.52%</td>
+<td data-sort="526">526</td>
+<td data-sort="0">0</td>
+<td data-sort="25">25</td>
+</tr><tr class="app" data-appid="1056690" data-cache="1617103050">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1056690/capsule_sm_120.jpg?t=1617103050" alt="">
+</td>
+<td class="text-left"><a href="/app/1056690/">Drink More Glurp</a></td>
+<td data-sort="83.53">83.53%</td>
+<td data-sort="519">519</td>
+<td data-sort="0">0</td>
+<td data-sort="21">21</td>
+</tr><tr class="app" data-appid="1207390" data-cache="1612613301">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1207390/capsule_sm_120.jpg?t=1612613301" alt="">
+</td>
+<td class="text-left"><a href="/app/1207390/">Ghosts'n DJs</a></td>
+<td data-sort="78.62">78.62%</td>
+<td data-sort="500">500</td>
+<td data-sort="0">0</td>
+<td data-sort="19">19</td>
+</tr><tr class="app" data-appid="1176330" data-cache="1617170384">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1176330/capsule_sm_120.jpg?t=1617170384" alt="">
+</td>
+<td class="text-left"><a href="/app/1176330/">I am Your Principal</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="499">499</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1210230" data-cache="1618442034">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1210230/capsule_sm_120.jpg?t=1618442034" alt="">
+</td>
+<td class="text-left"><a href="/app/1210230/">Suits: Absolute Power</a></td>
+<td data-sort="85.31">85.31%</td>
+<td data-sort="475">475</td>
+<td data-sort="1">1</td>
+<td data-sort="25">25</td>
+</tr><tr class="app" data-appid="1299990" data-cache="1618666780">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1299990/capsule_sm_120.jpg?t=1618666780" alt="">
+</td>
+<td class="text-left"><a href="/app/1299990/">Whateverland: Prologue</a></td>
+<td data-sort="82.39">82.39%</td>
+<td data-sort="469">469</td>
+<td data-sort="0">0</td>
+<td data-sort="11">11</td>
+</tr><tr class="app" data-appid="698790" data-cache="1617020242">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/698790/capsule_sm_120.jpg?t=1617020242" alt="">
+</td>
+<td class="text-left"><a href="/app/698790/">PAPER FIRE ROOKIE (Formerly Paperville Panic)</a></td>
+<td data-sort="65.37">65.37%</td>
+<td data-sort="462">462</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="568370" data-cache="1618366362">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/568370/capsule_sm_120.jpg?t=1618366362" alt="">
+</td>
+<td class="text-left"><a href="/app/568370/">Castle Battles</a></td>
+<td data-sort="77.06">77.06%</td>
+<td data-sort="461">461</td>
+<td data-sort="0">0</td>
+<td data-sort="11">11</td>
+</tr><tr class="app" data-appid="689090" data-cache="1599998054">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/689090/capsule_sm_120.jpg?t=1599998054" alt="">
+</td>
+<td class="text-left"><a href="/app/689090/">Microtransaction Simulator</a></td>
+<td data-sort="82.19">82.19%</td>
+<td data-sort="458">458</td>
+<td data-sort="0">0</td>
+<td data-sort="189">189</td>
+</tr><tr class="app" data-appid="1067810" data-cache="1617438083">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1067810/capsule_sm_120.jpg?t=1617438083" alt="">
+</td>
+<td class="text-left"><a href="/app/1067810/">First Day</a></td>
+<td data-sort="56.69">56.69%</td>
+<td data-sort="448">448</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="435840" data-cache="1614705689">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/435840/capsule_sm_120.jpg?t=1614705689" alt="">
+</td>
+<td class="text-left"><a href="/app/435840/">The Preposterous Awesomeness of Everything</a></td>
+<td data-sort="79.58">79.58%</td>
+<td data-sort="448">448</td>
+<td data-sort="0">0</td>
+<td data-sort="19">19</td>
+</tr><tr class="app" data-appid="1301820" data-cache="1616666808">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1301820/capsule_sm_120.jpg?t=1616666808" alt="">
+</td>
+<td class="text-left"><a href="/app/1301820/">Anomaly Hunter</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="432">432</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="949890" data-cache="1614112745">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/949890/capsule_sm_120.jpg?t=1614112745" alt="">
+</td>
+<td class="text-left"><a href="/app/949890/">Physical Exorcism: Case 01</a></td>
+<td data-sort="75.62">75.62%</td>
+<td data-sort="419">419</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1321030" data-cache="1617506747">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1321030/capsule_sm_120.jpg?t=1617506747" alt="">
+</td>
+<td class="text-left"><a href="/app/1321030/">No one lives in heaven</a></td>
+<td data-sort="80.84">80.84%</td>
+<td data-sort="407">407</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1508260" data-cache="1619003829">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1508260/capsule_sm_120.jpg?t=1619003829" alt="">
+</td>
+<td class="text-left"><a href="/app/1508260/">Tortured Hearts - Or How I Saved The Universe. Again.</a></td>
+<td data-sort="66.76">66.76%</td>
+<td data-sort="404">404</td>
+<td data-sort="1">1</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1204790" data-cache="1611634630">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1204790/capsule_sm_120.jpg?t=1611634630" alt="">
+</td>
+<td class="text-left"><a href="/app/1204790/">Protagonism</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="403">403</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="917380" data-cache="1612556385">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/917380/capsule_sm_120.jpg?t=1612556385" alt="">
+</td>
+<td class="text-left"><a href="/app/917380/">Lancelot's Hangover: The Quest for the Holy Booze</a></td>
+<td data-sort="81.11">81.11%</td>
+<td data-sort="394">394</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="608870" data-cache="1605335427">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/608870/capsule_sm_120.jpg?t=1605335427" alt="">
+</td>
+<td class="text-left"><a href="/app/608870/">Phantasma VR</a></td>
+<td data-sort="73.93">73.93%</td>
+<td data-sort="393">393</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="506760" data-cache="1616750283">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/506760/capsule_sm_120.jpg?t=1616750283" alt="">
+</td>
+<td class="text-left"><a href="/app/506760/">Twisty's Asylum Escapades</a></td>
+<td data-sort="48.24">48.24%</td>
+<td data-sort="391">391</td>
+<td data-sort="0">0</td>
+<td data-sort="50">50</td>
+</tr><tr class="app" data-appid="1101310" data-cache="1616286392">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1101310/capsule_sm_120.jpg?t=1616286392" alt="">
+</td>
+<td class="text-left"><a href="/app/1101310/">Vengeful Heart</a></td>
+<td data-sort="75.71">75.71%</td>
+<td data-sort="386">386</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="820880" data-cache="1613986877">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/820880/capsule_sm_120.jpg?t=1613986877" alt="">
+</td>
+<td class="text-left"><a href="/app/820880/">Helping Hand</a></td>
+<td data-sort="52.03">52.03%</td>
+<td data-sort="383">383</td>
+<td data-sort="0">0</td>
+<td data-sort="11">11</td>
+</tr><tr class="app" data-appid="247870" data-cache="1617919588">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/247870/capsule_sm_120.jpg?t=1617919588" alt="">
+</td>
+<td class="text-left"><a href="/app/247870/">Redshirt</a></td>
+<td data-sort="42.58">42.58%</td>
+<td data-sort="377">377</td>
+<td data-sort="0">0</td>
+<td data-sort="125">125</td>
+</tr><tr class="app" data-appid="27400" data-cache="1612717706">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/27400/capsule_sm_120.jpg?t=1612717706" alt="">
+</td>
+<td class="text-left"><a href="/app/27400/">Dangerous High School Girls in Trouble!™</a></td>
+<td data-sort="60.09">60.09%</td>
+<td data-sort="375">375</td>
+<td data-sort="0">0</td>
+<td data-sort="70">70</td>
+</tr><tr class="app" data-appid="952200" data-cache="1617847627">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/952200/capsule_sm_120.jpg?t=1617847627" alt="">
+</td>
+<td class="text-left"><a href="/app/952200/">stikir</a></td>
+<td data-sort="82.28">82.28%</td>
+<td data-sort="373">373</td>
+<td data-sort="0">0</td>
+<td data-sort="10">10</td>
+</tr><tr class="app" data-appid="1361260" data-cache="1614021258">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1361260/capsule_sm_120.jpg?t=1614021258" alt="">
+</td>
+<td class="text-left"><a href="/app/1361260/">Tequila Sunrise</a></td>
+<td data-sort="69.44">69.44%</td>
+<td data-sort="367">367</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1377560" data-cache="1614122172">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1377560/capsule_sm_120.jpg?t=1614122172" alt="">
+</td>
+<td class="text-left"><a href="/app/1377560/">К.О.Р.О.В.А.Н.Ы</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="348">348</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1150420" data-cache="1617885480">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1150420/capsule_sm_120.jpg?t=1617885480" alt="">
+</td>
+<td class="text-left"><a href="/app/1150420/">Junk</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="304">304</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1347030" data-cache="1616977055">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1347030/capsule_sm_120.jpg?t=1616977055" alt="">
+</td>
+<td class="text-left"><a href="/app/1347030/">THE CORRIDOR</a></td>
+<td data-sort="84.55">84.55%</td>
+<td data-sort="297">297</td>
+<td data-sort="0">0</td>
+<td data-sort="14">14</td>
+</tr><tr class="app" data-appid="758500" data-cache="1613005876">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/758500/capsule_sm_120.jpg?t=1613005876" alt="">
+</td>
+<td class="text-left"><a href="/app/758500/">Loot Box Quest</a></td>
+<td data-sort="86.41">86.41%</td>
+<td data-sort="284">284</td>
+<td data-sort="1">1</td>
+<td data-sort="65">65</td>
+</tr><tr class="app" data-appid="1340600" data-cache="1618113993">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1340600/capsule_sm_120.jpg?t=1618113993" alt="">
+</td>
+<td class="text-left"><a href="/app/1340600/">Ecchi Jack</a></td>
+<td data-sort="65.25">65.25%</td>
+<td data-sort="276">276</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="1280640" data-cache="1617287203">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1280640/capsule_sm_120.jpg?t=1617287203" alt="">
+</td>
+<td class="text-left"><a href="/app/1280640/">Boyfriend's Rescue - Gay Platform Game</a></td>
+<td data-sort="72.22">72.22%</td>
+<td data-sort="271">271</td>
+<td data-sort="0">0</td>
+<td data-sort="10">10</td>
+</tr><tr class="app" data-appid="1391250" data-cache="1612128816">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1391250/capsule_sm_120.jpg?t=1612128816" alt="">
+</td>
+<td class="text-left"><a href="/app/1391250/">WKSP Rumble</a></td>
+<td data-sort="72.93">72.93%</td>
+<td data-sort="268">268</td>
+<td data-sort="0">0</td>
+<td data-sort="44">44</td>
+</tr><tr class="app" data-appid="690420" data-cache="1616725047">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/690420/capsule_sm_120.jpg?t=1616725047" alt="">
+</td>
+<td class="text-left"><a href="/app/690420/">Quickscoper Doge: The Dank Illuminati Memes</a></td>
+<td data-sort="86.09">86.09%</td>
+<td data-sort="259">259</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1361360" data-cache="1606842105">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1361360/capsule_sm_120.jpg?t=1606842105" alt="">
+</td>
+<td class="text-left"><a href="/app/1361360/">JAPAN SIMULATOR</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="249">249</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1361110" data-cache="1616973467">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1361110/capsule_sm_120.jpg?t=1616973467" alt="">
+</td>
+<td class="text-left"><a href="/app/1361110/">Karen: An Outrage Simulator</a></td>
+<td data-sort="84.22">84.22%</td>
+<td data-sort="246">246</td>
+<td data-sort="1">1</td>
+<td data-sort="14">14</td>
+</tr><tr class="app" data-appid="1361330" data-cache="1618273630">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1361330/capsule_sm_120.jpg?t=1618273630" alt="">
+</td>
+<td class="text-left"><a href="/app/1361330/">Симулятор Бухания Online</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="240">240</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1151620" data-cache="1618420108">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1151620/capsule_sm_120.jpg?t=1618420108" alt="">
+</td>
+<td class="text-left"><a href="/app/1151620/">磨难之间 / SUFFERING</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="233">233</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="211120" data-cache="1615528289">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/211120/capsule_sm_120.jpg?t=1615528289" alt="">
+</td>
+<td class="text-left"><a href="/app/211120/">The Political Machine</a></td>
+<td data-sort="65.62">65.62%</td>
+<td data-sort="232">232</td>
+<td data-sort="0">0</td>
+<td data-sort="514">514</td>
+</tr><tr class="app" data-appid="751250" data-cache="1617661526">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/751250/capsule_sm_120.jpg?t=1617661526" alt="">
+</td>
+<td class="text-left"><a href="/app/751250/">Big Tower Tiny Square</a></td>
+<td data-sort="76.19">76.19%</td>
+<td data-sort="226">226</td>
+<td data-sort="0">0</td>
+<td data-sort="14">14</td>
+</tr><tr class="app" data-appid="686570" data-cache="1617809495">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/686570/capsule_sm_120.jpg?t=1617809495" alt="">
+</td>
+<td class="text-left"><a href="/app/686570/">Freedom Defender</a></td>
+<td data-sort="63.62">63.62%</td>
+<td data-sort="225">225</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1092950" data-cache="1618459474">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1092950/capsule_sm_120.jpg?t=1618459474" alt="">
+</td>
+<td class="text-left"><a href="/app/1092950/">Piposh</a></td>
+<td data-sort="81.89">81.89%</td>
+<td data-sort="190">190</td>
+<td data-sort="6">6</td>
+<td data-sort="141">141</td>
+</tr><tr class="app" data-appid="1137620" data-cache="1613687923">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1137620/capsule_sm_120.jpg?t=1613687923" alt="">
+</td>
+<td class="text-left"><a href="/app/1137620/">Sexy President</a></td>
+<td data-sort="56.05">56.05%</td>
+<td data-sort="182">182</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="672240" data-cache="1612613278">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/672240/capsule_sm_120.jpg?t=1612613278" alt="">
+</td>
+<td class="text-left"><a href="/app/672240/">Dreams of Greatness</a></td>
+<td data-sort="60.54">60.54%</td>
+<td data-sort="180">180</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1234060" data-cache="1613274842">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1234060/capsule_sm_120.jpg?t=1613274842" alt="">
+</td>
+<td class="text-left"><a href="/app/1234060/">HumanBloodSandwich</a></td>
+<td data-sort="56.60">56.60%</td>
+<td data-sort="178">178</td>
+<td data-sort="0">0</td>
+<td data-sort="16">16</td>
+</tr><tr class="app" data-appid="1172930" data-cache="1618517687">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1172930/capsule_sm_120.jpg?t=1618517687" alt="">
+</td>
+<td class="text-left"><a href="/app/1172930/">Silicomrades</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="168">168</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1295860" data-cache="1618940491">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1295860/capsule_sm_120.jpg?t=1618940491" alt="">
+</td>
+<td class="text-left"><a href="/app/1295860/">Rip Them Off</a></td>
+<td data-sort="37.90">37.90%</td>
+<td data-sort="164">164</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="611140" data-cache="1610845838">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/611140/capsule_sm_120.jpg?t=1610845838" alt="">
+</td>
+<td class="text-left"><a href="/app/611140/">Dark Passenger</a></td>
+<td data-sort="51.04">51.04%</td>
+<td data-sort="163">163</td>
+<td data-sort="0">0</td>
+<td data-sort="857">857</td>
+</tr><tr class="app" data-appid="661230" data-cache="1617614758">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/661230/capsule_sm_120.jpg?t=1617614758" alt="">
+</td>
+<td class="text-left"><a href="/app/661230/">Progress Bar Simulator</a></td>
+<td data-sort="79.08">79.08%</td>
+<td data-sort="160">160</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1482830" data-cache="1618746026">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1482830/capsule_sm_120.jpg?t=1618746026" alt="">
+</td>
+<td class="text-left"><a href="/app/1482830/">Ho-Ho-Home Invasion</a></td>
+<td data-sort="83.81">83.81%</td>
+<td data-sort="159">159</td>
+<td data-sort="0">0</td>
+<td data-sort="20">20</td>
+</tr><tr class="app" data-appid="1292310" data-cache="1618685112">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1292310/capsule_sm_120.jpg?t=1618685112" alt="">
+</td>
+<td class="text-left"><a href="/app/1292310/">Solar Sails</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="159">159</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="838090" data-cache="1593177090">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/838090/capsule_sm_120.jpg?t=1593177090" alt="">
+</td>
+<td class="text-left"><a href="/app/838090/">King of Peasants</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="157">157</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="706880" data-cache="1616797084">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/706880/capsule_sm_120.jpg?t=1616797084" alt="">
+</td>
+<td class="text-left"><a href="/app/706880/">Austen Translation</a></td>
+<td data-sort="68.75">68.75%</td>
+<td data-sort="153">153</td>
+<td data-sort="0">0</td>
+<td data-sort="8">8</td>
+</tr><tr class="app" data-appid="1493450" data-cache="1618732018">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1493450/capsule_sm_120.jpg?t=1618732018" alt="">
+</td>
+<td class="text-left"><a href="/app/1493450/">Save daddy trump 2: The Final Triumph</a></td>
+<td data-sort="76.82">76.82%</td>
+<td data-sort="150">150</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="370330" data-cache="1617827234">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/370330/capsule_sm_120.jpg?t=1617827234" alt="">
+</td>
+<td class="text-left"><a href="/app/370330/">Welcome To The Untitled Game</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="150">150</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1043200" data-cache="1599647013">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1043200/capsule_sm_120.jpg?t=1599647013" alt="">
+</td>
+<td class="text-left"><a href="/app/1043200/">International Affairs</a></td>
+<td data-sort="74.19">74.19%</td>
+<td data-sort="146">146</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="838440" data-cache="1600594033">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/838440/capsule_sm_120.jpg?t=1600594033" alt="">
+</td>
+<td class="text-left"><a href="/app/838440/">The Great Race</a></td>
+<td data-sort="75.00">75.00%</td>
+<td data-sort="144">144</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1150620" data-cache="1618187224">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1150620/capsule_sm_120.jpg?t=1618187224" alt="">
+</td>
+<td class="text-left"><a href="/app/1150620/">Bed Lying Simulator 2020</a></td>
+<td data-sort="72.51">72.51%</td>
+<td data-sort="139">139</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1403710" data-cache="1618659547">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1403710/capsule_sm_120.jpg?t=1618659547" alt="">
+</td>
+<td class="text-left"><a href="/app/1403710/">Platzkart Simulator</a></td>
+<td data-sort="47.51">47.51%</td>
+<td data-sort="136">136</td>
+<td data-sort="0">0</td>
+<td data-sort="15">15</td>
+</tr><tr class="app" data-appid="1378360" data-cache="1617134533">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1378360/capsule_sm_120.jpg?t=1617134533" alt="">
+</td>
+<td class="text-left"><a href="/app/1378360/">White Hell</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="136">136</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="385030" data-cache="1618081634">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/385030/capsule_sm_120.jpg?t=1618081634" alt="">
+</td>
+<td class="text-left"><a href="/app/385030/">C. Kane</a></td>
+<td data-sort="78.74">78.74%</td>
+<td data-sort="135">135</td>
+<td data-sort="0">0</td>
+<td data-sort="224">224</td>
+</tr><tr class="app" data-appid="1313310" data-cache="1617658048">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1313310/capsule_sm_120.jpg?t=1617658048" alt="">
+</td>
+<td class="text-left"><a href="/app/1313310/">Election Year Knockout</a></td>
+<td data-sort="76.25">76.25%</td>
+<td data-sort="132">132</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="721740" data-cache="1611487365">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/721740/capsule_sm_120.jpg?t=1611487365" alt="">
+</td>
+<td class="text-left"><a href="/app/721740/">Sea Of Fatness: Save Humanity Together</a></td>
+<td data-sort="63.06">63.06%</td>
+<td data-sort="128">128</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1157790" data-cache="1618814415">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1157790/capsule_sm_120.jpg?t=1618814415" alt="">
+</td>
+<td class="text-left"><a href="/app/1157790/">I Can't Believe It's Not Gambling 2(K)</a></td>
+<td data-sort="56.60">56.60%</td>
+<td data-sort="125">125</td>
+<td data-sort="1">1</td>
+<td data-sort="11">11</td>
+</tr><tr class="app" data-appid="1547930" data-cache="1618601364">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1547930/capsule_sm_120.jpg?t=1618601364" alt="">
+</td>
+<td class="text-left"><a href="/app/1547930/">Romeo Must Live</a></td>
+<td data-sort="59.60">59.60%</td>
+<td data-sort="123">123</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1422280" data-cache="1618871902">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1422280/capsule_sm_120.jpg?t=1618871902" alt="">
+</td>
+<td class="text-left"><a href="/app/1422280/">Torqued Up Legends</a></td>
+<td data-sort="62.10">62.10%</td>
+<td data-sort="119">119</td>
+<td data-sort="0">0</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="570810" data-cache="1576993738">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/570810/capsule_sm_120.jpg?t=1576993738" alt="">
+</td>
+<td class="text-left"><a href="/app/570810/">Rage Quest: The Worst Game</a></td>
+<td data-sort="76.34">76.34%</td>
+<td data-sort="118">118</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1341960" data-cache="1617988141">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1341960/capsule_sm_120.jpg?t=1617988141" alt="">
+</td>
+<td class="text-left"><a href="/app/1341960/">Fuhrer in LA - Special Edition</a></td>
+<td data-sort="79.89">79.89%</td>
+<td data-sort="117">117</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1303860" data-cache="1616362611">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1303860/capsule_sm_120.jpg?t=1616362611" alt="">
+</td>
+<td class="text-left"><a href="/app/1303860/">Polter Pals</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="116">116</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1476450" data-cache="1617820302">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1476450/capsule_sm_120.jpg?t=1617820302" alt="">
+</td>
+<td class="text-left"><a href="/app/1476450/">Cyber Hentai</a></td>
+<td data-sort="63.21">63.21%</td>
+<td data-sort="108">108</td>
+<td data-sort="1">1</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1344800" data-cache="1612325766">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1344800/capsule_sm_120.jpg?t=1612325766" alt="">
+</td>
+<td class="text-left"><a href="/app/1344800/">Twin-Turbo Supercharged Nitro-Fueled Papamobile</a></td>
+<td data-sort="65.50">65.50%</td>
+<td data-sort="107">107</td>
+<td data-sort="1">1</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1460290" data-cache="1618211362">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1460290/capsule_sm_120.jpg?t=1618211362" alt="">
+</td>
+<td class="text-left"><a href="/app/1460290/">Loop</a></td>
+<td data-sort="77.06">77.06%</td>
+<td data-sort="105">105</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="753240" data-cache="1532132940">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/753240/capsule_sm_120.jpg?t=1532132940" alt="">
+</td>
+<td class="text-left"><a href="/app/753240/">CG the Seven Virus Knights</a></td>
+<td data-sort="53.32">53.32%</td>
+<td data-sort="105">105</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1250720" data-cache="1609555357">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1250720/capsule_sm_120.jpg?t=1609555357" alt="">
+</td>
+<td class="text-left"><a href="/app/1250720/">Libtard: The Satire Game</a></td>
+<td data-sort="65.42">65.42%</td>
+<td data-sort="104">104</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1114880" data-cache="1598365955">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1114880/capsule_sm_120.jpg?t=1598365955" alt="">
+</td>
+<td class="text-left"><a href="/app/1114880/">VIBRATOR SIMULATOR</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="103">103</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1492650" data-cache="1616194709">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1492650/capsule_sm_120.jpg?t=1616194709" alt="">
+</td>
+<td class="text-left"><a href="/app/1492650/">Crooks Like Us</a></td>
+<td data-sort="70.84">70.84%</td>
+<td data-sort="99">99</td>
+<td data-sort="0">0</td>
+<td data-sort="12">12</td>
+</tr><tr class="app" data-appid="1260980" data-cache="1617714851">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1260980/capsule_sm_120.jpg?t=1617714851" alt="">
+</td>
+<td class="text-left"><a href="/app/1260980/">Escape From Durka</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="98">98</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1530650" data-cache="1618635045">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1530650/capsule_sm_120.jpg?t=1618635045" alt="">
+</td>
+<td class="text-left"><a href="/app/1530650/">HENTAICRAFT</a></td>
+<td data-sort="57.39">57.39%</td>
+<td data-sort="95">95</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1228390" data-cache="1610961069">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1228390/capsule_sm_120.jpg?t=1610961069" alt="">
+</td>
+<td class="text-left"><a href="/app/1228390/">Noah</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="94">94</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1494730" data-cache="1612453492">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1494730/capsule_sm_120.jpg?t=1612453492" alt="">
+</td>
+<td class="text-left"><a href="/app/1494730/">Not for Broadcast: Lights, Camera, Lockdown</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="93">93</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1554700" data-cache="1617894489">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1554700/capsule_sm_120.jpg?t=1617894489" alt="">
+</td>
+<td class="text-left"><a href="/app/1554700/">Inglorious Waifu VS Nazi Zombies</a></td>
+<td data-sort="80.51">80.51%</td>
+<td data-sort="92">92</td>
+<td data-sort="2">2</td>
+<td data-sort="7">7</td>
+</tr><tr class="app" data-appid="1540960" data-cache="1618804734">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1540960/capsule_sm_120.jpg?t=1618804734" alt="">
+</td>
+<td class="text-left"><a href="/app/1540960/">Underworld Idle</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="91">91</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1077010" data-cache="1608610445">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1077010/capsule_sm_120.jpg?t=1608610445" alt="">
+</td>
+<td class="text-left"><a href="/app/1077010/">Rock Star Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="90">90</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1540780" data-cache="1618904962">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1540780/capsule_sm_120.jpg?t=1618904962" alt="">
+</td>
+<td class="text-left"><a href="/app/1540780/">Lama Azavtani-救赎</a></td>
+<td data-sort="58.97">58.97%</td>
+<td data-sort="89">89</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1459930" data-cache="1616966267">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1459930/capsule_sm_120.jpg?t=1616966267" alt="">
+</td>
+<td class="text-left"><a href="/app/1459930/">Just Take Your Left</a></td>
+<td data-sort="61.96">61.96%</td>
+<td data-sort="89">89</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1197350" data-cache="1603013809">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1197350/capsule_sm_120.jpg?t=1603013809" alt="">
+</td>
+<td class="text-left"><a href="/app/1197350/">Santa's Big Sack</a></td>
+<td data-sort="79.71">79.71%</td>
+<td data-sort="89">89</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1544460" data-cache="1618402222">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1544460/capsule_sm_120.jpg?t=1618402222" alt="">
+</td>
+<td class="text-left"><a href="/app/1544460/">The Third Day</a></td>
+<td data-sort="67.06">67.06%</td>
+<td data-sort="87">87</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="965830" data-cache="1618359002">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/965830/capsule_sm_120.jpg?t=1618359002" alt="">
+</td>
+<td class="text-left"><a href="/app/965830/">Deported: Drain the Swamp</a></td>
+<td data-sort="77.45">77.45%</td>
+<td data-sort="85">85</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1441590" data-cache="1618398849">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1441590/capsule_sm_120.jpg?t=1618398849" alt="">
+</td>
+<td class="text-left"><a href="/app/1441590/">Hentai Maid Club</a></td>
+<td data-sort="61.11">61.11%</td>
+<td data-sort="82">82</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="955490" data-cache="1618551668">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/955490/capsule_sm_120.jpg?t=1618551668" alt="">
+</td>
+<td class="text-left"><a href="/app/955490/">Terror In The Atomic Desert</a></td>
+<td data-sort="61.97">61.97%</td>
+<td data-sort="82">82</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1305530" data-cache="1612773991">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1305530/capsule_sm_120.jpg?t=1612773991" alt="">
+</td>
+<td class="text-left"><a href="/app/1305530/">Piroku</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="79">79</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1595030" data-cache="1618551678">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1595030/capsule_sm_120.jpg?t=1618551678" alt="">
+</td>
+<td class="text-left"><a href="/app/1595030/">Bad Memories</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="76">76</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="855530" data-cache="1614485499">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/855530/capsule_sm_120.jpg?t=1614485499" alt="">
+</td>
+<td class="text-left"><a href="/app/855530/">New Ice York</a></td>
+<td data-sort="65.93">65.93%</td>
+<td data-sort="76">76</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1288030" data-cache="1595960947">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1288030/capsule_sm_120.jpg?t=1595960947" alt="">
+</td>
+<td class="text-left"><a href="/app/1288030/">BoxxyQuest: The Gathering Storm</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="75">75</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1553470" data-cache="1615639663">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1553470/capsule_sm_120.jpg?t=1615639663" alt="">
+</td>
+<td class="text-left"><a href="/app/1553470/">/fit/ fantasy</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="74">74</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1449510" data-cache="1615542537">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1449510/capsule_sm_120.jpg?t=1615542537" alt="">
+</td>
+<td class="text-left"><a href="/app/1449510/">Henchman Story</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="74">74</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1103790" data-cache="1613246002">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1103790/capsule_sm_120.jpg?t=1613246002" alt="">
+</td>
+<td class="text-left"><a href="/app/1103790/">Dave-Man</a></td>
+<td data-sort="72.42">72.42%</td>
+<td data-sort="72">72</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1139760" data-cache="1617215137">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1139760/capsule_sm_120.jpg?t=1617215137" alt="">
+</td>
+<td class="text-left"><a href="/app/1139760/">DEDstress</a></td>
+<td data-sort="76.62">76.62%</td>
+<td data-sort="70">70</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="881500" data-cache="1612894123">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/881500/capsule_sm_120.jpg?t=1612894123" alt="">
+</td>
+<td class="text-left"><a href="/app/881500/">Steamulator 2019</a></td>
+<td data-sort="53.27">53.27%</td>
+<td data-sort="68">68</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1271030" data-cache="1616509629">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1271030/capsule_sm_120.jpg?t=1616509629" alt="">
+</td>
+<td class="text-left"><a href="/app/1271030/">Rainbows, toilets &amp; unicorns!</a></td>
+<td data-sort="69.91">69.91%</td>
+<td data-sort="65">65</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1308240" data-cache="1607793235">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1308240/capsule_sm_120.jpg?t=1607793235" alt="">
+</td>
+<td class="text-left"><a href="/app/1308240/">Out of Shapes</a></td>
+<td data-sort="73.89">73.89%</td>
+<td data-sort="64">64</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1288130" data-cache="1605854430">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1288130/capsule_sm_120.jpg?t=1605854430" alt="">
+</td>
+<td class="text-left"><a href="/app/1288130/">TP Royale</a></td>
+<td data-sort="74.19">74.19%</td>
+<td data-sort="64">64</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1103530" data-cache="1602103669">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1103530/capsule_sm_120.jpg?t=1602103669" alt="">
+</td>
+<td class="text-left"><a href="/app/1103530/">Cascadia Quest</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="63">63</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1410740" data-cache="1616757385">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1410740/capsule_sm_120.jpg?t=1616757385" alt="">
+</td>
+<td class="text-left"><a href="/app/1410740/">IDIOT</a></td>
+<td data-sort="55.14">55.14%</td>
+<td data-sort="62">62</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="983170" data-cache="1609938946">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983170/capsule_sm_120.jpg?t=1609938946" alt="">
+</td>
+<td class="text-left"><a href="/app/983170/">Infinite Chili Sauce 无尽的辣酱</a></td>
+<td data-sort="75.86">75.86%</td>
+<td data-sort="62">62</td>
+<td data-sort="0">0</td>
+<td data-sort="18">18</td>
+</tr><tr class="app" data-appid="1530760" data-cache="1618760564">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1530760/capsule_sm_120.jpg?t=1618760564" alt="">
+</td>
+<td class="text-left"><a href="/app/1530760/">Kaigrad</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="58">58</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1343060" data-cache="1614471107">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1343060/capsule_sm_120.jpg?t=1614471107" alt="">
+</td>
+<td class="text-left"><a href="/app/1343060/">Big Cock Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="58">58</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1347870" data-cache="1592394676">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1347870/capsule_sm_120.jpg?t=1592394676" alt="">
+</td>
+<td class="text-left"><a href="/app/1347870/">Stalin vs. Martians 4</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="57">57</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="881670" data-cache="1577101031">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/881670/capsule_sm_120.jpg?t=1577101031" alt="">
+</td>
+<td class="text-left"><a href="/app/881670/">Screensavers VR</a></td>
+<td data-sort="57.39">57.39%</td>
+<td data-sort="56">56</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="791490" data-cache="1573172924">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/791490/capsule_sm_120.jpg?t=1573172924" alt="">
+</td>
+<td class="text-left"><a href="/app/791490/">Rainbow Cult</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="56">56</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1433480" data-cache="1612649290">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1433480/capsule_sm_120.jpg?t=1612649290" alt="">
+</td>
+<td class="text-left"><a href="/app/1433480/">Poop On 2020 Simulator</a></td>
+<td data-sort="79.58">79.58%</td>
+<td data-sort="55">55</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1209960" data-cache="1597968789">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1209960/capsule_sm_120.jpg?t=1597968789" alt="">
+</td>
+<td class="text-left"><a href="/app/1209960/">POLITICAL KOMBAT</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="54">54</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="808610" data-cache="1618474987">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/808610/capsule_sm_120.jpg?t=1618474987" alt="">
+</td>
+<td class="text-left"><a href="/app/808610/">Run TavernQuest</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="54">54</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1328710" data-cache="1617809517">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1328710/capsule_sm_120.jpg?t=1617809517" alt="">
+</td>
+<td class="text-left"><a href="/app/1328710/">Capsule Hotel Simulator</a></td>
+<td data-sort="55.14">55.14%</td>
+<td data-sort="53">53</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1401130" data-cache="1602109432">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1401130/capsule_sm_120.jpg?t=1602109432" alt="">
+</td>
+<td class="text-left"><a href="/app/1401130/">Jajazinho e as Delicias de Cristais</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="52">52</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1097100" data-cache="1618940688">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1097100/capsule_sm_120.jpg?t=1618940688" alt="">
+</td>
+<td class="text-left"><a href="/app/1097100/">Please, Touch The Artwork</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="52">52</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1083490" data-cache="1609371697">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1083490/capsule_sm_120.jpg?t=1609371697" alt="">
+</td>
+<td class="text-left"><a href="/app/1083490/">Drumpf: Presidential Dating Simulator</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="52">52</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="1386940" data-cache="1612785469">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1386940/capsule_sm_120.jpg?t=1612785469" alt="">
+</td>
+<td class="text-left"><a href="/app/1386940/">UEBERNATURAL: The Video Game - Prologue</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="51">51</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1340950" data-cache="1602046069">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1340950/capsule_sm_120.jpg?t=1602046069" alt="">
+</td>
+<td class="text-left"><a href="/app/1340950/">Do Noob Corporate-slave Dream of Boss's Ass?</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="51">51</td>
+<td data-sort="0">0</td>
+<td data-sort="9">9</td>
+</tr><tr class="app" data-appid="1336880" data-cache="1597968807">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1336880/capsule_sm_120.jpg?t=1597968807" alt="">
+</td>
+<td class="text-left"><a href="/app/1336880/">Kebab Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="48">48</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1386510" data-cache="1617564376">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1386510/capsule_sm_120.jpg?t=1617564376" alt="">
+</td>
+<td class="text-left"><a href="/app/1386510/">How to Win: Season One</a></td>
+<td data-sort="71.55">71.55%</td>
+<td data-sort="47">47</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1339420" data-cache="1614863322">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1339420/capsule_sm_120.jpg?t=1614863322" alt="">
+</td>
+<td class="text-left"><a href="/app/1339420/">Tommy's Tragedy</a></td>
+<td data-sort="63.45">63.45%</td>
+<td data-sort="46">46</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1141550" data-cache="1618874622">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1141550/capsule_sm_120.jpg?t=1618874622" alt="">
+</td>
+<td class="text-left"><a href="/app/1141550/">CUCKOLD SIMULATOR: Life as a Beta Male Cuck</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="46">46</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1467830" data-cache="1618853945">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1467830/capsule_sm_120.jpg?t=1618853945" alt="">
+</td>
+<td class="text-left"><a href="/app/1467830/">SIIMI</a></td>
+<td data-sort="76.34">76.34%</td>
+<td data-sort="45">45</td>
+<td data-sort="1">1</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1254770" data-cache="1614960972">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1254770/capsule_sm_120.jpg?t=1614960972" alt="">
+</td>
+<td class="text-left"><a href="/app/1254770/">Haulin' Oats</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="45">45</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1493810" data-cache="1615872522">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1493810/capsule_sm_120.jpg?t=1615872522" alt="">
+</td>
+<td class="text-left"><a href="/app/1493810/">Sillyfun Valley</a></td>
+<td data-sort="69.44">69.44%</td>
+<td data-sort="44">44</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1529720" data-cache="1615336071">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1529720/capsule_sm_120.jpg?t=1615336071" alt="">
+</td>
+<td class="text-left"><a href="/app/1529720/">Sherlock Holmes: Finding the Rooster</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="43">43</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1278000" data-cache="1616098449">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1278000/capsule_sm_120.jpg?t=1616098449" alt="">
+</td>
+<td class="text-left"><a href="/app/1278000/">HistoryMaker VR</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="43">43</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1271340" data-cache="1614542478">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1271340/capsule_sm_120.jpg?t=1614542478" alt="">
+</td>
+<td class="text-left"><a href="/app/1271340/">Cat President 2: Purrlitical Revolution</a></td>
+<td data-sort="74.19">74.19%</td>
+<td data-sort="40">40</td>
+<td data-sort="0">0</td>
+<td data-sort="4">4</td>
+</tr><tr class="app" data-appid="890470" data-cache="1552521729">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/890470/capsule_sm_120.jpg?t=1552521729" alt="">
+</td>
+<td class="text-left"><a href="/app/890470/">Slave Master: The Game</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="39">39</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="855100" data-cache="1614454427">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/855100/capsule_sm_120.jpg?t=1614454427" alt="">
+</td>
+<td class="text-left"><a href="/app/855100/">Stop! Dictator Kim Jong-un</a></td>
+<td data-sort="60.76">60.76%</td>
+<td data-sort="38">38</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1470900" data-cache="1613296489">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1470900/capsule_sm_120.jpg?t=1613296489" alt="">
+</td>
+<td class="text-left"><a href="/app/1470900/">Roscosmas Landing</a></td>
+<td data-sort="76.58">76.58%</td>
+<td data-sort="37">37</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1336910" data-cache="1610960110">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1336910/capsule_sm_120.jpg?t=1610960110" alt="">
+</td>
+<td class="text-left"><a href="/app/1336910/">Space Launch Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="37">37</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1261000" data-cache="1605400063">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1261000/capsule_sm_120.jpg?t=1605400063" alt="">
+</td>
+<td class="text-left"><a href="/app/1261000/">Spoon Simulator 2020</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="37">37</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1260570" data-cache="1597968798">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1260570/capsule_sm_120.jpg?t=1597968798" alt="">
+</td>
+<td class="text-left"><a href="/app/1260570/">Симулятор Посадки на Бутылку</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="37">37</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1527090" data-cache="1613140919">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1527090/capsule_sm_120.jpg?t=1613140919" alt="">
+</td>
+<td class="text-left"><a href="/app/1527090/">Cat's Menace</a></td>
+<td data-sort="59.97">59.97%</td>
+<td data-sort="36">36</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1201220" data-cache="1603704387">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1201220/capsule_sm_120.jpg?t=1603704387" alt="">
+</td>
+<td class="text-left"><a href="/app/1201220/">Afterbern Democralypse</a></td>
+<td data-sort="59.97">59.97%</td>
+<td data-sort="36">36</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1538620" data-cache="1617820304">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1538620/capsule_sm_120.jpg?t=1617820304" alt="">
+</td>
+<td class="text-left"><a href="/app/1538620/">Zoo Cleaner</a></td>
+<td data-sort="59.10">59.10%</td>
+<td data-sort="35">35</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1362400" data-cache="1614623817">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1362400/capsule_sm_120.jpg?t=1614623817" alt="">
+</td>
+<td class="text-left"><a href="/app/1362400/">Critical Zone</a></td>
+<td data-sort="76.90">76.90%</td>
+<td data-sort="35">35</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="806150" data-cache="1612282253">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/806150/capsule_sm_120.jpg?t=1612282253" alt="">
+</td>
+<td class="text-left"><a href="/app/806150/">Bloody and cruel story of toys</a></td>
+<td data-sort="38.05">38.05%</td>
+<td data-sort="35">35</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1449290" data-cache="1617958344">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1449290/capsule_sm_120.jpg?t=1617958344" alt="">
+</td>
+<td class="text-left"><a href="/app/1449290/">Revizor</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="32">32</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1372460" data-cache="1615934844">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1372460/capsule_sm_120.jpg?t=1615934844" alt="">
+</td>
+<td class="text-left"><a href="/app/1372460/">AaaaaAAaaaAAAaaAAAAaAAAAA!!!</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="32">32</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1589610" data-cache="1617416102">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1589610/capsule_sm_120.jpg?t=1617416102" alt="">
+</td>
+<td class="text-left"><a href="/app/1589610/">The Frogs</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="30">30</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="417570" data-cache="1533728303">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/417570/capsule_sm_120.jpg?t=1533728303" alt="">
+</td>
+<td class="text-left"><a href="/app/417570/">This is Spinal Tap</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="30">30</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1356640" data-cache="1613986602">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1356640/capsule_sm_120.jpg?t=1613986602" alt="">
+</td>
+<td class="text-left"><a href="/app/1356640/">Magical Cat Cafe and Heroes</a></td>
+<td data-sort="32.94">32.94%</td>
+<td data-sort="29">29</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1519180" data-cache="1612008742">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1519180/capsule_sm_120.jpg?t=1612008742" alt="">
+</td>
+<td class="text-left"><a href="/app/1519180/">President Rocket Game</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="28">28</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1205370" data-cache="1613374199">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1205370/capsule_sm_120.jpg?t=1613374199" alt="">
+</td>
+<td class="text-left"><a href="/app/1205370/">Asset Flip Tycoon Simulator</a></td>
+<td data-sort="70.84">70.84%</td>
+<td data-sort="28">28</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="783430" data-cache="1616883458">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/783430/capsule_sm_120.jpg?t=1616883458" alt="">
+</td>
+<td class="text-left"><a href="/app/783430/">Gatlin'</a></td>
+<td data-sort="65.42">65.42%</td>
+<td data-sort="27">27</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1497110" data-cache="1618689113">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1497110/capsule_sm_120.jpg?t=1618689113" alt="">
+</td>
+<td class="text-left"><a href="/app/1497110/">Melodramatica</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="26">26</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1317120" data-cache="1609137260">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1317120/capsule_sm_120.jpg?t=1609137260" alt="">
+</td>
+<td class="text-left"><a href="/app/1317120/">Yuri Ogibalov's Bizarre Adventure</a></td>
+<td data-sort="69.20">69.20%</td>
+<td data-sort="26">26</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1076050" data-cache="1599846913">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1076050/capsule_sm_120.jpg?t=1599846913" alt="">
+</td>
+<td class="text-left"><a href="/app/1076050/">Run Jump Rabbit Turtle</a></td>
+<td data-sort="69.20">69.20%</td>
+<td data-sort="26">26</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1359640" data-cache="1618035577">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1359640/capsule_sm_120.jpg?t=1618035577" alt="">
+</td>
+<td class="text-left"><a href="/app/1359640/">Carmine Impact</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="25">25</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1275850" data-cache="1611548232">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1275850/capsule_sm_120.jpg?t=1611548232" alt="">
+</td>
+<td class="text-left"><a href="/app/1275850/">Frog Space</a></td>
+<td data-sort="44.86">44.86%</td>
+<td data-sort="25">25</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="964170" data-cache="1595291725">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/964170/capsule_sm_120.jpg?t=1595291725" alt="">
+</td>
+<td class="text-left"><a href="/app/964170/">PomboTroll</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="25">25</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1544510" data-cache="1617291053">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1544510/capsule_sm_120.jpg?t=1617291053" alt="">
+</td>
+<td class="text-left"><a href="/app/1544510/">Симулятор Сидения на Крыше</a></td>
+<td data-sort="64.78">64.78%</td>
+<td data-sort="23">23</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1401890" data-cache="1618784252">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1401890/capsule_sm_120.jpg?t=1618784252" alt="">
+</td>
+<td class="text-left"><a href="/app/1401890/">Glorious Tournius</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="23">23</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1186960" data-cache="1576473802">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1186960/capsule_sm_120.jpg?t=1576473802" alt="">
+</td>
+<td class="text-left"><a href="/app/1186960/">Cowboys vs Hipsters</a></td>
+<td data-sort="62.51">62.51%</td>
+<td data-sort="23">23</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1059990" data-cache="1618780694">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1059990/capsule_sm_120.jpg?t=1618780694" alt="">
+</td>
+<td class="text-left"><a href="/app/1059990/">Trombone Champ</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="23">23</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="744610" data-cache="1610151357">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/744610/capsule_sm_120.jpg?t=1610151357" alt="">
+</td>
+<td class="text-left"><a href="/app/744610/">TAD: That Alien Dude</a></td>
+<td data-sort="37.49">37.49%</td>
+<td data-sort="23">23</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1524530" data-cache="1618923420">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1524530/capsule_sm_120.jpg?t=1618923420" alt="">
+</td>
+<td class="text-left"><a href="/app/1524530/">Fantasy Town Regional Manager</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="22">22</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1446370" data-cache="1618954797">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1446370/capsule_sm_120.jpg?t=1618954797" alt="">
+</td>
+<td class="text-left"><a href="/app/1446370/">Super Marxist Twins</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="22">22</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1394060" data-cache="1601529389">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1394060/capsule_sm_120.jpg?t=1601529389" alt="">
+</td>
+<td class="text-left"><a href="/app/1394060/">Viking Idle</a></td>
+<td data-sort="46.68">46.68%</td>
+<td data-sort="22">22</td>
+<td data-sort="0">0</td>
+<td data-sort="5">5</td>
+</tr><tr class="app" data-appid="1384440" data-cache="1598719840">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1384440/capsule_sm_120.jpg?t=1598719840" alt="">
+</td>
+<td class="text-left"><a href="/app/1384440/">The Call Centre</a></td>
+<td data-sort="50.00">50.00%</td>
+<td data-sort="21">21</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1212250" data-cache="1614913435">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1212250/capsule_sm_120.jpg?t=1614913435" alt="">
+</td>
+<td class="text-left"><a href="/app/1212250/">Kony 2020</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="19">19</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1429200" data-cache="1608417315">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1429200/capsule_sm_120.jpg?t=1608417315" alt="">
+</td>
+<td class="text-left"><a href="/app/1429200/">Симулятор Купания в Фонтане</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="18">18</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="421500" data-cache="1533728330">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/421500/capsule_sm_120.jpg?t=1533728330" alt="">
+</td>
+<td class="text-left"><a href="/app/421500/">Scary Movie 2</a></td>
+<td data-sort="40.58">40.58%</td>
+<td data-sort="18">18</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1486910" data-cache="1608756874">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1486910/capsule_sm_120.jpg?t=1608756874" alt="">
+</td>
+<td class="text-left"><a href="/app/1486910/">Console Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="17">17</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1486900" data-cache="1611217042">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1486900/capsule_sm_120.jpg?t=1611217042" alt="">
+</td>
+<td class="text-left"><a href="/app/1486900/">18 ЕСТЬ?</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="17">17</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1236580" data-cache="1601402844">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1236580/capsule_sm_120.jpg?t=1601402844" alt="">
+</td>
+<td class="text-left"><a href="/app/1236580/">Tritium</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="17">17</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1527240" data-cache="1615075491">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1527240/capsule_sm_120.jpg?t=1615075491" alt="">
+</td>
+<td class="text-left"><a href="/app/1527240/">Ferris Wheel Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1514290" data-cache="1616713792">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1514290/capsule_sm_120.jpg?t=1616713792" alt="">
+</td>
+<td class="text-left"><a href="/app/1514290/">Kazakh 'Jack</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1504450" data-cache="1615607727">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1504450/capsule_sm_120.jpg?t=1615607727" alt="">
+</td>
+<td class="text-left"><a href="/app/1504450/">Lost Assassin</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1451980" data-cache="1607249407">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1451980/capsule_sm_120.jpg?t=1607249407" alt="">
+</td>
+<td class="text-left"><a href="/app/1451980/">Taiwan Richman</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1364160" data-cache="1597968810">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1364160/capsule_sm_120.jpg?t=1597968810" alt="">
+</td>
+<td class="text-left"><a href="/app/1364160/">Flying Sofa Simulator</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1362120" data-cache="1618295952">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1362120/capsule_sm_120.jpg?t=1618295952" alt="">
+</td>
+<td class="text-left"><a href="/app/1362120/">PIGROMANCE</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="867530" data-cache="1614442307">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/867530/capsule_sm_120.jpg?t=1614442307" alt="">
+</td>
+<td class="text-left"><a href="/app/867530/">Party Poopers</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="16">16</td>
+<td data-sort="0">0</td>
+<td data-sort="6">6</td>
+</tr><tr class="app" data-appid="1517490" data-cache="1613011021">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1517490/capsule_sm_120.jpg?t=1613011021" alt="">
+</td>
+<td class="text-left"><a href="/app/1517490/">Peaceful Gunner</a></td>
+<td data-sort="72.17">72.17%</td>
+<td data-sort="15">15</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1393450" data-cache="1615457912">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1393450/capsule_sm_120.jpg?t=1615457912" alt="">
+</td>
+<td class="text-left"><a href="/app/1393450/">Shanghai Office Simulator: Prologue</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="15">15</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="421510" data-cache="1533728330">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/421510/capsule_sm_120.jpg?t=1533728330" alt="">
+</td>
+<td class="text-left"><a href="/app/421510/">Scary Movie 3</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="15">15</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="421520" data-cache="1533728330">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/421520/capsule_sm_120.jpg?t=1533728330" alt="">
+</td>
+<td class="text-left"><a href="/app/421520/">Scary Movie 3.5</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="14">14</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1532520" data-cache="1618810879">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1532520/capsule_sm_120.jpg?t=1618810879" alt="">
+</td>
+<td class="text-left"><a href="/app/1532520/">Day Repeat Day</a></td>
+<td data-sort="70.84">70.84%</td>
+<td data-sort="13">13</td>
+<td data-sort="0">0</td>
+<td data-sort="3">3</td>
+</tr><tr class="app" data-appid="1450610" data-cache="1604333362">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1450610/capsule_sm_120.jpg?t=1604333362" alt="">
+</td>
+<td class="text-left"><a href="/app/1450610/">Punch the Potus</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="13">13</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="419310" data-cache="1533728312">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/419310/capsule_sm_120.jpg?t=1533728312" alt="">
+</td>
+<td class="text-left"><a href="/app/419310/">Don't Be a Menace to South Central While Drinking Your Juice in the Hood</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="13">13</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1446560" data-cache="1617554632">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1446560/capsule_sm_120.jpg?t=1617554632" alt="">
+</td>
+<td class="text-left"><a href="/app/1446560/">Where's My Lunch?</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="12">12</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1407520" data-cache="1611945010">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1407520/capsule_sm_120.jpg?t=1611945010" alt="">
+</td>
+<td class="text-left"><a href="/app/1407520/">Television Trivia</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="12">12</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1316330" data-cache="1614542580">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1316330/capsule_sm_120.jpg?t=1614542580" alt="">
+</td>
+<td class="text-left"><a href="/app/1316330/">Quarantine Cutz</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="12">12</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1370550" data-cache="1599336677">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1370550/capsule_sm_120.jpg?t=1599336677" alt="">
+</td>
+<td class="text-left"><a href="/app/1370550/">Circles of Hell</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="11">11</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1200160" data-cache="1576301218">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1200160/capsule_sm_120.jpg?t=1576301218" alt="">
+</td>
+<td class="text-left"><a href="/app/1200160/">Pivot</a></td>
+<td data-sort="69.20">69.20%</td>
+<td data-sort="11">11</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="541460" data-cache="1533728936">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/541460/capsule_sm_120.jpg?t=1533728936" alt="">
+</td>
+<td class="text-left"><a href="/app/541460/">The People Vs. George Lucas</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="11">11</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1286860" data-cache="1596045501">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1286860/capsule_sm_120.jpg?t=1596045501" alt="">
+</td>
+<td class="text-left"><a href="/app/1286860/">Fraggin Halls VR</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="10">10</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="538260" data-cache="1533728918">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/538260/capsule_sm_120.jpg?t=1533728918" alt="">
+</td>
+<td class="text-left"><a href="/app/538260/">Don Verdean</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="10">10</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1593250" data-cache="1618882891">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1593250/capsule_sm_120.jpg?t=1618882891" alt="">
+</td>
+<td class="text-left"><a href="/app/1593250/">One Day of an Insurance Agent</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="9">9</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1588610" data-cache="1618057643">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1588610/capsule_sm_120.jpg?t=1618057643" alt="">
+</td>
+<td class="text-left"><a href="/app/1588610/">Beers and Boomerangs</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="9">9</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1476930" data-cache="1617855072">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1476930/capsule_sm_120.jpg?t=1617855072" alt="">
+</td>
+<td class="text-left"><a href="/app/1476930/">Political Fight Club</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="9">9</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1509210" data-cache="1613918291">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1509210/capsule_sm_120.jpg?t=1613918291" alt="">
+</td>
+<td class="text-left"><a href="/app/1509210/">Food Stranding</a></td>
+<td data-sort="54.17">54.17%</td>
+<td data-sort="8">8</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1601590" data-cache="1618494085">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1601590/capsule_sm_120.jpg?t=1618494085" alt="">
+</td>
+<td class="text-left"><a href="/app/1601590/">Freiwillig</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="6">6</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1577690" data-cache="1616285642">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1577690/capsule_sm_120.jpg?t=1616285642" alt="">
+</td>
+<td class="text-left"><a href="/app/1577690/">Video Game Fables</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="6">6</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1460910" data-cache="1616839253">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1460910/capsule_sm_120.jpg?t=1616839253" alt="">
+</td>
+<td class="text-left"><a href="/app/1460910/">Flippen Run Mike</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="6">6</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1335600" data-cache="1595185233">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1335600/capsule_sm_120.jpg?t=1595185233" alt="">
+</td>
+<td class="text-left"><a href="/app/1335600/">Tiny T</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="6">6</td>
+<td data-sort="0">0</td>
+<td data-sort="1">1</td>
+</tr><tr class="app" data-appid="1591500" data-cache="1618992946">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1591500/capsule_sm_120.jpg?t=1618992946" alt="">
+</td>
+<td class="text-left"><a href="/app/1591500/">猫头鹰和灯塔</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="5">5</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1562760" data-cache="1618568818">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1562760/capsule_sm_120.jpg?t=1618568818" alt="">
+</td>
+<td class="text-left"><a href="/app/1562760/">音符之光传说</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="5">5</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1529730" data-cache="1615567661">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1529730/capsule_sm_120.jpg?t=1615567661" alt="">
+</td>
+<td class="text-left"><a href="/app/1529730/">DOOMER SIMULATOR</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="5">5</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1509130" data-cache="1611076172">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1509130/capsule_sm_120.jpg?t=1611076172" alt="">
+</td>
+<td class="text-left"><a href="/app/1509130/">Corona Frustration Elimination</a></td>
+<td data-sort="67.06">67.06%</td>
+<td data-sort="5">5</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1191690" data-cache="1603752710">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1191690/capsule_sm_120.jpg?t=1603752710" alt="">
+</td>
+<td class="text-left"><a href="/app/1191690/">Skull Head World</a></td>
+<td data-sort="64.08">64.08%</td>
+<td data-sort="5">5</td>
+<td data-sort="0">0</td>
+<td data-sort="2">2</td>
+</tr><tr class="app" data-appid="1602590" data-cache="1618695693">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1602590/capsule_sm_120.jpg?t=1618695693" alt="">
+</td>
+<td class="text-left"><a href="/app/1602590/">Kaiju Crush</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="4">4</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1592900" data-cache="1618830949">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1592900/capsule_sm_120.jpg?t=1618830949" alt="">
+</td>
+<td class="text-left"><a href="/app/1592900/">PrisonShow</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3">3</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1582680" data-cache="1618416607">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1582680/capsule_sm_120.jpg?t=1618416607" alt="">
+</td>
+<td class="text-left"><a href="/app/1582680/">The Trolley Company</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3">3</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1574020" data-cache="1616461208">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1574020/capsule_sm_120.jpg?t=1616461208" alt="">
+</td>
+<td class="text-left"><a href="/app/1574020/">Automation* of Sorts</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="3">3</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1591360" data-cache="1618966164">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1591360/capsule_sm_120.jpg?t=1618966164" alt="">
+</td>
+<td class="text-left"><a href="/app/1591360/">Slime Kingdom - An Unlikely Adventure!</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2">2</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1532410" data-cache="1616793812">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1532410/capsule_sm_120.jpg?t=1616793812" alt="">
+</td>
+<td class="text-left"><a href="/app/1532410/">VanillaBeast: Ace in the Hole</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="2">2</td>
+<td data-sort="0">0</td>
+<td data-sort="0">0</td>
+</tr><tr class="app" data-appid="1610730" data-cache="1618954890">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1610730/capsule_sm_120.jpg?t=1618954890" alt="">
+</td>
+<td class="text-left"><a href="/app/1610730/">Fallen from the sky</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1559260" data-cache="1617673298">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1559260/capsule_sm_120.jpg?t=1617673298" alt="">
+</td>
+<td class="text-left"><a href="/app/1559260/">Escape from Brown Science Industries</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1396920" data-cache="1619003382">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1396920/capsule_sm_120.jpg?t=1619003382" alt="">
+</td>
+<td class="text-left"><a href="/app/1396920/">No one lives in heaven - Real Time DLC</a></td>
+<td data-sort="59.42">59.42%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1310290" data-cache="1598726991">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1310290/capsule_sm_120.jpg?t=1598726991" alt="">
+</td>
+<td class="text-left"><a href="/app/1310290/">Open World Game: the Open World Game — The Gratuitous DLC</a></td>
+<td data-sort="76.90">76.90%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1251610" data-cache="1607368195">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1251610/capsule_sm_120.jpg?t=1607368195" alt="">
+</td>
+<td class="text-left"><a href="/app/1251610/">Progress Bar Simulator - H.O.R.S.E. 1st</a></td>
+<td data-sort="-1" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1220610" data-cache="1618187224">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1220610/capsule_sm_120.jpg?t=1618187224" alt="">
+</td>
+<td class="text-left"><a href="/app/1220610/">Bed Lying Simulator: Girlfriend Experience</a></td>
+<td data-sort="67.06">67.06%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr><tr class="app" data-appid="1216640" data-cache="1617539181">
+<td class="applogo text-left">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1216640/capsule_sm_120.jpg?t=1617539181" alt="">
+</td>
+<td class="text-left"><a href="/app/1216640/">Симулятор Сидения у Подъезда: Online</a></td>
+<td data-sort="70.33">70.33%</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+<td data-sort="0" class="muted">-</td>
+</tr></tbody>
+</table><div class="dataTables_info_container text-center"><div class="dataTables_info" id="table-apps_info" role="status" aria-live="polite">Showing 1 to 299 of 299 entries</div></div><div class="dataTables_paginate paging_simple_numbers" id="table-apps_paginate"><nav class="pagination" aria-label="Pagination"><a class="paginate_button previous disabled" id="table-apps_previous" href="#" aria-controls="table-apps" data-dt-idx="0" tabindex="0">Previous</a><a class="paginate_button active" href="#" aria-controls="table-apps" data-dt-idx="1" tabindex="0">1</a><a class="paginate_button next disabled" id="table-apps_next" href="#" aria-controls="table-apps" data-dt-idx="2" tabindex="0">Next</a></nav></div></div>
+</div>
+<a href="/tag/1651/?all">View all apps without limiting</a> <i>(requires to be signed in)</i><script nonce="" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" src="/static/js/vendor/jquery.js?v=f3de1813a4160f92"></script><script nonce="" integrity="sha512-1ldJgrhlWJ6exKxNHUerSVIPmf3O9LShj8j9haz0y6qy7G88aJg8Iu+RWXf9MZ9s3zhh2cFdjY/S8Ov6+fWmrw==" src="/static/js/vendor/dataTables.js?v=d6574982b865589e"></script>
+<script nonce="">(function()
+{
+var cdnUrl = $( document.body ).data( 'steam-cdn' );
+$( '#table-apps' ).DataTable({
+orderClasses: false,
+autoWidth: false,
+pageLength: 100,
+stripeClasses: [],
+lengthMenu:
+[
+[ 25, 50, 100, 250, 1000, 5000, -1 ],
+[ 25, 50, 100, 250, '1K', '5K', 'All (slow)' ]
+],
+initComplete: function( )
+{
+$( this )
+.find( 'tfoot' ).remove().end()
+.find( 'tbody' ).prop( 'hidden', false );
+},
+rowCallback: function( row )
+{
+row = $( row );
+if( row.data( 'loaded' ) )
+{
+return;
+}
+row
+.data( 'loaded', true )
+.find( '.applogo img' )
+.one( 'error', function()
+{
+$( this ).attr( 'src', '/static/img/applogo.svg' );
+} )
+.attr( 'src', cdnUrl + 'steam/apps/' + row.data( 'appid' ) + '/capsule_sm_120.jpg?t=' + row.data( 'cache' ) );
+}
+});
+}());
+</script>
+</div>
+</div>
+<div class="footer" role="contentinfo" id="steamdb-org" itemscope="" itemtype="http://schema.org/Organization" itemprop="publisher">
+<meta itemprop="name" content="Steam Database">
+<meta itemprop="alternateName" content="SteamDB">
+<meta itemprop="url" content="https://steamdb.info/">
+<span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://steamdb.info/static/logos/512px.png">
+<meta itemprop="width" content="512">
+<meta itemprop="height" content="512">
+</span>
+<div class="container">
+<div class="row">
+<div class="span9 footer-attribution">
+<div class="footer-steamdb">Steam Database</div>
+<div>By <a href="https://xpaw.me">xPaw</a> and <a href="https://marlamin.com/">Marlamin</a></div>
+<div class="footer-third-party">SteamDB is a community website and is not affiliated with Valve or Steam.<br>All times on the site are UTC.</div>
+<a href="/?dark=0" id="dark-mode-toggle" rel="nofollow"><span class="dark-mode-slider"></span> <span class="dark-mode-disabled">Enable dark mode</span><span class="dark-mode-enabled">Disable dark mode</span></a>
+</div>
+<div class="span3">
+<a class="btn-social" href="https://twitter.com/intent/follow?screen_name=SteamDB" itemprop="sameAs">
+<svg viewBox="0 0 32 32" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path d="M31.993 6.077c-1.177.523-2.44.876-3.77 1.033 1.355-.812 2.396-2.098 2.887-3.63-1.27.75-2.673 1.3-4.168 1.592C25.744 3.797 24.038 3 22.15 3c-3.626 0-6.563 2.938-6.563 6.563 0 .514.057 1.016.17 1.496C10.3 10.784 5.464 8.17 2.226 4.2c-.564.97-.888 2.098-.888 3.3 0 2.28 1.158 4.287 2.918 5.465-1.075-.035-2.087-.33-2.972-.82v.08c0 3.182 2.26 5.835 5.264 6.438-.55.15-1.13.23-1.73.23-.423 0-.833-.04-1.233-.117.834 2.606 3.26 4.504 6.13 4.558-2.245 1.76-5.075 2.81-8.15 2.81-.53 0-1.053-.03-1.566-.09C2.906 27.913 6.356 29 10.063 29c12.072 0 18.675-10 18.675-18.675 0-.284-.008-.568-.02-.85 1.283-.925 2.395-2.08 3.276-3.398z"></path>
+</svg>
+<span class="btn-social-title">Follow @SteamDB</span>
+</a>
+<a class="btn-social" href="https://twitter.com/intent/follow?screen_name=thexpaw">
+<svg viewBox="0 0 32 32" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path d="M31.993 6.077c-1.177.523-2.44.876-3.77 1.033 1.355-.812 2.396-2.098 2.887-3.63-1.27.75-2.673 1.3-4.168 1.592C25.744 3.797 24.038 3 22.15 3c-3.626 0-6.563 2.938-6.563 6.563 0 .514.057 1.016.17 1.496C10.3 10.784 5.464 8.17 2.226 4.2c-.564.97-.888 2.098-.888 3.3 0 2.28 1.158 4.287 2.918 5.465-1.075-.035-2.087-.33-2.972-.82v.08c0 3.182 2.26 5.835 5.264 6.438-.55.15-1.13.23-1.73.23-.423 0-.833-.04-1.233-.117.834 2.606 3.26 4.504 6.13 4.558-2.245 1.76-5.075 2.81-8.15 2.81-.53 0-1.053-.03-1.566-.09C2.906 27.913 6.356 29 10.063 29c12.072 0 18.675-10 18.675-18.675 0-.284-.008-.568-.02-.85 1.283-.925 2.395-2.08 3.276-3.398z"></path>
+</svg>
+<span class="btn-social-title">Follow @thexpaw</span>
+</a>
+<a class="btn-social" href="/discord/" rel="nofollow">
+<svg viewBox="0 0 24 24" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path d="M20.222 0c1.406 0 2.54 1.137 2.607 2.475V24l-2.677-2.273-1.47-1.338-1.604-1.398.67 2.205H3.71c-1.402 0-2.54-1.065-2.54-2.476V2.48C1.17 1.142 2.31.003 3.715.003h16.5L20.222 0zm-6.118 5.683h-.03l-.202.2c2.073.6 3.076 1.537 3.076 1.537-1.336-.668-2.54-1.002-3.744-1.137-.87-.135-1.74-.064-2.475 0h-.2c-.47 0-1.47.2-2.81.735-.467.203-.735.336-.735.336s1.002-1.002 3.21-1.537l-.135-.135s-1.672-.064-3.477 1.27c0 0-1.805 3.144-1.805 7.02 0 0 1 1.74 3.743 1.806 0 0 .4-.533.805-1.002-1.54-.468-2.14-1.404-2.14-1.404s.134.066.335.2h.06c.03 0 .044.015.06.03v.006c.016.016.03.03.06.03.33.136.66.27.93.4.466.202 1.065.403 1.8.536.93.135 1.996.2 3.21 0 .6-.135 1.2-.267 1.8-.535.39-.2.87-.4 1.397-.737 0 0-.6.936-2.205 1.404.33.466.795 1 .795 1 2.744-.06 3.81-1.8 3.87-1.726 0-3.87-1.815-7.02-1.815-7.02-1.635-1.214-3.165-1.26-3.435-1.26l.056-.02zm.168 4.413c.703 0 1.27.6 1.27 1.335 0 .74-.57 1.34-1.27 1.34-.7 0-1.27-.6-1.27-1.334.002-.74.573-1.338 1.27-1.338zm-4.543 0c.7 0 1.266.6 1.266 1.335 0 .74-.57 1.34-1.27 1.34-.7 0-1.27-.6-1.27-1.334 0-.74.57-1.338 1.27-1.338z"></path>
+</svg>
+<span class="btn-social-title">Join our Discord</span>
+</a>
+<a class="btn-social" href="https://steamcommunity.com/groups/steamdb" itemprop="sameAs">
+<svg viewBox="0 0 16 16" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path d="M8 0a8 8 0 00-8 7.47c.07.1.13.21.18.32l4.15 1.67a2.2 2.2 0 011.31-.36l1.97-2.8v-.04c0-1.65 1.37-3 3.05-3a3.03 3.03 0 013.05 3 3.03 3.03 0 01-3.12 3l-2.81 1.97c0 .3-.05.6-.17.9a2.25 2.25 0 01-4.23-.37L.4 10.56A8.01 8.01 0 108 0zm2.66 4.27c-1.12 0-2.03.9-2.03 2s.91 1.99 2.03 1.99c1.12 0 2.03-.9 2.03-2s-.9-2-2.03-2zm0 .5c.85 0 1.53.66 1.53 1.49s-.68 1.5-1.53 1.5c-.84 0-1.52-.67-1.52-1.5s.68-1.5 1.52-1.5zM5.57 9.6c-.22 0-.43.04-.62.11l1.02.42c.65.26.95.99.68 1.62-.27.63-1 .93-1.65.67l-1-.4a1.73 1.73 0 003.13-.08c.18-.42.18-.88.01-1.3A1.69 1.69 0 005.57 9.6z"></path>
+</svg>
+<span class="btn-social-title">Join our Steam Group</span>
+</a>
+<a class="btn-social" href="https://github.com/SteamDatabase" itemprop="sameAs">
+<svg viewBox="0 0 16 16" width="60" height="24" class="btn-social-icon" aria-hidden="true">
+<path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+<span class="btn-social-title">View our GitHub</span>
+</a>
+<a class="btn-social" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2143864906" rel="nofollow" style="color:#ffc83d">
+<svg viewBox="0 0 13 21" xmlns="http://www.w3.org/2000/svg" height="24" width="60" class="btn-social-icon" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.8.2l-.6.42c-.24.15-.5.23-.81.2L3.93.73c-.5-.04-.97.19-1.2.65l-.3.65c-.16.27-.35.47-.62.58l-.42.2c-.46.19-.73.65-.7 1.15l.05.73c.03.3-.04.54-.24.77l-.26.39c-.31.38-.31.92-.04 1.34l.42.62c.15.23.2.5.2.8l-.08.47c-.04.5.19.96.65 1.2l.65.3c.27.15.46.35.58.62l.15.42c.23.46.66.73 1.2.7l.72-.05c.27-.04.54.04.77.23l.39.27c.38.31.92.31 1.34.04l.62-.42c.23-.16.5-.2.77-.2l.46.08c.5.04 1-.19 1.19-.65l.34-.66c.12-.27.31-.46.58-.57l.42-.16c.46-.23.77-.65.73-1.19l-.04-.73a.97.97 0 01.24-.77l.26-.39c.31-.38.31-.92.04-1.34l-.42-.62a1.1 1.1 0 01-.2-.77l.08-.46c.04-.5-.19-1-.65-1.2l-.65-.34c-.27-.12-.46-.3-.58-.58l-.2-.42C10 .97 9.55.66 9.05.7L8.3.74A.93.93 0 017.54.5L7.15.24C6.77-.07 6.23-.07 5.81.2zm.7 2.5a3.82 3.82 0 10-.04 7.65A3.82 3.82 0 006.5 2.7z"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.04 12.78v7.32l3.46-2.47 3.46 2.47v-7.32c-.3.12-.65.2-1 .16l-.42-.08a.65.65 0 00-.39.12l-.61.38c-.66.42-1.46.42-2.12-.04l-.34-.3c-.12-.08-.23-.08-.35-.08l-.73.04c-.34 0-.69-.04-.96-.2z"></path>
+</svg>
+<span class="btn-social-title">Give a Steam Award</span>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="span12 footer-menu hide-small">
+<ul>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/faq/">FAQ &amp; Help</a></li>
+<li><a href="/sales/">Sales</a></li>
+<li><a href="/calculator/">Calculator</a></li>
+<li><a href="/donate/">Donate</a></li>
+<li><a href="/graph/">Charts</a></li>
+</ul>
+<ul>
+<li><a href="/apps/">Apps</a></li>
+<li><a href="/subs/">Packages</a></li>
+<li><a href="/bundles/">Bundles</a></li>
+<li><a href="/history/">History</a></li>
+<li><a href="/instantsearch/">Instant Search</a></li>
+<li><a href="/servers/">Valve MM Servers</a></li>
+</ul>
+<ul>
+<li><a href="/realtime/">Realtime Updates</a></li>
+<li><a href="/pricechanges/">Price Tracking</a></li>
+<li><a href="/tags/">Tags</a></li>
+<li><a href="/upcoming/">Upcoming</a></li>
+<li><a href="/upcoming/mostfollowed/">Most Followed Upcoming</a></li>
+<li><a href="/calendar/">Release Calendar</a></li>
+</ul>
+<ul>
+<li><a href="/stats/gameratings/">Top Rated Games</a></li>
+<li><a href="/badge/13/">Top Game Owners</a></li>
+<li><a href="/stats/toplevels/">Top Steam Levels</a></li>
+<li><a href="/topsellers/">Top Selling Games</a></li>
+<li><a href="/stats/mostfollowed/">Most Followed Games</a></li>
+<li><a href="/badges/">Badges</a></li>
+</ul>
+<ul>
+<li><a href="/sales/history/">When is next sale?</a></li>
+<li><a href="/patchnotes/">Patch notes</a></li>
+<li><a href="/upcoming/free/">Free Promotions</a></li>
+<li><a href="/freepackages/">Free Packages</a></li>
+<li><a href="https://steamstat.us/">Steam Status</a></li>
+<li><a href="https://steamapi.xpaw.me/">Steam Web API</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-copyright">
+<div class="container">Steam and the Steam logo are trademarks of Valve Corporation. All other trademarks are property of their respective owners. <a href="/faq/#what-steamdb-is-not">Fair use disclaimer</a></div>
+</div>
+</div>
+<div class="hover" id="js-hover" hidden=""></div>
+<script nonce="" integrity="sha512-qAFfbfGmF7m39gd3Ot1xaQ3VqZoDCeGQyeX/19ntvAojZtDc10C6v/UyX54MlRwo7oKNfGq6BTPbFpn6oehdPQ==" src="/static/js/footer.js?v=a8015f6df1a617b9" defer=""></script><script nonce="" integrity="sha512-35WB2glFrhhc/0w/rM/WzEyehnIjcC6G+rf26F5wK+Vg9HAY0neIBsxySUSxctUOW/oOfb08i0LaZwX3HvZ7iQ==" src="/static/js/hover.js?v=df9581da0945ae18" defer=""></script>
+<noscript class="extension-warning"><svg version="1.1" width="32" height="32" viewBox="0 0 16 16" class="octicon octicon-alert" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg> For SteamDB to function correctly you must enable JavaScript.</noscript>
+
+</body></html>
